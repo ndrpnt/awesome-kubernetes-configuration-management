@@ -450,6 +450,18 @@ _raw_config_tools: [
 			{text: "Steward", repo:             "projectsyn/steward"},
 		]
 	},
+	{
+		name: {text: "Score", repo: "score-spec/spec"}
+		features: ["G", "L"]
+		languages: ["YAML"]
+		info: related: [
+			{text: "Helm integration", repo: "score-spec/score-helm"},
+		]
+	},
+	{
+		name: {text: "Kratix", repo: "syntasso/kratix"}
+		features: ["G", "D", "I"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

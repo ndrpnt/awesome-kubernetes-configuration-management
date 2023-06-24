@@ -58,6 +58,7 @@
 | [kr8](https://github.com/apptio/kr8) | GL | Jsonnet | |
 | [kraan](https://github.com/fidelity/kraan) | DI | | |
 | [krane](https://github.com/Shopify/krane) | GDL | ERB (Ruby templating) | |
+| [Kratix](https://github.com/syntasso/kratix) | GDI | | |
 | [ksonnet](https://github.com/ksonnet/ksonnet) | GVDSL | Jsonnet | Abandoned; Related: [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib); |
 | [ktmpl](https://github.com/jimmycuadra/ktmpl) | GL | | Abandoned; |
 | [kube-applier](https://github.com/box/kube-applier) | DI | | Abandoned; |
@@ -80,6 +81,7 @@
 | [Polaris](https://github.com/FairwindsOps/polaris) | MVIL | YAML, JSON Schema | |
 | [Project Syn](https://github.com/projectsyn) | GMDSIL | YAML, Jsonnet, Jinja2, Python | Related: [Commodore](https://github.com/projectsyn/commodore), [Lieutenant API](https://github.com/projectsyn/lieutenant-api), [Lieutenant Operator](https://github.com/projectsyn/lieutenant-operator), [Steward](https://github.com/projectsyn/steward); |
 | [Pulumi](https://github.com/pulumi/pulumi) | GDL | JavaScript, TypeScript, Python, Go, C#, Visual Basic, F#, Java, YAML | Related: [Kubernetes provider](https://github.com/pulumi/pulumi-kubernetes), [Operator](https://github.com/pulumi/pulumi-kubernetes-operator); |
+| [Score](https://github.com/score-spec/spec) | GL | YAML | Related: [Helm integration](https://github.com/score-spec/score-helm); |
 | [Ship](https://github.com/replicatedhq/ship) | DL | | Abandoned; |
 | [shipcat](https://github.com/clux/shipcat) | GDL | YAML | Abandoned; |
 | [Shipit](https://github.com/Shopify/shipit-engine) | DL | ERB (Ruby templating) | |
