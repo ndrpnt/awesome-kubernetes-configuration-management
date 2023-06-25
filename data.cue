@@ -462,6 +462,11 @@ _raw_config_tools: [
 		name: {text: "Kratix", repo: "syntasso/kratix"}
 		features: ["G", "D", "I"]
 	},
+	{
+		name: {text: "Nickel", repo: "tweag/nickel"}
+		features: ["G", "V", "L"]
+		languages: ["Nickel"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

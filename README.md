@@ -77,6 +77,7 @@
 | [mimic](https://github.com/bwplotka/mimic) | GL | Go | |
 | [Monokle](https://github.com/kubeshop/monokle) | GVDL | | |
 | [NAML](https://github.com/kris-nova/naml) | GDL | Go | |
+| [Nickel](https://github.com/tweag/nickel) | GVL | Nickel | |
 | [OpenCompose](https://github.com/redhat-developer/opencompose) | GL | | Abandoned; |
 | [Polaris](https://github.com/FairwindsOps/polaris) | MVIL | YAML, JSON Schema | |
 | [Project Syn](https://github.com/projectsyn) | GMDSIL | YAML, Jsonnet, Jinja2, Python | Related: [Commodore](https://github.com/projectsyn/commodore), [Lieutenant API](https://github.com/projectsyn/lieutenant-api), [Lieutenant Operator](https://github.com/projectsyn/lieutenant-operator), [Steward](https://github.com/projectsyn/steward); |
