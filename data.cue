@@ -467,6 +467,16 @@ _raw_config_tools: [
 		features: ["G", "V", "L"]
 		languages: ["Nickel"]
 	},
+	{
+		name: {text: "KubeLinter", repo: "stackrox/kube-linter"}
+		features: ["V", "L"]
+		languages: ["YAML"]
+	},
+	{
+		name: {text: "Checkov", repo: "bridgecrewio/checkov"}
+		features: ["V", "I", "L"]
+		languages: ["YAML", "Python"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

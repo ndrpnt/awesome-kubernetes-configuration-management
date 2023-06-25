@@ -19,6 +19,7 @@
 | [autoapply](https://github.com/autoapply/autoapply) | DI | YAML | |
 | [Bazel](https://github.com/bazelbuild/bazel) | DL | Starlark | Related: [rules_gitops](https://github.com/adobe/rules_gitops), [rules_k8s](https://github.com/bazelbuild/rules_k8s); |
 | [cdk8s](https://github.com/cdk8s-team/cdk8s) | GSL | TypeScript, Python, Java, Go | Related: [cdk8s+](https://github.com/cdk8s-team/cdk8s-plus); |
+| [Checkov](https://github.com/bridgecrewio/checkov) | VIL | YAML, Python | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
 | [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
 | [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/master/kubernetes); |
@@ -67,6 +68,7 @@
 | [Kubeconform](https://github.com/yannh/kubeconform) | VL | | |
 | [kubectl](https://github.com/kubernetes/kubectl) | GDL | | |
 | [kubegen](https://github.com/errordeveloper/kubegen) | GL | YAML, JSON, HCL | Abandoned; |
+| [KubeLinter](https://github.com/stackrox/kube-linter) | VL | YAML | |
 | [Kubeval](https://github.com/instrumenta/kubeval) | VL | | Abandoned; |
 | [Kubewarden](https://github.com/kubewarden/kubewarden-controller) | MVI | any (WebAssembly) | |
 | [Kusion](https://github.com/KusionStack/kusion) | GVDL | KCL | |
