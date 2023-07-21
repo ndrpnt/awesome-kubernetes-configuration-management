@@ -500,6 +500,9 @@ _raw_secret_tools: [
 	{
 		name: {text: "SOPS", repo: "getsops/sops"}
 		features: ["L"]
+		info: related: [
+			{text: "KSOPS (kustomize KRM exec plugin)", repo: "viaduct-ai/kustomize-sops"},
+		]
 	},
 	{
 		name: {text: "Tesoro", repo: "kapicorp/tesoro"}
