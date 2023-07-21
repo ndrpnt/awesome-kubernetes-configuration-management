@@ -498,7 +498,7 @@ _raw_secret_tools: [
 		features: ["I"]
 	},
 	{
-		name: {text: "SOPS", repo: "mozilla/sops"}
+		name: {text: "SOPS", repo: "getsops/sops"}
 		features: ["L"]
 	},
 	{
