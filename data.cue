@@ -477,6 +477,11 @@ _raw_config_tools: [
 		features: ["V", "I", "L"]
 		languages: ["YAML", "Python"]
 	},
+	{
+		name: {text: "Lingon", repo: "volvo-cars/lingon"}
+		features: ["G", "L"]
+		languages: ["Go"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
