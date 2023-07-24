@@ -10,12 +10,8 @@ command: gen: {
 		filename: "README.md.tpl"
 		contents: string
 	}
-	rendered: {
+	write: file.Create & {
 		filename: "README.md"
 		contents: template.Execute(read.contents, data)
-	}
-	write: file.Create & {
-		filename: rendered.filename
-		contents: rendered.contents
 	}
 }
