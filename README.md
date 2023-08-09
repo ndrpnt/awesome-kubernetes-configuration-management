@@ -123,6 +123,7 @@
 | [Secrets Store CSI Driver](https://secrets-store-csi-driver.sigs.k8s.io) | I | Related: [AWS Secrets Manager and Systems Manager Parameter Store provider](https://github.com/aws/secrets-store-csi-driver-provider-aws), [Azure Key Vault provider](https://github.com/Azure/secrets-store-csi-driver-provider-azure), [Google Secret Manager provider](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp), [HashiCorp Vault provider](https://github.com/hashicorp/vault-csi-provider); |
 | [secure_yaml](https://github.com/huwtl/secure_yaml) | L | Abandoned; |
 | [SOPS](https://github.com/getsops/sops) | L | Related: [KSOPS (kustomize KRM exec plugin)](https://github.com/viaduct-ai/kustomize-sops), [Helm Sops](https://github.com/camptocamp/helm-sops); |
+| [Teller](https://github.com/tellerops/teller) | L | Related: [Helm-teller](https://github.com/tellerops/helm-teller); |
 | [Tesoro](https://github.com/kapicorp/tesoro) | I | Abandoned; |
 | [transcrypt](https://github.com/elasticdog/transcrypt) | L | |
 | [vals](https://github.com/helmfile/vals) | A | |

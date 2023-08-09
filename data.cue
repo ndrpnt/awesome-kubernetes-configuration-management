@@ -591,4 +591,11 @@ _raw_secret_tools: [
 		name: {text: "Hiera eyaml", repo: "voxpupuli/hiera-eyaml"}
 		features: ["L"]
 	},
+	{
+		name: {text: "Teller", repo: "tellerops/teller"}
+		features: ["L"]
+		info: related: [
+			{text: "Helm-teller", repo: "tellerops/helm-teller"},
+		]
+	},
 ]
