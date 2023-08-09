@@ -507,6 +507,7 @@ _raw_secret_tools: [
 		features: ["L"]
 		info: related: [
 			{text: "KSOPS (kustomize KRM exec plugin)", repo: "viaduct-ai/kustomize-sops"},
+			{text: "Helm Sops", repo:                         "camptocamp/helm-sops"},
 		]
 	},
 	{
