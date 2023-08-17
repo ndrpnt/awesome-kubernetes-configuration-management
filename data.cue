@@ -598,4 +598,11 @@ _raw_secret_tools: [
 			{text: "Helm-teller", repo: "tellerops/helm-teller"},
 		]
 	},
+	{
+		name: {text: "Infisical Secrets Operator", repo: "Infisical/infisical/tree/main/k8-operator"}
+		features: ["I"]
+		info: related: [
+			{text: "Infisical", repo: "Infisical/infisical"},
+		]
+	},
 ]

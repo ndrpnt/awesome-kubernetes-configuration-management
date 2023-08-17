@@ -116,6 +116,7 @@
 | [git-secret](https://github.com/sobolevn/git-secret) | L | |
 | [helm-secrets](https://github.com/jkroepke/helm-secrets) | L | |
 | [Hiera eyaml](https://github.com/voxpupuli/hiera-eyaml) | L | |
+| [Infisical Secrets Operator](https://github.com/Infisical/infisical/tree/main/k8-operator) | I | Related: [Infisical](https://github.com/Infisical/infisical); |
 | [Keyringer](https://github.com/quarkslab/keyringer) | L | Abandoned; |
 | [Murmur](https://github.com/busser/murmur) | A | |
 | [pass](https://www.passwordstore.org) | L | |
