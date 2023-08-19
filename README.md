@@ -110,6 +110,7 @@
 | [agebox](https://github.com/slok/agebox) | L | |
 | [aws-secret-operator](https://github.com/mumoshu/aws-secret-operator) | I | |
 | [BlackBox](https://github.com/StackExchange/blackbox) | L | |
+| [conjur-authn-k8s-client](https://github.com/cyberark/conjur-authn-k8s-client) | A | |
 | [ejson](https://github.com/Shopify/ejson) | L | Related: [ejson2env](https://github.com/Shopify/ejson2env); |
 | [External Secrets](https://github.com/external-secrets/external-secrets) | I | |
 | [git-crypt](https://github.com/AGWA/git-crypt) | L | |
@@ -123,7 +124,7 @@
 | [Murmur](https://github.com/busser/murmur) | A | |
 | [pass](https://www.passwordstore.org) | L | |
 | [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) | I | |
-| [Secrets Store CSI Driver](https://secrets-store-csi-driver.sigs.k8s.io) | I | Related: [AWS Secrets Manager and Systems Manager Parameter Store provider](https://github.com/aws/secrets-store-csi-driver-provider-aws), [Azure Key Vault provider](https://github.com/Azure/secrets-store-csi-driver-provider-azure), [Google Secret Manager provider](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp), [HashiCorp Vault provider](https://github.com/hashicorp/vault-csi-provider); |
+| [Secrets Store CSI Driver](https://secrets-store-csi-driver.sigs.k8s.io) | I | Related: [AWS Secrets Manager and Systems Manager Parameter Store provider](https://github.com/aws/secrets-store-csi-driver-provider-aws), [Azure Key Vault provider](https://github.com/Azure/secrets-store-csi-driver-provider-azure), [Google Secret Manager provider](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp), [HashiCorp Vault provider](https://github.com/hashicorp/vault-csi-provider), [CyberArk Conjur provider (WIP)](https://github.com/cyberark/conjur/pull/2836); |
 | [secure_yaml](https://github.com/huwtl/secure_yaml) | L | Abandoned; |
 | [SOPS](https://github.com/getsops/sops) | L | Related: [KSOPS (kustomize KRM exec plugin)](https://github.com/viaduct-ai/kustomize-sops), [Helm Sops](https://github.com/camptocamp/helm-sops); |
 | [Teller](https://github.com/tellerops/teller) | L | Related: [Helm-teller](https://github.com/tellerops/helm-teller); |

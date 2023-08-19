@@ -531,6 +531,7 @@ _raw_secret_tools: [
 			{text: "Azure Key Vault provider", repo:                                         "Azure/secrets-store-csi-driver-provider-azure"},
 			{text: "Google Secret Manager provider", repo:                                   "GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp"},
 			{text: "HashiCorp Vault provider", repo:                                         "hashicorp/vault-csi-provider"},
+			{text: "CyberArk Conjur provider (WIP)", repo:                                   "cyberark/conjur/pull/2836"},
 		]
 	},
 	{
@@ -612,5 +613,9 @@ _raw_secret_tools: [
 	{
 		name: {text: "Kube-secret-syncer", repo: "contentful-labs/kube-secret-syncer"}
 		features: ["I"]
+	},
+	{
+		name: {text: "conjur-authn-k8s-client", repo: "cyberark/conjur-authn-k8s-client"}
+		features: ["A"]
 	},
 ]
