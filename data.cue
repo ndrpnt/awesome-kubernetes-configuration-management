@@ -618,4 +618,8 @@ _raw_secret_tools: [
 		name: {text: "conjur-authn-k8s-client", repo: "cyberark/conjur-authn-k8s-client"}
 		features: ["A"]
 	},
+	{
+		name: {text: "Azure Key Vault to Kubernetes (akv2k8s)", repo: "SparebankenVest/azure-key-vault-to-kubernetes"}
+		features: ["I", "A"]
+	},
 ]

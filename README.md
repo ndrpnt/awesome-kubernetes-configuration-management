@@ -109,6 +109,7 @@
 |-|-|-|
 | [agebox](https://github.com/slok/agebox) | L | |
 | [aws-secret-operator](https://github.com/mumoshu/aws-secret-operator) | I | |
+| [Azure Key Vault to Kubernetes (akv2k8s)](https://github.com/SparebankenVest/azure-key-vault-to-kubernetes) | IA | |
 | [BlackBox](https://github.com/StackExchange/blackbox) | L | |
 | [conjur-authn-k8s-client](https://github.com/cyberark/conjur-authn-k8s-client) | A | |
 | [ejson](https://github.com/Shopify/ejson) | L | Related: [ejson2env](https://github.com/Shopify/ejson2env); |
