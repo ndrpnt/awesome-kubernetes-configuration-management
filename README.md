@@ -108,6 +108,7 @@
 | | Features | Notes |
 |-|-|-|
 | [agebox](https://github.com/slok/agebox) | L | |
+| [aws-secret-operator](https://github.com/mumoshu/aws-secret-operator) | I | |
 | [BlackBox](https://github.com/StackExchange/blackbox) | L | |
 | [ejson](https://github.com/Shopify/ejson) | L | Related: [ejson2env](https://github.com/Shopify/ejson2env); |
 | [External Secrets](https://github.com/external-secrets/external-secrets) | I | |

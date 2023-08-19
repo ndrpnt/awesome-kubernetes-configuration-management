@@ -605,4 +605,8 @@ _raw_secret_tools: [
 			{text: "Infisical", repo: "Infisical/infisical"},
 		]
 	},
+	{
+		name: {text: "aws-secret-operator", repo: "mumoshu/aws-secret-operator"}
+		features: ["I"]
+	},
 ]
