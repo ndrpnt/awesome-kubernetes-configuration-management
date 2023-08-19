@@ -609,4 +609,8 @@ _raw_secret_tools: [
 		name: {text: "aws-secret-operator", repo: "mumoshu/aws-secret-operator"}
 		features: ["I"]
 	},
+	{
+		name: {text: "Kube-secret-syncer", repo: "contentful-labs/kube-secret-syncer"}
+		features: ["I"]
+	},
 ]
