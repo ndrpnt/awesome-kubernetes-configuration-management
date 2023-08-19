@@ -51,6 +51,7 @@
 | [Keel](https://github.com/keel-hq/keel) | DI | | Updates container image version; |
 | [kenv](https://github.com/thisendout/kenv) | ML | YAML | Abandoned; Injects environment variables in Pods; |
 | [Keptn](https://github.com/keptn/keptn) | DI | | |
+| [ko](https://github.com/ko-build/ko) | MDL | | Limited to Go applications; |
 | [Kompose](https://github.com/kubernetes/kompose) | GL | YAML | |
 | [konfd](https://github.com/kelseyhightower/konfd) | GI | Go template | Abandoned; |
 | [Kosko](https://github.com/tommy351/kosko) | GVL | JavaScript, TypeScript | |

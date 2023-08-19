@@ -482,6 +482,11 @@ _raw_config_tools: [
 		features: ["G", "L"]
 		languages: ["Go"]
 	},
+	{
+		name: {text: "ko", repo: "ko-build/ko"}
+		features: ["M", "D", "L"]
+		info: notes: "Limited to Go applications"
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
