@@ -95,6 +95,7 @@
 | [Terraform](https://github.com/hashicorp/terraform) | GDL | HCL | Related: [Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes), [k8s provider](https://github.com/banzaicloud/terraform-provider-k8s), [Kustomize provider](https://github.com/kbst/terraform-provider-kustomize), [Helm provider](https://github.com/terraform-providers/terraform-provider-helm); |
 | [Tilt](https://github.com/tilt-dev/tilt) | GMDL | Starlark | |
 | [Timoni](https://github.com/stefanprodan/timoni) | GDSL | CUE | |
+| [Tye](https://github.com/dotnet/tye) | GDL | | Limited to .NET applications; |
 | [Untrak](https://github.com/yanc0/untrak) | L | YAML | Abandoned; Garbage collect untracked resources; |
 | [ValidatingAdmissionPolicy](https://kubernetes.io/docs/reference/access-authn-authz/validating-admission-policy) | VI | CEL | |
 | [werf](https://github.com/flant/werf) | GDSL | YAML | |

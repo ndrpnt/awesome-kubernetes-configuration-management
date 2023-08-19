@@ -487,6 +487,11 @@ _raw_config_tools: [
 		features: ["M", "D", "L"]
 		info: notes: "Limited to Go applications"
 	},
+	{
+		name: {text: "Tye", repo: "dotnet/tye"}
+		features: ["G", "D", "L"]
+		info: notes: "Limited to .NET applications"
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
