@@ -122,6 +122,7 @@
 | [helm-secrets](https://github.com/jkroepke/helm-secrets) | L | |
 | [Hiera eyaml](https://github.com/voxpupuli/hiera-eyaml) | L | |
 | [Infisical Secrets Operator](https://github.com/Infisical/infisical/tree/main/k8-operator) | I | Related: [Infisical](https://github.com/Infisical/infisical); |
+| [Kamus](https://github.com/Soluto/kamus) | IA | |
 | [Keyringer](https://github.com/quarkslab/keyringer) | L | Abandoned; |
 | [Kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) | I | |
 | [Murmur](https://github.com/busser/murmur) | A | |

@@ -638,4 +638,8 @@ _raw_secret_tools: [
 		name: {text: "Azure Key Vault to Kubernetes (akv2k8s)", repo: "SparebankenVest/azure-key-vault-to-kubernetes"}
 		features: ["I", "A"]
 	},
+	{
+		name: {text: "Kamus", repo: "Soluto/kamus"}
+		features: ["I", "A"]
+	},
 ]
