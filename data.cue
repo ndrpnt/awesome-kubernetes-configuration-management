@@ -547,7 +547,11 @@ _raw_secret_tools: [
 		]
 	},
 	{
-		name: {text: "Vault Secrets Operator", repo: "hashicorp/vault-secrets-operator"}
+		name: {text: "Vault Secrets Operator (HashiCorp)", repo: "hashicorp/vault-secrets-operator"}
+		features: ["I"]
+	},
+	{
+		name: {text: "Vault Secrets Operator (Rico Berger)", repo: "ricoberger/vault-secrets-operator"}
 		features: ["I"]
 	},
 	{

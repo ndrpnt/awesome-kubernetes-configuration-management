@@ -134,6 +134,7 @@
 | [Tesoro](https://github.com/kapicorp/tesoro) | I | Abandoned; |
 | [transcrypt](https://github.com/elasticdog/transcrypt) | L | |
 | [vals](https://github.com/helmfile/vals) | A | |
-| [Vault Secrets Operator](https://github.com/hashicorp/vault-secrets-operator) | I | |
+| [Vault Secrets Operator (HashiCorp)](https://github.com/hashicorp/vault-secrets-operator) | I | |
+| [Vault Secrets Operator (Rico Berger)](https://github.com/ricoberger/vault-secrets-operator) | I | |
 | [vault-k8s](https://github.com/hashicorp/vault-k8s) | A | |
 | [yaml-crypt](https://github.com/autoapply/yaml-crypt) | L | |
