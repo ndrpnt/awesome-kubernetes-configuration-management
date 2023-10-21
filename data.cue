@@ -72,6 +72,9 @@ _raw_config_tools: [
 	{
 		name: {text: "Flux v2", repo: "fluxcd/flux2"}
 		features: ["D", "I"]
+		info: related: [
+			{text: "Weave GitOps", repo: "weaveworks/weave-gitops"},
+		]
 	},
 	{
 		name: {text: "Helm", repo: "helm/helm"}
