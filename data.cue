@@ -495,6 +495,10 @@ _raw_config_tools: [
 		features: ["G", "D", "L"]
 		info: notes: "Limited to .NET applications"
 	},
+	{
+		name: {text: "Acorn", repo: "acorn-io/runtime"}
+		features: ["D", "I"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

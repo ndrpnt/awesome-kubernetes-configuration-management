@@ -14,6 +14,7 @@
 
 | | Features | Languages | Notes |
 |-|-|-|-|
+| [Acorn](https://github.com/acorn-io/runtime) | DI | | |
 | [Ansible](https://github.com/ansible/ansible) | GDL | YAML, Jinja2, Python (for plugins) | Related: [Kubernetes Collection](https://galaxy.ansible.com/kubernetes/core); |
 | [Argo CD](https://github.com/argoproj/argo-cd) | DI | | |
 | [autoapply](https://github.com/autoapply/autoapply) | DI | YAML | |
