@@ -499,6 +499,11 @@ _raw_config_tools: [
 		name: {text: "Acorn", repo: "acorn-io/runtime"}
 		features: ["D", "I"]
 	},
+	{
+		name: {text: "Meshery", repo: "meshery/meshery"}
+		features: ["G", "D", "I"]
+		languages: ["YAML"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
