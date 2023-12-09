@@ -1,6 +1,6 @@
 {{define "link"}}[{{.text}}]({{.url}}){{end -}}
 {{define "check"}} {{if .}}x {{end}}{{end -}}
-{{define "features"}}{{range $i, $U := . -}}{{if not $i}} {{end}}{{$U}}{{end}} {{end -}}
+{{define "features"}}{{range $i, $F := . -}}{{if not $i}} {{end}}{{$F}}{{end}} {{end -}}
 {{define "languages"}}{{range $i, $L := . -}}{{if $i}},{{end}} {{$L}}{{end}} {{end -}}
 {{define "notes" -}}
   {{" " -}}

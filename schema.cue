@@ -54,8 +54,8 @@ import (
 	name: #Link
 	info: #Info
 
-	_sorted_features: "GMVDSIL"
-	features:         [...#Feature] & list.UniqueItems() & list.IsSorted({x: #Feature, y: #Feature, less: strings.Index(_sorted_features, x) < strings.Index(_sorted_features, y)})
+	let sorted_features = "GMVDSIL"
+	features: [...#Feature] & list.UniqueItems() & list.IsSorted({x: #Feature, y: #Feature, less: strings.Index(sorted_features, x) < strings.Index(sorted_features, y)})
 
 	// Languages you may employ when using that tool. JSON and YAML documents
 	// following the Kubernetes Resource Model are not indicated.
@@ -78,8 +78,8 @@ import (
 	name: #Link
 	info: #Info
 
-	_sorted_features: "ILA"
-	features:         [...#Feature] & list.UniqueItems() & list.IsSorted({x: #Feature, y: #Feature, less: strings.Index(_sorted_features, x) < strings.Index(_sorted_features, y)})
+	let sorted_features = "ILA"
+	features: [...#Feature] & list.UniqueItems() & list.IsSorted({x: #Feature, y: #Feature, less: strings.Index(sorted_features, x) < strings.Index(sorted_features, y)})
 }
 
 _checks: {

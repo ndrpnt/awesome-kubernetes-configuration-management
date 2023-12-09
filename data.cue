@@ -6,7 +6,7 @@ import (
 )
 
 data: config_tools: [...#ConfigTool] & list.Sort(_raw_config_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
-_raw_config_tools: [
+let _raw_config_tools = [
 	{
 		name: {text: "Ansible", repo: "ansible/ansible"}
 		features: ["G", "D", "L"]
@@ -507,7 +507,7 @@ _raw_config_tools: [
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
-_raw_secret_tools: [
+let _raw_secret_tools = [
 	{
 		name: {text: "agebox", repo: "slok/agebox"}
 		features: ["L"]
