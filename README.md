@@ -129,6 +129,7 @@
 | [Kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) | I | |
 | [Murmur](https://github.com/busser/murmur) | A | |
 | [pass](https://www.passwordstore.org) | L | |
+| [Rot](https://github.com/candiddev/rot) | L | |
 | [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) | I | |
 | [Secrets Store CSI Driver](https://secrets-store-csi-driver.sigs.k8s.io) | I | Related: [AWS Secrets Manager and Systems Manager Parameter Store provider](https://github.com/aws/secrets-store-csi-driver-provider-aws), [Azure Key Vault provider](https://github.com/Azure/secrets-store-csi-driver-provider-azure), [Google Secret Manager provider](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp), [HashiCorp Vault provider](https://github.com/hashicorp/vault-csi-provider), [CyberArk Conjur provider (WIP)](https://github.com/cyberark/conjur/pull/2836); |
 | [secure_yaml](https://github.com/huwtl/secure_yaml) | L | Abandoned; |
