@@ -42,6 +42,7 @@
 | [jsPolicy](https://github.com/loft-sh/jspolicy) | MVI | JavaScript, TypeScript | "Controller policies" support; |
 | [k-rail](https://github.com/cruise-automation/k-rail) | MVI | any (gRPC) | Abandoned; |
 | [k8comp](https://github.com/cststack/k8comp) | GL | ERB (Ruby templating) | Abandoned; |
+| [k8spkg](https://github.com/mgoltzsche/k8spkg) | MDL | | Abandoned; |
 | [kadet](https://github.com/kapicorp/kadet) | GL | Python | |
 | [Kapitan](https://github.com/kapicorp/kapitan) | GML | YAML, Jsonnet, Jinja2, Python | |
 | [kapp](https://github.com/carvel-dev/kapp) | DL | | |
@@ -52,6 +53,7 @@
 | [Keel](https://github.com/keel-hq/keel) | DI | | Updates container image version; |
 | [kenv](https://github.com/thisendout/kenv) | ML | YAML | Abandoned; Injects environment variables in Pods; |
 | [Keptn](https://github.com/keptn/keptn) | DI | | |
+| [khelm](https://github.com/mgoltzsche/khelm) | GML | | |
 | [ko](https://github.com/ko-build/ko) | MDL | | Limited to Go applications; |
 | [Kompose](https://github.com/kubernetes/kompose) | GL | YAML | |
 | [konfd](https://github.com/kelseyhightower/konfd) | GI | Go template | Abandoned; |
