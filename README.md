@@ -70,7 +70,7 @@
 | [kubeapply](https://github.com/segmentio/kubeapply) | GDL | YAML, Starlark | Related: [Terraform provider](https://github.com/segmentio/terraform-provider-kubeapply); |
 | [kubecfg](https://github.com/kubecfg/kubecfg) | GDL | Jsonnet | |
 | [Kubeconform](https://github.com/yannh/kubeconform) | VL | | |
-| [kubectl](https://github.com/kubernetes/kubectl) | GDL | | |
+| [kubectl](https://github.com/kubernetes/kubectl) | GVDL | | |
 | [kubegen](https://github.com/errordeveloper/kubegen) | GL | YAML, JSON, HCL | Abandoned; |
 | [KubeLinter](https://github.com/stackrox/kube-linter) | VL | YAML | |
 | [Kubeval](https://github.com/instrumenta/kubeval) | VL | | Abandoned; |

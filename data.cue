@@ -141,7 +141,7 @@ let _raw_config_tools = [
 	},
 	{
 		name: {text: "kubectl", repo: "kubernetes/kubectl"}
-		features: ["G", "D", "L"]
+		features: ["G", "V", "D", "L"]
 	},
 	{
 		name: {text: "kustomize", repo: "kubernetes-sigs/kustomize"}
