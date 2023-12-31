@@ -19,6 +19,7 @@
 | [Argo CD](https://github.com/argoproj/argo-cd) | DI | | |
 | [autoapply](https://github.com/autoapply/autoapply) | DI | YAML | |
 | [Bazel](https://github.com/bazelbuild/bazel) | DL | Starlark | Related: [rules_gitops](https://github.com/adobe/rules_gitops), [rules_k8s](https://github.com/bazelbuild/rules_k8s); |
+| [Bicep](https://github.com/Azure/bicep) | GDSL | Bicep | Related: [Kubernetes provider](https://github.com/MicrosoftDocs/azure-docs/blob/3d1cfaa248b92e006aa2a3101b958f5a628718a9/articles/azure-resource-manager/bicep/bicep-extensibility-kubernetes-provider.md), [Kubernetes type definitions](https://github.com/Azure/bicep-types-k8s); |
 | [cdk8s](https://github.com/cdk8s-team/cdk8s) | GSL | TypeScript, Python, Java, Go | Related: [cdk8s+](https://github.com/cdk8s-team/cdk8s-plus); |
 | [Checkov](https://github.com/bridgecrewio/checkov) | VIL | YAML, Python | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |

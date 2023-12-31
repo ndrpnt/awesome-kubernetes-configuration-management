@@ -513,6 +513,15 @@ let _raw_config_tools = [
 		features: ["M", "D", "L"]
 		info: abandoned: true
 	},
+	{
+		name: {text: "Bicep", repo: "Azure/bicep"}
+		features: ["G", "D", "S", "L"]
+		languages: ["Bicep"]
+		info: related: [
+			{text: "Kubernetes provider", url:          "https://github.com/MicrosoftDocs/azure-docs/blob/3d1cfaa248b92e006aa2a3101b958f5a628718a9/articles/azure-resource-manager/bicep/bicep-extensibility-kubernetes-provider.md"},
+			{text: "Kubernetes type definitions", repo: "Azure/bicep-types-k8s"},
+		]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
