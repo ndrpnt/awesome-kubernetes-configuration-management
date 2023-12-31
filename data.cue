@@ -522,6 +522,11 @@ let _raw_config_tools = [
 			{text: "Kubernetes type definitions", repo: "Azure/bicep-types-k8s"},
 		]
 	},
+	{
+		name: {text: "Radius", repo: "radius-project/radius"}
+		features: ["D", "I"]
+		languages: ["Bicep"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

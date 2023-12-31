@@ -91,6 +91,7 @@
 | [Polaris](https://github.com/FairwindsOps/polaris) | MVIL | YAML, JSON Schema | |
 | [Project Syn](https://github.com/projectsyn) | GMDSIL | YAML, Jsonnet, Jinja2, Python | Related: [Commodore](https://github.com/projectsyn/commodore), [Lieutenant API](https://github.com/projectsyn/lieutenant-api), [Lieutenant Operator](https://github.com/projectsyn/lieutenant-operator), [Steward](https://github.com/projectsyn/steward); |
 | [Pulumi](https://github.com/pulumi/pulumi) | GDL | JavaScript, TypeScript, Python, Go, C#, Visual Basic, F#, Java, YAML | Related: [Kubernetes provider](https://github.com/pulumi/pulumi-kubernetes), [Operator](https://github.com/pulumi/pulumi-kubernetes-operator); |
+| [Radius](https://github.com/radius-project/radius) | DI | Bicep | |
 | [Score](https://github.com/score-spec/spec) | GL | YAML | Related: [Helm integration](https://github.com/score-spec/score-helm); |
 | [Ship](https://github.com/replicatedhq/ship) | DL | | Abandoned; |
 | [shipcat](https://github.com/clux/shipcat) | GDL | YAML | Abandoned; |
