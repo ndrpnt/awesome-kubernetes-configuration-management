@@ -80,7 +80,7 @@
 | [kustomize](https://github.com/kubernetes-sigs/kustomize) | ML | YAML | |
 | [kustomizer](https://github.com/stefanprodan/kustomizer) | GMSL | | |
 | [Kyverno](https://github.com/kyverno/kyverno) | GMVIL | YAML, CEL | External data support; |
-| [Lingon](https://github.com/volvo-cars/lingon) | GL | Go | |
+| [Lingon](https://github.com/volvo-cars/lingon) | GL | Go | Abandoned; |
 | [Meshery](https://github.com/meshery/meshery) | GDI | YAML | |
 | [Microconfig](https://github.com/microconfig/microconfig) | GL | | |
 | [mimic](https://github.com/bwplotka/mimic) | GL | Go | |

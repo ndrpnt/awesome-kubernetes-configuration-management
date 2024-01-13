@@ -484,6 +484,7 @@ let _raw_config_tools = [
 		name: {text: "Lingon", repo: "volvo-cars/lingon"}
 		features: ["G", "L"]
 		languages: ["Go"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "ko", repo: "ko-build/ko"}
