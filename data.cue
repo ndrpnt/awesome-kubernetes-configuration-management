@@ -572,7 +572,7 @@ let _raw_secret_tools = [
 		features: ["A"]
 	},
 	{
-		name: {text: "Secrets Store CSI Driver", url: "https://secrets-store-csi-driver.sigs.k8s.io"}
+		name: {text: "Secrets Store CSI Driver", repo: "kubernetes-sigs/secrets-store-csi-driver"}
 		features: ["I"]
 		info: related: [
 			{text: "AWS Secrets Manager and Systems Manager Parameter Store provider", repo: "aws/secrets-store-csi-driver-provider-aws"},
