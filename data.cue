@@ -682,4 +682,8 @@ let _raw_secret_tools = [
 		name: {text: "Rot", repo: "candiddev/rot"}
 		features: ["L"]
 	},
+	{
+		name: {text: "Piggy", repo: "KongZ/piggy"}
+		features: ["A"]
+	},
 ]
