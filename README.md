@@ -24,7 +24,7 @@
 | [Checkov](https://github.com/bridgecrewio/checkov) | VIL | YAML, Python | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
 | [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
-| [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/master/kubernetes); |
+| [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes); |
 | [Crossplane](https://github.com/crossplane/crossplane) | GDI | | Related: [Ansible provider](https://github.com/crossplane-contrib/provider-ansible), [Argo CD provider](https://github.com/crossplane-contrib/provider-argocd), [Helm provider](https://github.com/crossplane-contrib/provider-helm), [Kubernetes provider](https://github.com/crossplane-contrib/provider-kubernetes), [Terraform provider](https://github.com/upbound/provider-terraform); |
 | [CUE](https://github.com/cue-lang/cue) | GVSL | CUE | |
 | [Datree](https://github.com/datreeio/datree) | VIL | JSON schema, Rego | |

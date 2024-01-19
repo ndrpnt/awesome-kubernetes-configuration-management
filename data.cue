@@ -268,7 +268,7 @@ let _raw_config_tools = [
 		features: ["V", "L"]
 		languages: ["Rego"]
 		info: related: [
-			{text: "Kubernetes policies", url: "https://github.com/instrumenta/policies/tree/master/kubernetes"},
+			{text: "Kubernetes policies", url: "https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes"},
 		]
 	},
 	{
