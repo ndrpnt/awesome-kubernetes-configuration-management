@@ -528,6 +528,14 @@ let _raw_config_tools = [
 		features: ["D", "I"]
 		languages: ["Bicep"]
 	},
+	{
+		name: {text: "Pkl", repo: "apple/pkl"}
+		features: ["G", "S", "L"]
+		languages: ["Pkl"]
+		info: related: [
+			{text: "Kubernetes Pkl templates", repo: "apple/pkl-k8s"},
+		]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
