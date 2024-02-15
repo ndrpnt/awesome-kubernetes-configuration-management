@@ -30,6 +30,7 @@
 | [Datree](https://github.com/datreeio/datree) | VIL | JSON schema, Rego | |
 | [dekorate](https://github.com/dekorateio/dekorate) | GL | Java | |
 | [Dhall](https://github.com/dhall-lang/dhall-lang) | GSL | Dhall | Related: [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes); |
+| [dxcfg](https://github.com/dxcfg/dxcfg) | GL | JavaScript, TypeScript | Abandoned; |
 | [Flux v1](https://github.com/fluxcd/flux) | DI | | Abandoned; |
 | [Flux v2](https://github.com/fluxcd/flux2) | DI | | Related: [Weave GitOps](https://github.com/weaveworks/weave-gitops); |
 | [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) | MVI | Rego | External data support; |

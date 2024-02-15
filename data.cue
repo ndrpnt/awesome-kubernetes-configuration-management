@@ -536,6 +536,12 @@ let _raw_config_tools = [
 			{text: "Kubernetes Pkl templates", repo: "apple/pkl-k8s"},
 		]
 	},
+	{
+		name: {text: "dxcfg", repo: "dxcfg/dxcfg"}
+		features: ["G", "L"]
+		languages: ["JavaScript", "TypeScript"]
+		info: abandoned: true
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
