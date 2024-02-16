@@ -34,6 +34,7 @@
 | [Flux v1](https://github.com/fluxcd/flux) | DI | | Abandoned; |
 | [Flux v2](https://github.com/fluxcd/flux2) | DI | | Related: [Weave GitOps](https://github.com/weaveworks/weave-gitops); |
 | [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) | MVI | Rego | External data support; |
+| [Glasskube](https://github.com/glasskube/glasskube) | DSI | | |
 | [Helm](https://github.com/helm/helm) | GDSL | Go Template | |
 | [Helmfile](https://github.com/helmfile/helmfile) | DL | YAML | |
 | [Helmsman](https://github.com/Praqma/helmsman) | DL | TOML | |

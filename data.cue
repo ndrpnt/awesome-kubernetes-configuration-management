@@ -542,6 +542,10 @@ let _raw_config_tools = [
 		languages: ["JavaScript", "TypeScript"]
 		info: abandoned: true
 	},
+	{
+		name: {text: "Glasskube", repo: "glasskube/glasskube"}
+		features: ["D", "S", "I"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
