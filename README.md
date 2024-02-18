@@ -81,6 +81,7 @@
 | [Kusion](https://github.com/KusionStack/kusion) | GVDL | KCL | |
 | [kustomize](https://github.com/kubernetes-sigs/kustomize) | ML | YAML | |
 | [kustomizer](https://github.com/stefanprodan/kustomizer) | GMSL | | |
+| [kvert](https://github.com/mcorbin/kvert) | GL | edn (Clojure) | Abandoned; |
 | [Kyverno](https://github.com/kyverno/kyverno) | GMVIL | YAML, CEL | External data support; |
 | [Lingon](https://github.com/volvo-cars/lingon) | GL | Go | Abandoned; |
 | [Meshery](https://github.com/meshery/meshery) | GDI | YAML | |
