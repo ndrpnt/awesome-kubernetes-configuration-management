@@ -555,6 +555,16 @@ let _raw_config_tools = [
 		languages: ["edn (Clojure)"]
 		info: abandoned: true
 	},
+	{
+		name: {text: "kubenix", repo: "hall/kubenix"}
+		features: ["G", "L"]
+		languages: ["Nix"]
+		info: related: [
+			{text: "GTrunSec/kubenix", repo:  "GTrunSec/kubenix"},
+			{text: "blaggacao/kubenix", repo: "blaggacao/kubenix"},
+			{text: "xtruder/kubenix", repo:   "xtruder/kubenix"},
+		]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
