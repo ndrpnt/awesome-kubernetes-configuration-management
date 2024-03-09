@@ -125,8 +125,11 @@ let _raw_config_tools = [
 	},
 	{
 		name: {text: "KCL", repo: "KusionStack/KCLVM"}
-		features: ["G", "M", "V", "L"]
+		features: ["G", "M", "V", "S", "L"]
 		languages: ["KCL"]
+		info: related: [
+			{text: "Run KCL scripts as KRM functions", repo: "kcl-lang/krm-kcl"},
+		]
 	},
 	{
 		name: {text: "Kedge", repo: "kedgeproject/kedge"}
