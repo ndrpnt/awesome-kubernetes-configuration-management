@@ -556,6 +556,12 @@ let _raw_config_tools = [
 		info: abandoned: true
 	},
 	{
+		name: {text: "Kubescape", repo: "kubescape/kubescape"}
+		features: ["V", "I", "L"]
+		languages: ["Rego"]
+		info: notes: "External data support"
+	},
+	{
 		name: {text: "kubenix", repo: "hall/kubenix"}
 		features: ["G", "L"]
 		languages: ["Nix"]
