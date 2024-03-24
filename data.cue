@@ -571,6 +571,11 @@ let _raw_config_tools = [
 			{text: "xtruder/kubenix", repo:   "xtruder/kubenix"},
 		]
 	},
+	{
+		name: {text: "YAMLScript", repo: "yaml/yamlscript"}
+		features: ["G", "L"]
+		languages: ["YAMLScript"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

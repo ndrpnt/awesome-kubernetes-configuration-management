@@ -111,6 +111,7 @@
 | [Untrak](https://github.com/yanc0/untrak) | L | YAML | Abandoned; Garbage collect untracked resources; |
 | [ValidatingAdmissionPolicy](https://kubernetes.io/docs/reference/access-authn-authz/validating-admission-policy) | VI | CEL | |
 | [werf](https://github.com/flant/werf) | GDSL | YAML | |
+| [YAMLScript](https://github.com/yaml/yamlscript) | GL | YAMLScript | |
 | [ytt](https://github.com/carvel-dev/ytt) | GMVL | YAML, Starlark | |
 
 ## Secret Management
