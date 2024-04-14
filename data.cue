@@ -536,7 +536,9 @@ let _raw_config_tools = [
 		features: ["G", "S", "L"]
 		languages: ["Pkl"]
 		info: related: [
-			{text: "Kubernetes Pkl templates", repo: "apple/pkl-k8s"},
+			{text: "Kubernetes Pkl templates", repo:       "apple/pkl-k8s"},
+			{text: "Kubernetes Pkl examples", repo:        "apple/pkl-k8s-examples"},
+			{text: "Other Pkl (Kubernetes) packages", url: "https://pkl-lang.org/package-docs/"},
 		]
 	},
 	{
