@@ -103,6 +103,7 @@
 | [shipcat](https://github.com/clux/shipcat) | GDL | YAML | Abandoned; |
 | [Shipit](https://github.com/Shopify/shipit-engine) | DL | ERB (Ruby templating) | |
 | [Skycfg](https://github.com/stripe/skycfg) | GL | Starlark, Go | |
+| [specctl](https://github.com/awslabs/specctl) | GL | YAML | Supports generating manifests from docker compose files, and ECS Fargate task and service definitions; |
 | [Tanka](https://github.com/grafana/tanka) | GDSL | Jsonnet | |
 | [Terraform](https://github.com/hashicorp/terraform) | GDL | HCL | Related: [Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes), [k8s provider](https://github.com/banzaicloud/terraform-provider-k8s), [Kustomize provider](https://github.com/kbst/terraform-provider-kustomize), [Helm provider](https://github.com/terraform-providers/terraform-provider-helm); |
 | [Tilt](https://github.com/tilt-dev/tilt) | GMDL | Starlark | |

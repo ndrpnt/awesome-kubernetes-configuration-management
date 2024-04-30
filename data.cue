@@ -578,6 +578,12 @@ let _raw_config_tools = [
 		features: ["G", "L"]
 		languages: ["YAMLScript"]
 	},
+	{
+		name: {text: "specctl", repo: "awslabs/specctl"}
+		features: ["G", "L"]
+		languages: ["YAML"]
+		info: notes: "Supports generating manifests from docker compose files, and ECS Fargate task and service definitions"
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
