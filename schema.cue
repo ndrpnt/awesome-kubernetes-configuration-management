@@ -12,6 +12,9 @@ import (
 }
 
 #Info: {
+	// Whether this tool has been reviewed.
+	todo: bool | *false
+
 	// Is the project still (at least somewhat) maintained.
 	abandoned: bool | *false
 
@@ -80,6 +83,11 @@ import (
 
 	let sorted_features = "ILA"
 	features: [...#Feature] & list.UniqueItems() & list.IsSorted({x: #Feature, y: #Feature, less: strings.Index(sorted_features, x) < strings.Index(sorted_features, y)})
+}
+
+#MiscTool: {
+	name: #Link
+	info: #Info
 }
 
 _checks: {

@@ -4,6 +4,7 @@
 {{define "languages"}}{{range $i, $L := . -}}{{if $i}},{{end}} {{$L}}{{end}} {{end -}}
 {{define "notes" -}}
   {{" " -}}
+  {{if .todo}}TODO; {{end -}}
   {{if .abandoned}}Abandoned; {{end -}}
   {{if .related}}Related: {{range $i, $R := .related -}}{{if $i}}, {{end}}{{template "link" $R}}{{end}}; {{end -}}
   {{if .notes}}{{.notes}}; {{end -}}
@@ -43,6 +44,15 @@
 {{- range $T := .secret_tools}}
 | {{template "link" $T.name}} |
 {{- template "features" $T.features}}|
+{{- template "notes" $T.info}}|
+{{- end}}
+
+## Other Tools
+
+| | Notes |
+|-|-|
+{{- range $T := .misc_tools}}
+| {{template "link" $T.name}} |
 {{- template "notes" $T.info}}|
 {{- end}}
 

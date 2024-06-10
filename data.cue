@@ -639,6 +639,326 @@ let _raw_config_tools = [
 		features: ["G", "D", "L"]
 		languages: ["DSL"]
 	},
+	{
+		name: {text: "devtron", repo: "devtron-labs/devtron"}
+		info: todo: true
+	},
+	{
+		name: {text: "hull", repo: "vidispine/hull"}
+		info: todo: true
+	},
+	{
+		name: {text: "gitkube", repo: "hasura/gitkube"}
+		info: todo: true
+	},
+	{
+		name: {text: "Podex", repo: "kubernetes/contrib/tree/master/podex"}
+		info: todo: true
+	},
+	{
+		name: {text: "Rio", repo: "rancher/rio"}
+		info: todo: true
+	},
+	{
+		name: {text: "Spread", repo: "redspread/spread"}
+		info: todo: true
+	},
+	{
+		name: {text: "Draft", repo: "Azure/draft"}
+		info: todo: true
+	},
+	{
+		name: {text: "Deis workflow", repo: "deis/workflow"}
+		info: todo: true
+	},
+	{
+		name: {text: "Skylark", repo: "google/skylark"}
+		info: todo: true
+	},
+	{
+		name: {text: "fabric8 client", repo: "fabric8io/kubernetes-client"}
+		info: todo: true
+	},
+	{
+		name: {text: "kubernetes-deploy", repo: "Shopify/kubernetes-deploy"}
+		info: todo: true
+	},
+	{
+		name: {text: "Nulecule", repo: "projectatomic/nulecule"}
+		info: todo: true
+	},
+	{
+		name: {text: "landscaper", repo: "Eneco/landscaper"}
+		info: todo: true
+	},
+	{
+		name: {text: "Metaparticle", repo: "metaparticle-io/package"}
+		info: todo: true
+	},
+	{
+		name: {text: "Forge", repo: "datawire/forge/"}
+		info: todo: true
+	},
+	{
+		name: {text: "KPM", repo: "coreos/kpm"}
+		info: todo: true
+	},
+	{
+		name: {text: "Smith", repo: "atlassian/smith"}
+		info: todo: true
+	},
+	{
+		name: {text: "Srvexpand", repo: "hortonworks/kubernetes-yarn/tree/master/contrib/srvexpand"}
+		info: todo: true
+	},
+	{
+		name: {text: "k8sec", repo: "dtan4/k8sec"}
+		info: todo: true
+	},
+	{
+		name: {text: "fabric8-mvn-plugin", repo: "fabric8io/fabric8-maven-plugin"}
+		info: todo: true
+	},
+	{
+		name: {text: "Chartify", repo: "appscode/chartify"}
+		info: todo: true
+	},
+	{
+		name: {text: "kontemplate", repo: "tazjin/kontemplate"}
+		info: todo: true
+	},
+	{
+		name: {text: "rok8s-scripts", repo: "reactiveops/rok8s-scripts"}
+		info: todo: true
+	},
+	{
+		name: {text: "armada", repo: "att-comdev/armada"}
+		info: todo: true
+	},
+	{
+		name: {text: "kexpand", repo: "kopeio/kexpand"}
+		info: todo: true
+	},
+	{
+		name: {text: "k8s-kotlin-dsl", repo: "fkorotkov/k8s-kotlin-dsl"}
+		info: todo: true
+	},
+	{
+		name: {text: "Short", repo: "koki/short"}
+		info: todo: true
+	},
+	{
+		name: {text: "kploy", repo: "kubernauts/kploy"}
+		info: todo: true
+	},
+	{
+		name: {text: "Skipper", repo: "concur/skipper"}
+		info: todo: true
+	},
+	{
+		name: {text: "KY", repo: "stellaservice/ky"}
+		info: todo: true
+	},
+	{
+		name: {text: "Broadway", repo: "namely/broadway"}
+		info: todo: true
+	},
+	{
+		name: {text: "Koki", repo: "koki/koki"}
+		info: todo: true
+	},
+	{
+		name: {text: "generator-kubegen", repo: "sesispla/generator-kubegen"}
+		info: todo: true
+	},
+	{
+		name: {text: "Rubiks", repo: "olx-global/rubiks"}
+		info: todo: true
+	},
+	{
+		name: {text: "Deploymentizer", repo: "InVisionApp/kit-deploymentizer"}
+		info: todo: true
+	},
+	{
+		name: {text: "kdeploy", repo: "flexiant/kdeploy"}
+		info: todo: true
+	},
+	{
+		name: {text: "Archipa", repo: "archipaorg/archipa"}
+		info: todo: true
+	},
+	{
+		name: {text: "Puccini", repo: "tliron/puccini"}
+		info: todo: true
+	},
+	{
+		name: {text: "ERB-Hiera", repo: "roobert/erb-hiera"}
+		info: todo: true
+	},
+	{
+		name: {text: "k82-icl", repo: "archipaorg/k8s-icl"}
+		info: todo: true
+	},
+	{
+		name: {text: "OpenShift templates", url: "https://docs.openshift.org/latest/dev_guide/templates.html"}
+		info: todo: true
+	},
+	{
+		name: {text: "Puppet", url: "https://forge.puppet.com/garethr/kubernetes/readme"}
+		info: todo: true
+	},
+	{
+		name: {text: "kuku", repo: "xarg/kuku"}
+		info: todo: true
+	},
+	{
+		name: {text: "sugarkube", repo: "sugarkube/sugarkube"}
+		info: todo: true
+	},
+	{
+		name: {text: "kubernetes", repo: "jkcfg/kubernetes"}
+		info: todo: true
+	},
+	{
+		name: {text: "flekszible", repo: "elek/flekszible"}
+		info: todo: true
+	},
+	{
+		name: {text: "karavel", repo: "gree-gorey/karavel"}
+		info: todo: true
+	},
+	{
+		name: {text: "lostromos", repo: "lostromos/lostromos"}
+		info: todo: true
+	},
+	{
+		name: {text: "fabrikate", repo: "Microsoft/fabrikate"}
+		info: todo: true
+	},
+	{
+		name: {text: "helm-app-operator-kit", repo: "operator-framework/helm-app-operator-kit"}
+		info: todo: true
+	},
+	{
+		name: {text: "puppetlabs-helm", repo: "puppetlabs/puppetlabs-helm"}
+		info: todo: true
+	},
+	{
+		name: {text: "kubed", repo: "appscode/kubed"}
+		info: todo: true
+	},
+	{
+		name: {text: "pack", repo: "kubepack/pack"}
+		info: todo: true
+	},
+	{
+		name: {text: "k8s-app-engine", repo: "Aptomi/k8s-app-engine"}
+		info: todo: true
+	},
+	{
+		name: {text: "environment-operator", repo: "pearsontechnology/environment-operator"}
+		info: todo: true
+	},
+	{
+		name: {text: "kubor", repo: "levertonai/kubor"}
+		info: todo: true
+	},
+	{
+		name: {text: "stackset-controller", repo: "zalando-incubator/stackset-controller"}
+		info: todo: true
+	},
+	{
+		name: {text: "Konfigurator", repo: "stakater/Konfigurator"}
+		info: todo: true
+	},
+	{
+		name: {text: "shipper", repo: "bookingcom/shipper"}
+		info: todo: true
+	},
+	{
+		name: {text: "jx", repo: "jenkins-x/jx"}
+		info: todo: true
+	},
+	{
+		name: {text: "pipeline", repo: "tektoncd/pipeline"}
+		info: todo: true
+	},
+	{
+		name: {text: "habitat", repo: "habitat-sh/habitat"}
+		info: todo: true
+	},
+	{
+		name: {text: "apollo", repo: "logzio/apollo"}
+		info: todo: true
+	},
+	{
+		name: {text: "flagger", repo: "weaveworks/flagger"}
+		info: todo: true
+	},
+	{
+		name: {text: "foremast", repo: "intuit/foremast"}
+		info: todo: true
+	},
+	{
+		name: {text: "kabanero-operator", repo: "kabanero-io/kabanero-operator"}
+		info: todo: true
+	},
+	{
+		name: {text: "appsody", repo: "appsody/appsody"}
+		info: todo: true
+	},
+	{
+		name: {text: "garden", repo: "garden-io/garden"}
+		info: todo: true
+	},
+	{
+		name: {text: "kuberig", repo: "teyckmans/kuberig"}
+		info: todo: true
+	},
+	{
+		name: {text: "konstellate", repo: "containership/konstellate"}
+		info: todo: true
+	},
+	{
+		name: {text: "mortar", repo: "kontena/mortar"}
+		info: todo: true
+	},
+	{
+		name: {text: "k8s-handle", repo: "2gis/k8s-handle"}
+		info: todo: true
+	},
+	{
+		name: {text: "kuby", repo: "smartive/kuby"}
+		info: todo: true
+	},
+	{
+		name: {text: "devspace", repo: "devspace-cloud/devspace"}
+		info: todo: true
+	},
+	{
+		name: {text: "configula", repo: "brendandburns/configula"}
+		info: todo: true
+	},
+	{
+		name: {text: "skaffold", repo: "GoogleContainerTools/skaffold"}
+		info: todo: true
+	},
+	{
+		name: {text: "qbec", repo: "splunk/qbec"}
+		info: todo: true
+	},
+	{
+		name: {text: "knot8", repo: "mkmik/knot8"}
+		info: todo: true
+	},
+	{
+		name: {text: "Kubehiera", url: "https://gitlab.com/msvechla/kubehiera"}
+		info: todo: true
+	},
+	{
+		name: {text: "kro", repo: "kro-run/kro"}
+		info: todo: true
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
@@ -801,5 +1121,53 @@ let _raw_secret_tools = [
 		name: {text: "helm-ssm", repo: "totango/helm-ssm"}
 		features: ["L"]
 		info: abandoned: true
+	},
+	{
+		name: {text: "sops-secrets-operator", repo: "isindir/sops-secrets-operator"}
+		info: todo: true
+	},
+	{
+		name: {text: "kamus", repo: "soluto/kamus"}
+		info: todo: true
+	},
+	{
+		name: {text: "external-secret", repo: "imranismail/external-secret"}
+		info: todo: true
+	},
+	{
+		name: {text: "argocd-vault-plugin", repo: "argoproj-labs/argocd-vault-plugin"}
+		info: todo: true
+	},
+	{
+		name: {text: "sops-operator", repo: "craftypath/sops-operator"}
+		info: todo: true
+	},
+	{
+		name: {text: "argocd-vault-replacer", repo: "crumbhole/argocd-vault-replacer"}
+		info: todo: true
+	},
+	{
+		name: {text: "vault-secrets-webhook", repo: "bank-vaults/vault-secrets-webhook"}
+		info: todo: true
+	},
+	{
+		name: {text: "kustomize-sops", repo: "viaduct-ai/kustomize-sops"}
+		info: todo: true
+	},
+	{
+		name: {text: "Kustomize secretGeneratorPlugin", url: "https://github.com/kubernetes-sigs/kustomize/blob/ab519fdc13ded9875e42d70ac8a5b1b9023a2dbb/examples/secretGeneratorPlugin.md"}
+		info: todo: true
+	},
+]
+
+data: misc_tools: [...#MiscTool] & list.Sort(_raw_misc_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
+let _raw_misc_tools = [
+	{
+		name: {text: "Kargo", repo: "akuity/kargo"}
+		info: notes: "Integrates with GitOps tools to promote changes across environments"
+	},
+	{
+		name: {text: "Argo Rollouts", repo: "argoproj/argo-rollouts"}
+		info: notes: "Controller and set of CRDs which provide progressive delivery features"
 	},
 ]
