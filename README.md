@@ -27,6 +27,7 @@
 | [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes); |
 | [Crossplane](https://github.com/crossplane/crossplane) | GDI | | Related: [Ansible provider](https://github.com/crossplane-contrib/provider-ansible), [Argo CD provider](https://github.com/crossplane-contrib/provider-argocd), [Helm provider](https://github.com/crossplane-contrib/provider-helm), [Kubernetes provider](https://github.com/crossplane-contrib/provider-kubernetes), [Terraform provider](https://github.com/upbound/provider-terraform); |
 | [CUE](https://github.com/cue-lang/cue) | GVSL | CUE | |
+| [Cyclops](https://github.com/cyclops-ui/cyclops) | GDI | graphical UI | |
 | [Datree](https://github.com/datreeio/datree) | VIL | JSON schema, Rego | |
 | [dekorate](https://github.com/dekorateio/dekorate) | GL | Java | |
 | [Dhall](https://github.com/dhall-lang/dhall-lang) | GSL | Dhall | Related: [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes); |

@@ -584,6 +584,11 @@ let _raw_config_tools = [
 		languages: ["YAML"]
 		info: notes: "Supports generating manifests from docker compose files, and ECS Fargate task and service definitions"
 	},
+	{
+		name: {text: "Cyclops", repo: "cyclops-ui/cyclops"}
+		features: ["G", "D", "I"]
+		languages: ["graphical UI"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
