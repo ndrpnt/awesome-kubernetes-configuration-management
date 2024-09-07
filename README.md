@@ -16,6 +16,7 @@
 |-|-|-|-|
 | [Acorn](https://github.com/acorn-io/runtime) | DI | | |
 | [Ansible](https://github.com/ansible/ansible) | GDL | YAML, Jinja2, Python (for plugins) | Related: [Kubernetes Collection](https://galaxy.ansible.com/kubernetes/core); |
+| [AppController](https://github.com/Mirantis/k8s-AppController) | DI | | Abandoned; |
 | [Argo CD](https://github.com/argoproj/argo-cd) | DI | | |
 | [autoapply](https://github.com/autoapply/autoapply) | DI | YAML | |
 | [Bazel](https://github.com/bazelbuild/bazel) | DL | Starlark | Related: [rules_gitops](https://github.com/adobe/rules_gitops), [rules_k8s](https://github.com/bazelbuild/rules_k8s); |
@@ -52,12 +53,14 @@
 | [kapp](https://github.com/carvel-dev/kapp) | DL | | |
 | [kapp-controller](https://github.com/carvel-dev/kapp-controller) | DI | | |
 | [Kasane](https://github.com/google/kasane) | ML | YAML, Jsonnet | Abandoned; |
+| [kb8or](https://github.com/UKHomeOffice/kb8or) | GDL | YAML | Abandoned; |
 | [KCL](https://github.com/KusionStack/KCLVM) | GMVSL | KCL | Related: [Run KCL scripts as KRM functions](https://github.com/kcl-lang/krm-kcl); |
 | [Kedge](https://github.com/kedgeproject/kedge) | GDL | YAML | Abandoned; |
 | [Keel](https://github.com/keel-hq/keel) | DI | | Updates container image version; |
 | [kenv](https://github.com/thisendout/kenv) | ML | YAML | Abandoned; Injects environment variables in Pods; |
 | [Keptn](https://github.com/keptn/keptn) | DI | | |
 | [khelm](https://github.com/mgoltzsche/khelm) | GML | | |
+| [Kluctl](https://github.com/kluctl/kluctl) | GDIL | YAML, Jinja2 | |
 | [ko](https://github.com/ko-build/ko) | MDL | | Limited to Go applications; |
 | [Kompose](https://github.com/kubernetes/kompose) | GL | YAML | |
 | [konfd](https://github.com/kelseyhightower/konfd) | GI | Go template | Abandoned; |
@@ -80,6 +83,7 @@
 | [kubenix](https://github.com/hall/kubenix) | GL | Nix | Related: [GTrunSec/kubenix](https://github.com/GTrunSec/kubenix), [blaggacao/kubenix](https://github.com/blaggacao/kubenix), [xtruder/kubenix](https://github.com/xtruder/kubenix); |
 | [Kubescape](https://github.com/kubescape/kubescape) | VIL | Rego | External data support; |
 | [Kubeval](https://github.com/instrumenta/kubeval) | VL | | Abandoned; |
+| [KubeVela](https://github.com/kubevela/kubevela) | GDIL | | |
 | [Kubewarden](https://github.com/kubewarden/kubewarden-controller) | MVI | any (WebAssembly) | |
 | [Kusion](https://github.com/KusionStack/kusion) | GVDL | KCL | |
 | [kustomize](https://github.com/kubernetes-sigs/kustomize) | ML | YAML | |
@@ -94,11 +98,14 @@
 | [NAML](https://github.com/kris-nova/naml) | GDL | Go | |
 | [Nickel](https://github.com/tweag/nickel) | GVL | Nickel | |
 | [OpenCompose](https://github.com/redhat-developer/opencompose) | GL | | Abandoned; |
+| [PipeCD](https://github.com/pipe-cd/pipecd) | DI | | |
 | [Pkl](https://github.com/apple/pkl) | GSL | Pkl | Related: [Kubernetes Pkl templates](https://github.com/apple/pkl-k8s), [Kubernetes Pkl examples](https://github.com/apple/pkl-k8s-examples), [Other Pkl (Kubernetes) packages](https://pkl-lang.org/package-docs/); |
 | [Polaris](https://github.com/FairwindsOps/polaris) | MVIL | YAML, JSON Schema | |
 | [Project Syn](https://github.com/projectsyn) | GMDSIL | YAML, Jsonnet, Jinja2, Python | Related: [Commodore](https://github.com/projectsyn/commodore), [Lieutenant API](https://github.com/projectsyn/lieutenant-api), [Lieutenant Operator](https://github.com/projectsyn/lieutenant-operator), [Steward](https://github.com/projectsyn/steward); |
+| [Psykube](https://github.com/psykube/psykube) | GDL | YAML | Abandoned; |
 | [Pulumi](https://github.com/pulumi/pulumi) | GDL | JavaScript, TypeScript, Python, Go, C#, Visual Basic, F#, Java, YAML | Related: [Kubernetes provider](https://github.com/pulumi/pulumi-kubernetes), [Operator](https://github.com/pulumi/pulumi-kubernetes-operator); |
 | [Radius](https://github.com/radius-project/radius) | DI | Bicep | |
+| [Razee](https://github.com/razee-io/Razee) | GDI | | Abandoned; |
 | [Score](https://github.com/score-spec/spec) | GL | YAML | Related: [Helm integration](https://github.com/score-spec/score-helm); |
 | [Ship](https://github.com/replicatedhq/ship) | DL | | Abandoned; |
 | [shipcat](https://github.com/clux/shipcat) | GDL | YAML | Abandoned; |
@@ -112,7 +119,7 @@
 | [Tye](https://github.com/dotnet/tye) | GDL | | Limited to .NET applications; |
 | [Untrak](https://github.com/yanc0/untrak) | L | YAML | Abandoned; Garbage collect untracked resources; |
 | [ValidatingAdmissionPolicy](https://kubernetes.io/docs/reference/access-authn-authz/validating-admission-policy) | VI | CEL | |
-| [werf](https://github.com/flant/werf) | GDSL | YAML | |
+| [werf](https://github.com/werf/werf) | GDSL | YAML | |
 | [YAMLScript](https://github.com/yaml/yamlscript) | GL | YAMLScript | |
 | [ytt](https://github.com/carvel-dev/ytt) | GMVL | YAML, Starlark | |
 

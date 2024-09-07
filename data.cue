@@ -349,7 +349,7 @@ let _raw_config_tools = [
 		languages: ["Starlark", "Go"]
 	},
 	{
-		name: {text: "werf", repo: "flant/werf"}
+		name: {text: "werf", repo: "werf/werf"}
 		features: ["G", "D", "S", "L"]
 		languages: ["YAML"]
 	},
@@ -588,6 +588,41 @@ let _raw_config_tools = [
 		name: {text: "Cyclops", repo: "cyclops-ui/cyclops"}
 		features: ["G", "D", "I"]
 		languages: ["graphical UI"]
+	},
+	{
+		name: {text: "Kluctl", repo: "kluctl/kluctl"}
+		features: ["G", "D", "I", "L"]
+		languages: ["YAML", "Jinja2"]
+	},
+	{
+		name: {text: "kb8or", repo: "UKHomeOffice/kb8or"}
+		features: ["G", "D", "L"]
+		languages: ["YAML"]
+		info: abandoned: true
+	},
+	{
+		name: {text: "Razee", repo: "razee-io/Razee"}
+		features: ["G", "D", "I"]
+		info: abandoned: true
+	},
+	{
+		name: {text: "AppController", repo: "Mirantis/k8s-AppController"}
+		features: ["D", "I"]
+		info: abandoned: true
+	},
+	{
+		name: {text: "Psykube", repo: "psykube/psykube"}
+		features: ["G", "D", "L"]
+		languages: ["YAML"]
+		info: abandoned: true
+	},
+	{
+		name: {text: "PipeCD", repo: "pipe-cd/pipecd"}
+		features: ["D", "I"]
+	},
+	{
+		name: {text: "KubeVela", repo: "kubevela/kubevela"}
+		features: ["G", "D", "I", "L"]
 	},
 ]
 
