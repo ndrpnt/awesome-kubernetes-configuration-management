@@ -624,6 +624,11 @@ let _raw_config_tools = [
 		name: {text: "KubeVela", repo: "kubevela/kubevela"}
 		features: ["G", "D", "I", "L"]
 	},
+	{
+		name: {text: "Kargo Render", repo: "akuity/kargo-render"}
+		features: ["G", "L"]
+		languages: ["YAML"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

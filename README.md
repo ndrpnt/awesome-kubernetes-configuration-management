@@ -52,6 +52,7 @@
 | [Kapitan](https://github.com/kapicorp/kapitan) | GML | YAML, Jsonnet, Jinja2, Python | |
 | [kapp](https://github.com/carvel-dev/kapp) | DL | | |
 | [kapp-controller](https://github.com/carvel-dev/kapp-controller) | DI | | |
+| [Kargo Render](https://github.com/akuity/kargo-render) | GL | YAML | |
 | [Kasane](https://github.com/google/kasane) | ML | YAML, Jsonnet | Abandoned; |
 | [kb8or](https://github.com/UKHomeOffice/kb8or) | GDL | YAML | Abandoned; |
 | [KCL](https://github.com/KusionStack/KCLVM) | GMVSL | KCL | Related: [Run KCL scripts as KRM functions](https://github.com/kcl-lang/krm-kcl); |
