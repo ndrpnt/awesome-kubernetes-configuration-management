@@ -787,4 +787,9 @@ let _raw_secret_tools = [
 		name: {text: "Piggy", repo: "KongZ/piggy"}
 		features: ["A"]
 	},
+	{
+		name: {text: "helm-ssm", repo: "totango/helm-ssm"}
+		features: ["L"]
+		info: abandoned: true
+	},
 ]

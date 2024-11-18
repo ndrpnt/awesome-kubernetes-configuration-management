@@ -45,3 +45,11 @@
 {{- template "features" $T.features}}|
 {{- template "notes" $T.info}}|
 {{- end}}
+
+## Sources
+
+* [Kubernetes application management tools spreadsheet](https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/), retrieved 2024-11-18
+* [Kubetools](https://collabnix.github.io/kubetools/), retrieved 2024-11-18
+* [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources), retrieved 2024-11-18
+* [Awesome Kubernetes](https://github.com/run-x/awesome-kubernetes), retrieved 2024-11-18
+* [Awesome K8s](https://github.com/pditommaso/awesome-k8s), retrieved 2024-11-18

@@ -143,6 +143,7 @@
 | [git-encrypt](https://github.com/shadowhand/git-encrypt) | L | Abandoned; |
 | [git-secret](https://github.com/sobolevn/git-secret) | L | |
 | [helm-secrets](https://github.com/jkroepke/helm-secrets) | L | |
+| [helm-ssm](https://github.com/totango/helm-ssm) | L | Abandoned; |
 | [Hiera eyaml](https://github.com/voxpupuli/hiera-eyaml) | L | |
 | [Infisical Secrets Operator](https://github.com/Infisical/infisical/tree/main/k8-operator) | I | Related: [Infisical](https://github.com/Infisical/infisical); |
 | [Kamus](https://github.com/Soluto/kamus) | IA | |
@@ -164,3 +165,11 @@
 | [Vault Secrets Operator (Rico Berger)](https://github.com/ricoberger/vault-secrets-operator) | I | |
 | [vault-k8s](https://github.com/hashicorp/vault-k8s) | A | |
 | [yaml-crypt](https://github.com/autoapply/yaml-crypt) | L | |
+
+## Sources
+
+* [Kubernetes application management tools spreadsheet](https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/), retrieved 2024-11-18
+* [Kubetools](https://collabnix.github.io/kubetools/), retrieved 2024-11-18
+* [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources), retrieved 2024-11-18
+* [Awesome Kubernetes](https://github.com/run-x/awesome-kubernetes), retrieved 2024-11-18
+* [Awesome K8s](https://github.com/pditommaso/awesome-k8s), retrieved 2024-11-18
