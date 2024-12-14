@@ -629,6 +629,11 @@ let _raw_config_tools = [
 		features: ["G", "L"]
 		languages: ["YAML"]
 	},
+	{
+		name: {text: "k8skonf", repo: "konfjs/k8skonf"}
+		features: ["G", "S", "L"]
+		languages: ["TypeScript"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

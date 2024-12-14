@@ -47,6 +47,7 @@
 | [jsPolicy](https://github.com/loft-sh/jspolicy) | MVI | JavaScript, TypeScript | "Controller policies" support; |
 | [k-rail](https://github.com/cruise-automation/k-rail) | MVI | any (gRPC) | Abandoned; |
 | [k8comp](https://github.com/cststack/k8comp) | GL | ERB (Ruby templating) | Abandoned; |
+| [k8skonf](https://github.com/konfjs/k8skonf) | GSL | TypeScript | |
 | [k8spkg](https://github.com/mgoltzsche/k8spkg) | MDL | | Abandoned; |
 | [kadet](https://github.com/kapicorp/kadet) | GL | Python | |
 | [Kapitan](https://github.com/kapicorp/kapitan) | GML | YAML, Jsonnet, Jinja2, Python | |
