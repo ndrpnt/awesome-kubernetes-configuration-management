@@ -634,6 +634,11 @@ let _raw_config_tools = [
 		features: ["G", "S", "L"]
 		languages: ["TypeScript"]
 	},
+	{
+		name: {text: "Kubes", repo: "boltops-tools/kubes"}
+		features: ["G", "D", "L"]
+		languages: ["DSL"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

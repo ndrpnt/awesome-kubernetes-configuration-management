@@ -83,6 +83,7 @@
 | [kubegen](https://github.com/errordeveloper/kubegen) | GL | YAML, JSON, HCL | Abandoned; |
 | [KubeLinter](https://github.com/stackrox/kube-linter) | VL | YAML | |
 | [kubenix](https://github.com/hall/kubenix) | GL | Nix | Related: [GTrunSec/kubenix](https://github.com/GTrunSec/kubenix), [blaggacao/kubenix](https://github.com/blaggacao/kubenix), [xtruder/kubenix](https://github.com/xtruder/kubenix); |
+| [Kubes](https://github.com/boltops-tools/kubes) | GDL | DSL | |
 | [Kubescape](https://github.com/kubescape/kubescape) | VIL | Rego | External data support; |
 | [Kubeval](https://github.com/instrumenta/kubeval) | VL | | Abandoned; |
 | [KubeVela](https://github.com/kubevela/kubevela) | GDIL | | |
