@@ -1,6 +1,10 @@
 # Awesome Kubernetes Configuration Management
 
-> This list is incomplete. Feel free to contribute and help expand it.
+This list contains
+191 configuration management tools,
+42 secret management tools,
+and 2 other related tools.
+Feel free to contribute and help expand it.
 
 ## Configuration Management
 

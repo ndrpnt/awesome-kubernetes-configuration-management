@@ -12,7 +12,11 @@
 
 # Awesome Kubernetes Configuration Management
 
-> This list is incomplete. Feel free to contribute and help expand it.
+This list contains
+{{len .config_tools}} configuration management tools,
+{{len .secret_tools}} secret management tools,
+and {{len .misc_tools}} other related tools.
+Feel free to contribute and help expand it.
 
 ## Configuration Management
 
