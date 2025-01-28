@@ -4,7 +4,7 @@
 {{define "languages"}}{{range $i, $L := . -}}{{if $i}},{{end}} {{$L}}{{end}} {{end -}}
 {{define "notes" -}}
   {{" " -}}
-  {{if .todo}}TODO; {{end -}}
+  {{if not .reviewed}}Unreviewed; {{end -}}
   {{if .abandoned}}Abandoned; {{end -}}
   {{if .related}}Related: {{range $i, $R := .related -}}{{if $i}}, {{end}}{{template "link" $R}}{{end}}; {{end -}}
   {{if .notes}}{{.notes}}; {{end -}}

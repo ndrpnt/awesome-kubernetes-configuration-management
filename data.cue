@@ -641,323 +641,323 @@ let _raw_config_tools = [
 	},
 	{
 		name: {text: "devtron", repo: "devtron-labs/devtron"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "hull", repo: "vidispine/hull"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "gitkube", repo: "hasura/gitkube"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Podex", repo: "kubernetes/contrib/tree/master/podex"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Rio", repo: "rancher/rio"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Spread", repo: "redspread/spread"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Draft", repo: "Azure/draft"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Deis workflow", repo: "deis/workflow"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Skylark", repo: "google/skylark"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "fabric8 client", repo: "fabric8io/kubernetes-client"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kubernetes-deploy", repo: "Shopify/kubernetes-deploy"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Nulecule", repo: "projectatomic/nulecule"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "landscaper", repo: "Eneco/landscaper"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Metaparticle", repo: "metaparticle-io/package"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Forge", repo: "datawire/forge/"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "KPM", repo: "coreos/kpm"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Smith", repo: "atlassian/smith"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Srvexpand", repo: "hortonworks/kubernetes-yarn/tree/master/contrib/srvexpand"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "k8sec", repo: "dtan4/k8sec"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "fabric8-mvn-plugin", repo: "fabric8io/fabric8-maven-plugin"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Chartify", repo: "appscode/chartify"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kontemplate", repo: "tazjin/kontemplate"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "rok8s-scripts", repo: "reactiveops/rok8s-scripts"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "armada", repo: "att-comdev/armada"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kexpand", repo: "kopeio/kexpand"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "k8s-kotlin-dsl", repo: "fkorotkov/k8s-kotlin-dsl"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Short", repo: "koki/short"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kploy", repo: "kubernauts/kploy"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Skipper", repo: "concur/skipper"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "KY", repo: "stellaservice/ky"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Broadway", repo: "namely/broadway"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Koki", repo: "koki/koki"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "generator-kubegen", repo: "sesispla/generator-kubegen"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Rubiks", repo: "olx-global/rubiks"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Deploymentizer", repo: "InVisionApp/kit-deploymentizer"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kdeploy", repo: "flexiant/kdeploy"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Archipa", repo: "archipaorg/archipa"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Puccini", repo: "tliron/puccini"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "ERB-Hiera", repo: "roobert/erb-hiera"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "k82-icl", repo: "archipaorg/k8s-icl"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "OpenShift templates", url: "https://docs.openshift.org/latest/dev_guide/templates.html"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Puppet", url: "https://forge.puppet.com/garethr/kubernetes/readme"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kuku", repo: "xarg/kuku"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "sugarkube", repo: "sugarkube/sugarkube"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kubernetes", repo: "jkcfg/kubernetes"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "flekszible", repo: "elek/flekszible"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "karavel", repo: "gree-gorey/karavel"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "lostromos", repo: "lostromos/lostromos"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "fabrikate", repo: "Microsoft/fabrikate"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "helm-app-operator-kit", repo: "operator-framework/helm-app-operator-kit"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "puppetlabs-helm", repo: "puppetlabs/puppetlabs-helm"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kubed", repo: "appscode/kubed"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "pack", repo: "kubepack/pack"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "k8s-app-engine", repo: "Aptomi/k8s-app-engine"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "environment-operator", repo: "pearsontechnology/environment-operator"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kubor", repo: "levertonai/kubor"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "stackset-controller", repo: "zalando-incubator/stackset-controller"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Konfigurator", repo: "stakater/Konfigurator"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "shipper", repo: "bookingcom/shipper"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "jx", repo: "jenkins-x/jx"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "pipeline", repo: "tektoncd/pipeline"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "habitat", repo: "habitat-sh/habitat"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "apollo", repo: "logzio/apollo"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "flagger", repo: "weaveworks/flagger"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "foremast", repo: "intuit/foremast"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kabanero-operator", repo: "kabanero-io/kabanero-operator"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "appsody", repo: "appsody/appsody"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "garden", repo: "garden-io/garden"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kuberig", repo: "teyckmans/kuberig"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "konstellate", repo: "containership/konstellate"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "mortar", repo: "kontena/mortar"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "k8s-handle", repo: "2gis/k8s-handle"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kuby", repo: "smartive/kuby"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "devspace", repo: "devspace-cloud/devspace"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "configula", repo: "brendandburns/configula"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "skaffold", repo: "GoogleContainerTools/skaffold"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "qbec", repo: "splunk/qbec"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "knot8", repo: "mkmik/knot8"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Kubehiera", url: "https://gitlab.com/msvechla/kubehiera"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kro", repo: "kro-run/kro"}
-		info: todo: true
+		info: reviewed: false
 	},
 ]
 
@@ -1124,39 +1124,39 @@ let _raw_secret_tools = [
 	},
 	{
 		name: {text: "sops-secrets-operator", repo: "isindir/sops-secrets-operator"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kamus", repo: "soluto/kamus"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "external-secret", repo: "imranismail/external-secret"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "argocd-vault-plugin", repo: "argoproj-labs/argocd-vault-plugin"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "sops-operator", repo: "craftypath/sops-operator"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "argocd-vault-replacer", repo: "crumbhole/argocd-vault-replacer"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "vault-secrets-webhook", repo: "bank-vaults/vault-secrets-webhook"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "kustomize-sops", repo: "viaduct-ai/kustomize-sops"}
-		info: todo: true
+		info: reviewed: false
 	},
 	{
 		name: {text: "Kustomize secretGeneratorPlugin", url: "https://github.com/kubernetes-sigs/kustomize/blob/ab519fdc13ded9875e42d70ac8a5b1b9023a2dbb/examples/secretGeneratorPlugin.md"}
-		info: todo: true
+		info: reviewed: false
 	},
 ]
 

@@ -13,7 +13,7 @@ import (
 
 #Info: {
 	// Whether this tool has been reviewed.
-	todo: bool | *false
+	reviewed: bool | *true
 
 	// Is the project still (at least somewhat) maintained.
 	abandoned: bool | *false
