@@ -436,7 +436,7 @@ let _raw_config_tools = [
 	},
 	{
 		name: {text: "Untrak", repo: "yanc0/untrak"}
-		features: ["L"]
+		features: ["D", "L"]
 		languages: ["YAML"]
 		info: abandoned: true
 		info: notes:     "Garbage collect untracked resources"
@@ -1169,5 +1169,9 @@ let _raw_misc_tools = [
 	{
 		name: {text: "Argo Rollouts", repo: "argoproj/argo-rollouts"}
 		info: notes: "Controller and set of CRDs which provide progressive delivery features"
+	},
+	{
+		name: {text: "Knative Serving", repo: "knative/serving"}
+		info: notes: "Set of CRDs used to define serverless workloads"
 	},
 ]

@@ -3,7 +3,7 @@
 This list contains
 191 configuration management tools,
 42 secret management tools,
-and 2 other related tools.
+and 3 other related tools.
 Feel free to contribute and help expand it.
 
 ## Configuration Management
@@ -204,7 +204,7 @@ Feel free to contribute and help expand it.
 | [Tilt](https://github.com/tilt-dev/tilt) | GMDL | Starlark | |
 | [Timoni](https://github.com/stefanprodan/timoni) | GDSL | CUE | |
 | [Tye](https://github.com/dotnet/tye) | GDL | | Limited to .NET applications; |
-| [Untrak](https://github.com/yanc0/untrak) | L | YAML | Abandoned; Garbage collect untracked resources; |
+| [Untrak](https://github.com/yanc0/untrak) | DL | YAML | Abandoned; Garbage collect untracked resources; |
 | [ValidatingAdmissionPolicy](https://kubernetes.io/docs/reference/access-authn-authz/validating-admission-policy) | VI | CEL | |
 | [werf](https://github.com/werf/werf) | GDSL | YAML | |
 | [YAMLScript](https://github.com/yaml/yamlscript) | GL | YAMLScript | |
@@ -267,6 +267,7 @@ Feel free to contribute and help expand it.
 |-|-|
 | [Argo Rollouts](https://github.com/argoproj/argo-rollouts) | Controller and set of CRDs which provide progressive delivery features; |
 | [Kargo](https://github.com/akuity/kargo) | Integrates with GitOps tools to promote changes across environments; |
+| [Knative Serving](https://github.com/knative/serving) | Set of CRDs used to define serverless workloads; |
 
 ## Sources
 
