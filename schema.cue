@@ -99,6 +99,17 @@ import (
 _checks: {
 	unique_config_tools_name_text: list.UniqueItems() & [ for t in data.config_tools {t.name.text}]
 	unique_config_tools_name_repo: list.UniqueItems() & [ for t in data.config_tools {t.name.repo}]
+	unique_config_tools_name_url:  list.UniqueItems() & [ for t in data.config_tools {t.name.url}]
+
 	unique_secret_tools_name_text: list.UniqueItems() & [ for t in data.secret_tools {t.name.text}]
 	unique_secret_tools_name_repo: list.UniqueItems() & [ for t in data.secret_tools {t.name.repo}]
+	unique_secret_tools_name_url:  list.UniqueItems() & [ for t in data.secret_tools {t.name.url}]
+
+	unique_misc_tools_name_text: list.UniqueItems() & [ for t in data.misc_tools {t.name.text}]
+	unique_misc_tools_name_repo: list.UniqueItems() & [ for t in data.misc_tools {t.name.repo}]
+	unique_misc_tools_name_url:  list.UniqueItems() & [ for t in data.misc_tools {t.name.url}]
+
+	unique_sources_name_text: list.UniqueItems() & [ for t in data.sources {t.name.text}]
+	unique_sources_name_repo: list.UniqueItems() & [ for t in data.sources {t.name.repo}]
+	unique_sources_name_url:  list.UniqueItems() & [ for t in data.sources {t.name.url}]
 }
