@@ -1,9 +1,9 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-191 configuration management tools,
+194 configuration management tools,
 42 secret management tools,
-and 3 other related tools.
+and 4 other related tools.
 Feel free to contribute and help expand it.
 
 ## Configuration Management
@@ -121,7 +121,6 @@ Feel free to contribute and help expand it.
 | [kraan](https://github.com/fidelity/kraan) | DI | | |
 | [krane](https://github.com/Shopify/krane) | GDL | ERB (Ruby templating) | |
 | [Kratix](https://github.com/syntasso/kratix) | GDI | | |
-| [kro](https://github.com/kro-run/kro) | | | Unreviewed; |
 | [ksonnet](https://github.com/ksonnet/ksonnet) | GVDSL | Jsonnet | Abandoned; Related: [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib); |
 | [ktmpl](https://github.com/jimmycuadra/ktmpl) | GL | | Abandoned; |
 | [kube-applier](https://github.com/box/kube-applier) | DI | | Abandoned; |
@@ -129,6 +128,7 @@ Feel free to contribute and help expand it.
 | [kubecfg](https://github.com/kubecfg/kubecfg) | GDL | Jsonnet | |
 | [Kubeconform](https://github.com/yannh/kubeconform) | VL | | |
 | [kubectl](https://github.com/kubernetes/kubectl) | GVDL | | |
+| [kubectl-neat](https://github.com/itaysk/kubectl-neat) | ML | | |
 | [kubed](https://github.com/appscode/kubed) | | | Unreviewed; |
 | [kubegen](https://github.com/errordeveloper/kubegen) | GL | YAML, JSON, HCL | Abandoned; |
 | [Kubehiera](https://gitlab.com/msvechla/kubehiera) | | | Unreviewed; |
@@ -161,6 +161,7 @@ Feel free to contribute and help expand it.
 | [Monokle](https://github.com/kubeshop/monokle) | GVDL | | |
 | [mortar](https://github.com/kontena/mortar) | | | Unreviewed; |
 | [NAML](https://github.com/kris-nova/naml) | GDL | Go | |
+| [Nelm](https://github.com/werf/nelm) | GDSL | Go Template | Not yet extracted from werf as a standalone CLI; |
 | [Nickel](https://github.com/tweag/nickel) | GVL | Nickel | |
 | [Nulecule](https://github.com/projectatomic/nulecule) | | | Unreviewed; |
 | [OpenCompose](https://github.com/redhat-developer/opencompose) | GL | | Abandoned; |
@@ -197,15 +198,17 @@ Feel free to contribute and help expand it.
 | [specctl](https://github.com/awslabs/specctl) | GL | YAML | Supports generating manifests from docker compose files, and ECS Fargate task and service definitions; |
 | [Spread](https://github.com/redspread/spread) | | | Unreviewed; |
 | [Srvexpand](https://github.com/hortonworks/kubernetes-yarn/tree/master/contrib/srvexpand) | | | Unreviewed; |
-| [stackset-controller](https://github.com/zalando-incubator/stackset-controller) | | | Unreviewed; |
+| [StackSet](https://github.com/zalando-incubator/stackset-controller) | | | Unreviewed; |
 | [sugarkube](https://github.com/sugarkube/sugarkube) | | | Unreviewed; |
 | [Tanka](https://github.com/grafana/tanka) | GDSL | Jsonnet | |
 | [Terraform](https://github.com/hashicorp/terraform) | GDL | HCL | Related: [Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes), [k8s provider](https://github.com/banzaicloud/terraform-provider-k8s), [Kustomize provider](https://github.com/kbst/terraform-provider-kustomize), [Helm provider](https://github.com/terraform-providers/terraform-provider-helm); |
 | [Tilt](https://github.com/tilt-dev/tilt) | GMDL | Starlark | |
 | [Timoni](https://github.com/stefanprodan/timoni) | GDSL | CUE | |
+| [Trivy](https://github.com/aquasecurity/trivy) | VIL | | |
 | [Tye](https://github.com/dotnet/tye) | GDL | | Limited to .NET applications; |
 | [Untrak](https://github.com/yanc0/untrak) | DL | YAML | Abandoned; Garbage collect untracked resources; |
 | [ValidatingAdmissionPolicy](https://kubernetes.io/docs/reference/access-authn-authz/validating-admission-policy) | VI | CEL | |
+| [ValidKube](https://github.com/komodorio/validkube) | MVL | | |
 | [werf](https://github.com/werf/werf) | GDSL | YAML | |
 | [YAMLScript](https://github.com/yaml/yamlscript) | GL | YAMLScript | |
 | [ytt](https://github.com/carvel-dev/ytt) | GMVL | YAML, Starlark | |
@@ -268,6 +271,7 @@ Feel free to contribute and help expand it.
 | [Argo Rollouts](https://github.com/argoproj/argo-rollouts) | Controller and set of CRDs which provide progressive delivery features; |
 | [Kargo](https://github.com/akuity/kargo) | Integrates with GitOps tools to promote changes across environments; |
 | [Knative Serving](https://github.com/knative/serving) | Set of CRDs used to define serverless workloads; |
+| [kro](https://github.com/kro-run/kro) | Define higher-level Kubernetes resources, composed of a multiple lower-level ones; |
 
 ## Sources
 
@@ -276,3 +280,5 @@ Feel free to contribute and help expand it.
 * [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources), retrieved 2024-11-18
 * [Awesome Kubernetes](https://github.com/run-x/awesome-kubernetes), retrieved 2024-11-18
 * [Awesome K8s](https://github.com/pditommaso/awesome-k8s), retrieved 2024-11-18
+* [Declarative application management in Kubernetes](https://github.com/kubernetes/design-proposals-archive/blob/main/architecture/declarative-application-management.md), retrieved 2025-02-09
+* [Kubernetes Configuration in 2024](https://itnext.io/kubernetes-configuration-in-2024-434abc7a5a1b), retrieved 2025-02-09

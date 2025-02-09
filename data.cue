@@ -864,7 +864,7 @@ let _raw_config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "stackset-controller", repo: "zalando-incubator/stackset-controller"}
+		name: {text: "StackSet", repo: "zalando-incubator/stackset-controller"}
 		info: reviewed: false
 	},
 	{
@@ -956,8 +956,22 @@ let _raw_config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "kro", repo: "kro-run/kro"}
-		info: reviewed: false
+		name: {text: "ValidKube", repo: "komodorio/validkube"}
+		features: ["M", "V", "L"]
+	},
+	{
+		name: {text: "kubectl-neat", repo: "itaysk/kubectl-neat"}
+		features: ["M", "L"]
+	},
+	{
+		name: {text: "Trivy", repo: "aquasecurity/trivy"}
+		features: ["V", "I", "L"]
+	},
+	{
+		name: {text: "Nelm", repo: "werf/nelm"}
+		features: ["G", "D", "S", "L"]
+		languages: ["Go Template"]
+		info: notes: "Not yet extracted from werf as a standalone CLI"
 	},
 ]
 
@@ -1173,5 +1187,9 @@ let _raw_misc_tools = [
 	{
 		name: {text: "Knative Serving", repo: "knative/serving"}
 		info: notes: "Set of CRDs used to define serverless workloads"
+	},
+	{
+		name: {text: "kro", repo: "kro-run/kro"}
+		info: notes: "Define higher-level Kubernetes resources, composed of a multiple lower-level ones"
 	},
 ]

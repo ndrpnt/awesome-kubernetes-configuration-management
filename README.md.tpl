@@ -67,3 +67,5 @@ Feel free to contribute and help expand it.
 * [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources), retrieved 2024-11-18
 * [Awesome Kubernetes](https://github.com/run-x/awesome-kubernetes), retrieved 2024-11-18
 * [Awesome K8s](https://github.com/pditommaso/awesome-k8s), retrieved 2024-11-18
+* [Declarative application management in Kubernetes](https://github.com/kubernetes/design-proposals-archive/blob/main/architecture/declarative-application-management.md), retrieved 2025-02-09
+* [Kubernetes Configuration in 2024](https://itnext.io/kubernetes-configuration-in-2024-434abc7a5a1b), retrieved 2025-02-09
