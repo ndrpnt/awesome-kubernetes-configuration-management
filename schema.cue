@@ -3,6 +3,7 @@ package awesome
 import (
 	"list"
 	"strings"
+	"time"
 )
 
 #Link: {
@@ -88,6 +89,11 @@ import (
 #MiscTool: {
 	name: #Link
 	info: #Info
+}
+
+#Source: {
+	name: #Link
+	date: time.Format("2006-01-02")
 }
 
 _checks: {
