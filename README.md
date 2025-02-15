@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-195 configuration management tools,
+196 configuration management tools,
 42 secret management tools,
 and 3 other related tools.
 Feel free to contribute and help expand it.
@@ -203,6 +203,7 @@ Feel free to contribute and help expand it.
 | [StackSet](https://github.com/zalando-incubator/stackset-controller) | | | Unreviewed; |
 | [sugarkube](https://github.com/sugarkube/sugarkube) | | | Unreviewed; |
 | [Tanka](https://github.com/grafana/tanka) | GDSL | Jsonnet | |
+| [Telefonistka](https://github.com/commercetools/telefonistka) | PL | YAML | |
 | [Terraform](https://github.com/hashicorp/terraform) | GDL | HCL | Related: [Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes), [k8s provider](https://github.com/banzaicloud/terraform-provider-k8s), [Kustomize provider](https://github.com/kbst/terraform-provider-kustomize), [Helm provider](https://github.com/terraform-providers/terraform-provider-helm); |
 | [Tilt](https://github.com/tilt-dev/tilt) | GMDL | Starlark | |
 | [Timoni](https://github.com/stefanprodan/timoni) | GDSL | CUE | |

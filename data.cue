@@ -974,6 +974,11 @@ let _raw_config_tools = [
 		info: notes: "Not yet extracted from werf as a standalone CLI"
 	},
 	{
+		name: {text: "Telefonistka", repo: "commercetools/telefonistka"}
+		features: ["P", "L"]
+		languages: ["YAML"]
+	},
+	{
 		name: {text: "Kargo", repo: "akuity/kargo"}
 		features: ["P", "I"]
 		info: notes: "Integrates with GitOps tools to promote changes across environments"
