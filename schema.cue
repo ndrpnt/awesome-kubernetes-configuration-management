@@ -45,6 +45,10 @@ import (
 		// Given Kubernetes manifest, makes Kubernetes API calls.
 		"D" |
 
+		// Promotion
+		// Enables promotion of Kubernetes manifests across environments.
+		"P" |
+
 		// Sharing
 		// Enables the packaging and/or distribution of Kubernetes manifests.
 		"S" |
@@ -58,7 +62,7 @@ import (
 	name: #Link
 	info: #Info
 
-	let sorted_features = "GMVDSIL"
+	let sorted_features = "GMVDPSIL"
 	features: [...#Feature] & list.UniqueItems() & list.IsSorted({x: #Feature, y: #Feature, less: strings.Index(sorted_features, x) < strings.Index(sorted_features, y)})
 
 	// Languages you may employ when using that tool. JSON and YAML documents

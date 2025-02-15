@@ -1,9 +1,9 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-194 configuration management tools,
+195 configuration management tools,
 42 secret management tools,
-and 4 other related tools.
+and 3 other related tools.
 Feel free to contribute and help expand it.
 
 ## Configuration Management
@@ -12,6 +12,7 @@ Feel free to contribute and help expand it.
 * **Mutation (M)**: Given Kubernetes manifests, returns (possibly different) Kubernetes manifests.
 * **Validation (V)**: Given Kubernetes manifests, returns validation results.
 * **Deployment (D)**: Given Kubernetes manifest, makes Kubernetes API calls.
+* **Promotion (P)**: Enables promotion of Kubernetes manifests across environments.
 * **Sharing (S)**: Enables the packaging and/or distribution of Kubernetes manifests.
 * **In cluster (I)**: Runs in cluster.
 * **Local (L)**: Runs locally.
@@ -92,6 +93,7 @@ Feel free to contribute and help expand it.
 | [kapp](https://github.com/carvel-dev/kapp) | DL | | |
 | [kapp-controller](https://github.com/carvel-dev/kapp-controller) | DI | | |
 | [karavel](https://github.com/gree-gorey/karavel) | | | Unreviewed; |
+| [Kargo](https://github.com/akuity/kargo) | PI | | Integrates with GitOps tools to promote changes across environments; |
 | [Kargo Render](https://github.com/akuity/kargo-render) | GL | YAML | |
 | [Kasane](https://github.com/google/kasane) | ML | YAML, Jsonnet | Abandoned; |
 | [kb8or](https://github.com/UKHomeOffice/kb8or) | GDL | YAML | Abandoned; |
@@ -269,7 +271,6 @@ Feel free to contribute and help expand it.
 | | Notes |
 |-|-|
 | [Argo Rollouts](https://github.com/argoproj/argo-rollouts) | Controller and set of CRDs which provide progressive delivery features; |
-| [Kargo](https://github.com/akuity/kargo) | Integrates with GitOps tools to promote changes across environments; |
 | [Knative Serving](https://github.com/knative/serving) | Set of CRDs used to define serverless workloads; |
 | [kro](https://github.com/kro-run/kro) | Define higher-level Kubernetes resources, composed of a multiple lower-level ones; |
 

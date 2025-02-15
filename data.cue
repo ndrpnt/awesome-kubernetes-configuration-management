@@ -973,6 +973,11 @@ let _raw_config_tools = [
 		languages: ["Go Template"]
 		info: notes: "Not yet extracted from werf as a standalone CLI"
 	},
+	{
+		name: {text: "Kargo", repo: "akuity/kargo"}
+		features: ["P", "I"]
+		info: notes: "Integrates with GitOps tools to promote changes across environments"
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
@@ -1176,10 +1181,6 @@ let _raw_secret_tools = [
 
 data: misc_tools: [...#MiscTool] & list.Sort(_raw_misc_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
 let _raw_misc_tools = [
-	{
-		name: {text: "Kargo", repo: "akuity/kargo"}
-		info: notes: "Integrates with GitOps tools to promote changes across environments"
-	},
 	{
 		name: {text: "Argo Rollouts", repo: "argoproj/argo-rollouts"}
 		info: notes: "Controller and set of CRDs which provide progressive delivery features"

@@ -24,6 +24,7 @@ Feel free to contribute and help expand it.
 * **Mutation (M)**: Given Kubernetes manifests, returns (possibly different) Kubernetes manifests.
 * **Validation (V)**: Given Kubernetes manifests, returns validation results.
 * **Deployment (D)**: Given Kubernetes manifest, makes Kubernetes API calls.
+* **Promotion (P)**: Enables promotion of Kubernetes manifests across environments.
 * **Sharing (S)**: Enables the packaging and/or distribution of Kubernetes manifests.
 * **In cluster (I)**: Runs in cluster.
 * **Local (L)**: Runs locally.
