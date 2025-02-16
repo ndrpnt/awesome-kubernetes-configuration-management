@@ -987,6 +987,10 @@ let _raw_config_tools = [
 		name: {text: "kubechecks", repo: "zapier/kubechecks"}
 		features: ["V", "I"]
 	},
+	{
+		name: {text: "Popeye", repo: "derailed/popeye"}
+		features: ["V", "L"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

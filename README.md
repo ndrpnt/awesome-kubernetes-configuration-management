@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-197 configuration management tools,
+198 configuration management tools,
 42 secret management tools,
 and 3 other related tools.
 Feel free to contribute and help expand it.
@@ -175,6 +175,7 @@ Feel free to contribute and help expand it.
 | [Pkl](https://github.com/apple/pkl) | GSL | Pkl | Related: [Kubernetes Pkl templates](https://github.com/apple/pkl-k8s), [Kubernetes Pkl examples](https://github.com/apple/pkl-k8s-examples), [Other Pkl (Kubernetes) packages](https://pkl-lang.org/package-docs/); |
 | [Podex](https://github.com/kubernetes/contrib/tree/master/podex) | | | Unreviewed; |
 | [Polaris](https://github.com/FairwindsOps/polaris) | MVIL | YAML, JSON Schema | |
+| [Popeye](https://github.com/derailed/popeye) | VL | | |
 | [Project Syn](https://github.com/projectsyn) | GMDSIL | YAML, Jsonnet, Jinja2, Python | Related: [Commodore](https://github.com/projectsyn/commodore), [Lieutenant API](https://github.com/projectsyn/lieutenant-api), [Lieutenant Operator](https://github.com/projectsyn/lieutenant-operator), [Steward](https://github.com/projectsyn/steward); |
 | [Psykube](https://github.com/psykube/psykube) | GDL | YAML | Abandoned; |
 | [Puccini](https://github.com/tliron/puccini) | | | Unreviewed; |
