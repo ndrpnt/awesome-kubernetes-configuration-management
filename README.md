@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-200 configuration management tools,
+201 configuration management tools,
 42 secret management tools,
 and 3 other related tools.
 Feel free to contribute and help expand it.
@@ -37,6 +37,7 @@ Feel free to contribute and help expand it.
 | [clusterlint](https://github.com/digitalocean/clusterlint) | VL | | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
 | [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
+| [config-lint](https://github.com/stelligent/config-lint) | VL | | |
 | [configula](https://github.com/brendandburns/configula) | | | Unreviewed; |
 | [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes); |
 | [Copper](https://github.com/cloud66-oss/copper) | VL | JavaScript | |
