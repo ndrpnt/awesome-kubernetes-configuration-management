@@ -1004,6 +1004,10 @@ let _raw_config_tools = [
 		name: {text: "config-lint", repo: "stelligent/config-lint"}
 		features: ["V", "L"]
 	},
+	{
+		name: {text: "OpenRewrite", repo: "openrewrite/rewrite"}
+		features: ["M", "V", "L"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
