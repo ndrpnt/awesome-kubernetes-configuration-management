@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-199 configuration management tools,
+200 configuration management tools,
 42 secret management tools,
 and 3 other related tools.
 Feel free to contribute and help expand it.
@@ -39,6 +39,7 @@ Feel free to contribute and help expand it.
 | [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
 | [configula](https://github.com/brendandburns/configula) | | | Unreviewed; |
 | [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes); |
+| [Copper](https://github.com/cloud66-oss/copper) | VL | JavaScript | |
 | [Crossplane](https://github.com/crossplane/crossplane) | GDI | | Related: [Ansible provider](https://github.com/crossplane-contrib/provider-ansible), [Argo CD provider](https://github.com/crossplane-contrib/provider-argocd), [Helm provider](https://github.com/crossplane-contrib/provider-helm), [Kubernetes provider](https://github.com/crossplane-contrib/provider-kubernetes), [Terraform provider](https://github.com/upbound/provider-terraform); |
 | [CUE](https://github.com/cue-lang/cue) | GVSL | CUE | |
 | [Cyclops](https://github.com/cyclops-ui/cyclops) | GDI | graphical UI | |
