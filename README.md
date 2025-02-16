@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-204 configuration management tools,
+205 configuration management tools,
 42 secret management tools,
 and 3 other related tools.
 Feel free to contribute and help expand it.
@@ -179,6 +179,7 @@ Feel free to contribute and help expand it.
 | [PipeCD](https://github.com/pipe-cd/pipecd) | DI | | |
 | [pipeline](https://github.com/tektoncd/pipeline) | | | Unreviewed; |
 | [Pkl](https://github.com/apple/pkl) | GSL | Pkl | Related: [Kubernetes Pkl templates](https://github.com/apple/pkl-k8s), [Kubernetes Pkl examples](https://github.com/apple/pkl-k8s-examples), [Other Pkl (Kubernetes) packages](https://pkl-lang.org/package-docs/); |
+| [Pluto](https://github.com/FairwindsOps/pluto) | VL | | |
 | [Podex](https://github.com/kubernetes/contrib/tree/master/podex) | | | Unreviewed; |
 | [Polaris](https://github.com/FairwindsOps/polaris) | MVIL | YAML, JSON Schema | |
 | [Popeye](https://github.com/derailed/popeye) | VL | | |
