@@ -983,6 +983,10 @@ let _raw_config_tools = [
 		features: ["P", "I"]
 		info: notes: "Integrates with GitOps tools to promote changes across environments"
 	},
+	{
+		name: {text: "kubechecks", repo: "zapier/kubechecks"}
+		features: ["V", "I"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
