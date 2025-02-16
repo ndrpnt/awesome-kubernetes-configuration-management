@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-198 configuration management tools,
+199 configuration management tools,
 42 secret management tools,
 and 3 other related tools.
 Feel free to contribute and help expand it.
@@ -34,6 +34,7 @@ Feel free to contribute and help expand it.
 | [cdk8s](https://github.com/cdk8s-team/cdk8s) | GSL | TypeScript, Python, Java, Go | Related: [cdk8s+](https://github.com/cdk8s-team/cdk8s-plus); |
 | [Chartify](https://github.com/appscode/chartify) | | | Unreviewed; |
 | [Checkov](https://github.com/bridgecrewio/checkov) | VIL | YAML, Python | |
+| [clusterlint](https://github.com/digitalocean/clusterlint) | VL | | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
 | [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
 | [configula](https://github.com/brendandburns/configula) | | | Unreviewed; |

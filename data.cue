@@ -991,6 +991,10 @@ let _raw_config_tools = [
 		name: {text: "Popeye", repo: "derailed/popeye"}
 		features: ["V", "L"]
 	},
+	{
+		name: {text: "clusterlint", repo: "digitalocean/clusterlint"}
+		features: ["V", "L"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
