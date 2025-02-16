@@ -1012,6 +1012,11 @@ let _raw_config_tools = [
 		name: {text: "kube-score", repo: "zegl/kube-score"}
 		features: ["V", "L"]
 	},
+	{
+		name: {text: "Kubevious", repo: "kubevious/kubevious"}
+		features: ["V", "L"]
+		languages: ["DSL"]
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
