@@ -470,8 +470,11 @@ let _raw_config_tools = [
 	},
 	{
 		name: {text: "Nickel", repo: "tweag/nickel"}
-		features: ["G", "V", "L"]
+		features: ["G", "M", "V", "L"]
 		languages: ["Nickel"]
+		info: related: [
+			{text: "nickel-kubernetes", repo: "tweag/nickel-kubernetes"},
+		]
 	},
 	{
 		name: {text: "KubeLinter", repo: "stackrox/kube-linter"}

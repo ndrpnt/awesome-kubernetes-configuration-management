@@ -170,7 +170,7 @@ Feel free to contribute and help expand it.
 | [mortar](https://github.com/kontena/mortar) | | | Unreviewed; |
 | [NAML](https://github.com/kris-nova/naml) | GDL | Go | |
 | [Nelm](https://github.com/werf/nelm) | GDSL | Go Template | Not yet extracted from werf as a standalone CLI; |
-| [Nickel](https://github.com/tweag/nickel) | GVL | Nickel | |
+| [Nickel](https://github.com/tweag/nickel) | GMVL | Nickel | Related: [nickel-kubernetes](https://github.com/tweag/nickel-kubernetes); |
 | [Nulecule](https://github.com/projectatomic/nulecule) | | | Unreviewed; |
 | [OpenCompose](https://github.com/redhat-developer/opencompose) | GL | | Abandoned; |
 | [OpenRewrite](https://github.com/openrewrite/rewrite) | MVL | | |
