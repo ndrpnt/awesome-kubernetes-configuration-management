@@ -37,14 +37,14 @@ Feel free to contribute and help expand it.
 | [clusterlint](https://github.com/digitalocean/clusterlint) | VL | | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
 | [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
-| [config-lint](https://github.com/stelligent/config-lint) | VL | | |
+| [config-lint](https://github.com/stelligent/config-lint) | VL | | Abandoned; |
 | [configula](https://github.com/brendandburns/configula) | | | Unreviewed; |
 | [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes); |
-| [Copper](https://github.com/cloud66-oss/copper) | VL | JavaScript | |
+| [Copper](https://github.com/cloud66-oss/copper) | VL | JavaScript | Abandoned; |
 | [Crossplane](https://github.com/crossplane/crossplane) | GDI | | Related: [Ansible provider](https://github.com/crossplane-contrib/provider-ansible), [Argo CD provider](https://github.com/crossplane-contrib/provider-argocd), [Helm provider](https://github.com/crossplane-contrib/provider-helm), [Kubernetes provider](https://github.com/crossplane-contrib/provider-kubernetes), [Terraform provider](https://github.com/upbound/provider-terraform); |
 | [CUE](https://github.com/cue-lang/cue) | GVSL | CUE | |
 | [Cyclops](https://github.com/cyclops-ui/cyclops) | GDI | graphical UI | |
-| [Datree](https://github.com/datreeio/datree) | VIL | JSON schema, Rego | |
+| [Datree](https://github.com/datreeio/datree) | VIL | JSON schema, Rego | Abandoned; |
 | [Deis workflow](https://github.com/deis/workflow) | | | Unreviewed; |
 | [dekorate](https://github.com/dekorateio/dekorate) | GL | Java | |
 | [Deploymentizer](https://github.com/InVisionApp/kit-deploymentizer) | | | Unreviewed; |
@@ -76,7 +76,7 @@ Feel free to contribute and help expand it.
 | [Helmsman](https://github.com/Praqma/helmsman) | DL | TOML | |
 | [Helmwave](https://github.com/helmwave/helmwave) | DL | YAML | |
 | [hull](https://github.com/vidispine/hull) | | | Unreviewed; |
-| [Isopod](https://github.com/cruise-automation/isopod) | GVDL | Starlark | |
+| [Isopod](https://github.com/cruise-automation/isopod) | GVDL | Starlark | Abandoned; |
 | [jk](https://github.com/jkcfg/jk) | GL | JavaScript, TypeScript | Abandoned; |
 | [Jsonnet](https://github.com/google/jsonnet) | GML | Jsonnet | Related: [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet), [k8s-gen](https://github.com/jsonnet-libs/k8s), [k8s-libsonnet](https://github.com/jsonnet-libs/k8s-libsonnet); |
 | [jsPolicy](https://github.com/loft-sh/jspolicy) | MVI | JavaScript, TypeScript | "Controller policies" support; |

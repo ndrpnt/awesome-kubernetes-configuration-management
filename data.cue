@@ -90,6 +90,7 @@ let _raw_config_tools = [
 		name: {text: "Isopod", repo: "cruise-automation/isopod"}
 		features: ["G", "V", "D", "L"]
 		languages: ["Starlark"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "jk", repo: "jkcfg/jk"}
@@ -220,6 +221,7 @@ let _raw_config_tools = [
 		name: {text: "Datree", repo: "datreeio/datree"}
 		features: ["V", "I", "L"]
 		languages: ["JSON schema", "Rego"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "ValidatingAdmissionPolicy", url: "https://kubernetes.io/docs/reference/access-authn-authz/validating-admission-policy"}
@@ -1002,10 +1004,12 @@ let _raw_config_tools = [
 		name: {text: "Copper", repo: "cloud66-oss/copper"}
 		features: ["V", "L"]
 		languages: ["JavaScript"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "config-lint", repo: "stelligent/config-lint"}
 		features: ["V", "L"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "OpenRewrite", repo: "openrewrite/rewrite"}
