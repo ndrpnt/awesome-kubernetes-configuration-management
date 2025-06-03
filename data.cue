@@ -1205,7 +1205,8 @@ let _raw_secret_tools = [
 	},
 	{
 		name: {text: "argocd-vault-plugin", repo: "argoproj-labs/argocd-vault-plugin"}
-		info: reviewed: false
+		features: ["I"]
+		info: notes: "Inject values from secret managers (11 available) into Kubernetes resources"
 	},
 	{
 		name: {text: "sops-operator", repo: "craftypath/sops-operator"}

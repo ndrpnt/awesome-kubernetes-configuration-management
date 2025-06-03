@@ -234,7 +234,7 @@ Feel free to contribute and help expand it.
 | | Features | Notes |
 |-|-|-|
 | [agebox](https://github.com/slok/agebox) | L | |
-| [argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) | | Unreviewed; |
+| [argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) | I | Inject values from secret managers (11 available) into Kubernetes resources; |
 | [argocd-vault-replacer](https://github.com/crumbhole/argocd-vault-replacer) | | Unreviewed; |
 | [aws-secret-operator](https://github.com/mumoshu/aws-secret-operator) | I | |
 | [Azure Key Vault to Kubernetes (akv2k8s)](https://github.com/SparebankenVest/azure-key-vault-to-kubernetes) | IA | |
