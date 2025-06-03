@@ -3,7 +3,7 @@
 This list contains
 205 configuration management tools,
 42 secret management tools,
-and 3 other related tools.
+and 4 other related tools.
 Feel free to contribute and help expand it.
 
 ## Configuration Management
@@ -282,6 +282,7 @@ Feel free to contribute and help expand it.
 |-|-|
 | [Argo Rollouts](https://github.com/argoproj/argo-rollouts) | Controller and set of CRDs which provide progressive delivery features; |
 | [Knative Serving](https://github.com/knative/serving) | Set of CRDs used to define serverless workloads; |
+| [koreo](https://github.com/koreo-dev/koreo-core) | Orchestrates multi-step processes that react to events and manage Kubernetes resources; |
 | [kro](https://github.com/kro-run/kro) | Define higher-level Kubernetes resources, composed of a multiple lower-level ones; |
 
 ## Sources

@@ -1243,6 +1243,10 @@ let _raw_misc_tools = [
 		name: {text: "kro", repo: "kro-run/kro"}
 		info: notes: "Define higher-level Kubernetes resources, composed of a multiple lower-level ones"
 	},
+	{
+		name: {text: "koreo", repo: "koreo-dev/koreo-core"}
+		info: notes: "Orchestrates multi-step processes that react to events and manage Kubernetes resources"
+	},
 ]
 
 data: sources: [...#Source] & list.Sort(_raw_sources, {x: _, y: _, less: x.date < y.date})
