@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-205 configuration management tools,
+206 configuration management tools,
 42 secret management tools,
 and 4 other related tools.
 Feel free to contribute and help expand it.
@@ -67,6 +67,7 @@ Feel free to contribute and help expand it.
 | [garden](https://github.com/garden-io/garden) | | | Unreviewed; |
 | [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) | MVI | Rego | External data support; |
 | [generator-kubegen](https://github.com/sesispla/generator-kubegen) | | | Unreviewed; |
+| [Gimlet](https://github.com/gimlet-io/gimlet) | DI | | Abandoned; |
 | [gitkube](https://github.com/hasura/gitkube) | | | Unreviewed; |
 | [Glasskube](https://github.com/glasskube/glasskube) | DSI | | |
 | [habitat](https://github.com/habitat-sh/habitat) | | | Unreviewed; |

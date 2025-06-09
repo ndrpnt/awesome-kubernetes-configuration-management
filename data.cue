@@ -1028,6 +1028,11 @@ let _raw_config_tools = [
 		name: {text: "Pluto", repo: "FairwindsOps/pluto"}
 		features: ["V", "L"]
 	},
+	{
+		name: {text: "Gimlet", repo: "gimlet-io/gimlet"}
+		features: ["D", "I"]
+		info: abandoned: true
+	},
 ]
 
 data: secret_tools: [...#SecretTool] & list.Sort(_raw_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
