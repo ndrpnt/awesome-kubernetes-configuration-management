@@ -1078,6 +1078,17 @@ let _config_tools = [
 		features: ["D", "I"]
 		info: abandoned: true
 	},
+	{
+		name: {text: "kinitiras", repo: "k-cloud-labs/kinitiras"}
+		features: ["M", "V", "I"]
+		languages: ["CUE", "YAML"]
+		info: {
+			abandoned: true
+			related: [
+				{text: "Run mutation policies locally", repo: "k-cloud-labs/pidalio"},
+			]
+		}
+	},
 ]
 
 _config_tools_checks: {

@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-206 configuration management tools,
+207 configuration management tools,
 42 secret management tools,
 and 4 other related tools.
 Feel free to contribute and help expand it.
@@ -109,6 +109,7 @@ Feel free to contribute and help expand it.
 | [Keptn](https://github.com/keptn/keptn) | DI | | |
 | [kexpand](https://github.com/kopeio/kexpand) | | | Unreviewed; |
 | [khelm](https://github.com/mgoltzsche/khelm) | GML | | |
+| [kinitiras](https://github.com/k-cloud-labs/kinitiras) | MVI | CUE, YAML | Abandoned; Related: [Run mutation policies locally](https://github.com/k-cloud-labs/pidalio); |
 | [Kluctl](https://github.com/kluctl/kluctl) | GDIL | YAML, Jinja2 | |
 | [knot8](https://github.com/mkmik/knot8) | | | Unreviewed; |
 | [ko](https://github.com/ko-build/ko) | MDL | | Limited to Go applications; |
