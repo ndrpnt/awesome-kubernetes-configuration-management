@@ -1089,6 +1089,10 @@ let _config_tools = [
 			]
 		}
 	},
+	{
+		name: {text: "Sveltos", repo: "projectsveltos/addon-controller"}
+		features: ["D", "I"]
+	},
 ]
 
 _config_tools_checks: {
