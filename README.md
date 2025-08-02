@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-208 configuration management tools,
+209 configuration management tools,
 42 secret management tools,
 and 4 other related tools.
 Feel free to contribute and help expand it.
@@ -128,6 +128,7 @@ Feel free to contribute and help expand it.
 | [kraan](https://github.com/fidelity/kraan) | DI | | |
 | [krane](https://github.com/Shopify/krane) | GDL | ERB (Ruby templating) | |
 | [Kratix](https://github.com/syntasso/kratix) | GDI | | |
+| [kreate-kube](https://github.com/MarkHooijkaas/kreate-kube) | GL | YAML | |
 | [ksonnet](https://github.com/ksonnet/ksonnet) | GVDSL | Jsonnet | Abandoned; Related: [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib); |
 | [ktmpl](https://github.com/jimmycuadra/ktmpl) | GL | | Abandoned; |
 | [kube-applier](https://github.com/box/kube-applier) | DI | | Abandoned; |

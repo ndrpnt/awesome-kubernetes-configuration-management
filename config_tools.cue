@@ -1093,6 +1093,11 @@ let _config_tools = [
 		name: {text: "Sveltos", repo: "projectsveltos/addon-controller"}
 		features: ["D", "I"]
 	},
+	{
+		name: {text: "kreate-kube", repo: "MarkHooijkaas/kreate-kube"}
+		features: ["G", "L"]
+		languages: ["YAML"]
+	},
 ]
 
 _config_tools_checks: {
