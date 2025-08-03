@@ -18,6 +18,9 @@ This list contains
 and {{len .misc_tools}} other related tools.
 Feel free to contribute and help expand it.
 
+Note that many listed tools are unreviewed
+and may actually be out of scope for this repository.
+
 ## Configuration Management
 
 * **Generation (G)**: Given some non-Kubernetes configuration, returns Kubernetes manifests.
