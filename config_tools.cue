@@ -958,7 +958,8 @@ let _config_tools = [
 	},
 	{
 		name: {text: "k8s-handle", repo: "2gis/k8s-handle"}
-		info: reviewed: false
+		features: ["G", "D", "L"]
+		languages: ["Python", "Jinja2"]
 	},
 	{
 		name: {text: "kuby", repo: "smartive/kuby"}

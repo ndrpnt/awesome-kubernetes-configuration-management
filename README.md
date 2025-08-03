@@ -83,7 +83,7 @@ Feel free to contribute and help expand it.
 | [k82-icl](https://github.com/archipaorg/k8s-icl) | | | Unreviewed; |
 | [k8comp](https://github.com/cststack/k8comp) | GL | ERB (Ruby templating) | Abandoned; |
 | [k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) | | | Unreviewed; |
-| [k8s-handle](https://github.com/2gis/k8s-handle) | | | Unreviewed; |
+| [k8s-handle](https://github.com/2gis/k8s-handle) | GDL | Python, Jinja2 | |
 | [k8s-kotlin-dsl](https://github.com/fkorotkov/k8s-kotlin-dsl) | | | Unreviewed; |
 | [k8sec](https://github.com/dtan4/k8sec) | | | Unreviewed; |
 | [k8skonf](https://github.com/konfjs/k8skonf) | GSL | TypeScript | |
