@@ -141,6 +141,9 @@ let _config_tools = [
 		name: {text: "jk", repo: "jkcfg/jk"}
 		features: ["G", "L"]
 		languages: ["JavaScript", "TypeScript"]
+		info: related: [
+			{text: "kubernetes module", repo: "jkcfg/kubernetes"},
+		]
 		info: abandoned: true
 	},
 	{
@@ -866,10 +869,6 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "kubernetes", repo: "jkcfg/kubernetes"}
-		info: reviewed: false
-	},
-	{
 		name: {text: "flekszible", repo: "elek/flekszible"}
 		info: reviewed: false
 	},
@@ -926,10 +925,6 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "jx", repo: "jenkins-x/jx"}
-		info: reviewed: false
-	},
-	{
 		name: {text: "pipeline", repo: "tektoncd/pipeline"}
 		info: reviewed: false
 	},
@@ -947,18 +942,6 @@ let _config_tools = [
 	},
 	{
 		name: {text: "foremast", repo: "intuit/foremast"}
-		info: reviewed: false
-	},
-	{
-		name: {text: "kabanero-operator", repo: "kabanero-io/kabanero-operator"}
-		info: reviewed: false
-	},
-	{
-		name: {text: "appsody", repo: "appsody/appsody"}
-		info: reviewed: false
-	},
-	{
-		name: {text: "garden", repo: "garden-io/garden"}
 		info: reviewed: false
 	},
 	{

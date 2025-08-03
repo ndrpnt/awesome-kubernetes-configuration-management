@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-209 configuration management tools,
+204 configuration management tools,
 42 secret management tools,
 and 4 other related tools.
 Feel free to contribute and help expand it.
@@ -23,7 +23,6 @@ Feel free to contribute and help expand it.
 | [Ansible](https://github.com/ansible/ansible) | GDL | YAML, Jinja2, Python (for plugins) | Related: [Kubernetes Collection](https://galaxy.ansible.com/kubernetes/core); |
 | [apollo](https://github.com/logzio/apollo) | | | Unreviewed; |
 | [AppController](https://github.com/Mirantis/k8s-AppController) | DI | | Abandoned; |
-| [appsody](https://github.com/appsody/appsody) | | | Unreviewed; |
 | [Archipa](https://github.com/archipaorg/archipa) | | | Unreviewed; |
 | [Argo CD](https://github.com/argoproj/argo-cd) | DI | | |
 | [armada](https://github.com/att-comdev/armada) | | | Unreviewed; |
@@ -64,7 +63,6 @@ Feel free to contribute and help expand it.
 | [Flux v2](https://github.com/fluxcd/flux2) | DI | | Related: [Weave GitOps](https://github.com/weaveworks/weave-gitops); |
 | [foremast](https://github.com/intuit/foremast) | | | Unreviewed; |
 | [Forge](https://github.com/datawire/forge/) | | | Unreviewed; |
-| [garden](https://github.com/garden-io/garden) | | | Unreviewed; |
 | [Gatekeeper](https://github.com/open-policy-agent/gatekeeper) | MVI | Rego | External data support; |
 | [generator-kubegen](https://github.com/sesispla/generator-kubegen) | | | Unreviewed; |
 | [Gimlet](https://github.com/gimlet-io/gimlet) | DI | | Abandoned; |
@@ -78,10 +76,9 @@ Feel free to contribute and help expand it.
 | [Helmwave](https://github.com/helmwave/helmwave) | DL | YAML | |
 | [hull](https://github.com/vidispine/hull) | | | Unreviewed; |
 | [Isopod](https://github.com/cruise-automation/isopod) | GVDL | Starlark | Abandoned; |
-| [jk](https://github.com/jkcfg/jk) | GL | JavaScript, TypeScript | Abandoned; |
+| [jk](https://github.com/jkcfg/jk) | GL | JavaScript, TypeScript | Abandoned; Related: [kubernetes module](https://github.com/jkcfg/kubernetes); |
 | [Jsonnet](https://github.com/google/jsonnet) | GML | Jsonnet | Related: [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet), [k8s-gen](https://github.com/jsonnet-libs/k8s), [k8s-libsonnet](https://github.com/jsonnet-libs/k8s-libsonnet); |
 | [jsPolicy](https://github.com/loft-sh/jspolicy) | MVI | JavaScript, TypeScript | "Controller policies" support; |
-| [jx](https://github.com/jenkins-x/jx) | | | Unreviewed; |
 | [k-rail](https://github.com/cruise-automation/k-rail) | MVI | any (gRPC) | Abandoned; |
 | [k82-icl](https://github.com/archipaorg/k8s-icl) | | | Unreviewed; |
 | [k8comp](https://github.com/cststack/k8comp) | GL | ERB (Ruby templating) | Abandoned; |
@@ -91,7 +88,6 @@ Feel free to contribute and help expand it.
 | [k8sec](https://github.com/dtan4/k8sec) | | | Unreviewed; |
 | [k8skonf](https://github.com/konfjs/k8skonf) | GSL | TypeScript | |
 | [k8spkg](https://github.com/mgoltzsche/k8spkg) | MDL | | Abandoned; |
-| [kabanero-operator](https://github.com/kabanero-io/kabanero-operator) | | | Unreviewed; |
 | [kadet](https://github.com/kapicorp/kadet) | GL | Python | |
 | [Kapitan](https://github.com/kapicorp/kapitan) | GML | YAML, Jsonnet, Jinja2, Python | |
 | [kapp](https://github.com/carvel-dev/kapp) | DL | | |
@@ -145,7 +141,6 @@ Feel free to contribute and help expand it.
 | [KubeLinter](https://github.com/stackrox/kube-linter) | VL | YAML | |
 | [kubenix](https://github.com/hall/kubenix) | GL | Nix | Related: [GTrunSec/kubenix](https://github.com/GTrunSec/kubenix), [blaggacao/kubenix](https://github.com/blaggacao/kubenix), [xtruder/kubenix](https://github.com/xtruder/kubenix); |
 | [kuberig](https://github.com/teyckmans/kuberig) | | | Unreviewed; |
-| [kubernetes](https://github.com/jkcfg/kubernetes) | | | Unreviewed; |
 | [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) | | | Unreviewed; |
 | [Kubes](https://github.com/boltops-tools/kubes) | GDL | DSL | |
 | [Kubescape](https://github.com/kubescape/kubescape) | VIL | Rego | External data support; |
