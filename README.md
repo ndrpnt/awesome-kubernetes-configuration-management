@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-204 configuration management tools,
+205 configuration management tools,
 42 secret management tools,
 and 4 other related tools.
 Feel free to contribute and help expand it.
@@ -45,6 +45,7 @@ and may actually be out of scope for this repository.
 | [Copper](https://github.com/cloud66-oss/copper) | VL | JavaScript | Abandoned; |
 | [Crossplane](https://github.com/crossplane/crossplane) | GDI | | Related: [Ansible provider](https://github.com/crossplane-contrib/provider-ansible), [Argo CD provider](https://github.com/crossplane-contrib/provider-argocd), [Helm provider](https://github.com/crossplane-contrib/provider-helm), [Kubernetes provider](https://github.com/crossplane-contrib/provider-kubernetes), [Terraform provider](https://github.com/upbound/provider-terraform); |
 | [CUE](https://github.com/cue-lang/cue) | GVSL | CUE | |
+| [Cuegen](https://github.com/noris-network/cuegen) | GVSL | CUE | |
 | [Cyclops](https://github.com/cyclops-ui/cyclops) | GDI | graphical UI | |
 | [Datree](https://github.com/datreeio/datree) | VIL | JSON schema, Rego | Abandoned; |
 | [Deis workflow](https://github.com/deis/workflow) | | | Unreviewed; |

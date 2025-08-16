@@ -1082,6 +1082,11 @@ let _config_tools = [
 		features: ["G", "L"]
 		languages: ["YAML"]
 	},
+	{
+		name: {text: "Cuegen", repo: "noris-network/cuegen"}
+		features: ["G", "V", "S", "L"]
+		languages: ["CUE"]
+	},
 ]
 
 _config_tools_checks: {
