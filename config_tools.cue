@@ -1087,6 +1087,16 @@ let _config_tools = [
 		features: ["G", "V", "S", "L"]
 		languages: ["CUE"]
 	},
+	{
+		name: {text: "Marvin", repo: "undistro/marvin"}
+		features: [ "V", "L"]
+		languages: ["CEL"]
+	},
+	{
+		name: {text: "Zora", repo: "undistro/zora"}
+		features: [ "V", "I"]
+		languages: ["CEL"]
+	},
 ]
 
 _config_tools_checks: {

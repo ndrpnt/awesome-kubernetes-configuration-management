@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-205 configuration management tools,
+207 configuration management tools,
 42 secret management tools,
 and 4 other related tools.
 Feel free to contribute and help expand it.
@@ -164,6 +164,7 @@ and may actually be out of scope for this repository.
 | [landscaper](https://github.com/Eneco/landscaper) | | | Unreviewed; |
 | [Lingon](https://github.com/volvo-cars/lingon) | GL | Go | Abandoned; |
 | [lostromos](https://github.com/lostromos/lostromos) | | | Unreviewed; |
+| [Marvin](https://github.com/undistro/marvin) | VL | CEL | |
 | [Meshery](https://github.com/meshery/meshery) | GDI | YAML | |
 | [Metaparticle](https://github.com/metaparticle-io/package) | | | Unreviewed; |
 | [Microconfig](https://github.com/microconfig/microconfig) | GL | | |
@@ -227,6 +228,7 @@ and may actually be out of scope for this repository.
 | [werf](https://github.com/werf/werf) | GDSL | YAML | |
 | [YAMLScript](https://github.com/yaml/yamlscript) | GL | YAMLScript | |
 | [ytt](https://github.com/carvel-dev/ytt) | GMVL | YAML, Starlark | |
+| [Zora](https://github.com/undistro/zora) | VI | CEL | |
 
 ## Secret Management
 
