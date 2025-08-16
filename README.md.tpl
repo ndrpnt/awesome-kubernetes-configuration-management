@@ -15,11 +15,11 @@
 This list contains
 {{len .config_tools}} configuration management tools,
 {{len .secret_tools}} secret management tools,
-and {{len .misc_tools}} other related tools.
-Feel free to contribute and help expand it.
+and {{len .misc_tools}} related tools.
+Contributions are welcome.
 
-Note that many listed tools are unreviewed
-and may actually be out of scope for this repository.
+Note that tools marked unreviewed
+may be out of scope for this repository.
 
 ## Configuration Management
 

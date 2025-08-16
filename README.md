@@ -3,11 +3,11 @@
 This list contains
 207 configuration management tools,
 42 secret management tools,
-and 4 other related tools.
-Feel free to contribute and help expand it.
+and 4 related tools.
+Contributions are welcome.
 
-Note that many listed tools are unreviewed
-and may actually be out of scope for this repository.
+Note that tools marked unreviewed
+may be out of scope for this repository.
 
 ## Configuration Management
 
