@@ -1097,6 +1097,31 @@ let _config_tools = [
 		features: ["V", "I"]
 		languages: ["CEL"]
 	},
+	{
+		name: {text: "KSON", repo: "kson-org/kson"}
+		features: ["G", "L"]
+		languages: ["KSON"]
+	},
+	{
+		name: {text: "MAML", repo: "maml-dev/maml"}
+		features: ["G", "L"]
+		languages: ["MAML"]
+	},
+	{
+		name: {text: "SDLang", repo: "dlang-community/SDLang-D"}
+		features: ["G", "L"]
+		languages: ["SDLang"]
+	},
+	{
+		name: {text: "KDL", repo: "kdl-org/kdl"}
+		features: ["G", "L"]
+		languages: ["KDL"]
+	},
+	{
+		name: {text: "RCL", repo: "ruuda/rcl"}
+		features: ["G", "L"]
+		languages: ["RCL"]
+	},
 ]
 
 _config_tools_checks: {

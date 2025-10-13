@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-207 configuration management tools,
+212 configuration management tools,
 42 secret management tools,
 and 4 related tools.
 Contributions are welcome.
@@ -103,6 +103,7 @@ may be out of scope for this repository.
 | [kb8or](https://github.com/UKHomeOffice/kb8or) | GDL | YAML | Abandoned; |
 | [KCL](https://github.com/KusionStack/KCLVM) | GMVSL | KCL | Related: [Run KCL scripts as KRM functions](https://github.com/kcl-lang/krm-kcl); |
 | [kdeploy](https://github.com/flexiant/kdeploy) | | | Unreviewed; |
+| [KDL](https://github.com/kdl-org/kdl) | GL | KDL | |
 | [Kedge](https://github.com/kedgeproject/kedge) | GDL | YAML | Abandoned; |
 | [Keel](https://github.com/keel-hq/keel) | DI | | Updates container image version; |
 | [kenv](https://github.com/thisendout/kenv) | ML | YAML | Abandoned; Injects environment variables in Pods; |
@@ -129,6 +130,7 @@ may be out of scope for this repository.
 | [krane](https://github.com/Shopify/krane) | GDL | ERB (Ruby templating) | |
 | [Kratix](https://github.com/syntasso/kratix) | GDI | | |
 | [kreate-kube](https://github.com/MarkHooijkaas/kreate-kube) | GL | YAML | |
+| [KSON](https://github.com/kson-org/kson) | GL | KSON | |
 | [ksonnet](https://github.com/ksonnet/ksonnet) | GVDSL | Jsonnet | Abandoned; Related: [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib); |
 | [ktmpl](https://github.com/jimmycuadra/ktmpl) | GL | | Abandoned; |
 | [kube-applier](https://github.com/box/kube-applier) | DI | | Abandoned; |
@@ -164,6 +166,7 @@ may be out of scope for this repository.
 | [landscaper](https://github.com/Eneco/landscaper) | | | Unreviewed; |
 | [Lingon](https://github.com/volvo-cars/lingon) | GL | Go | Abandoned; |
 | [lostromos](https://github.com/lostromos/lostromos) | | | Unreviewed; |
+| [MAML](https://github.com/maml-dev/maml) | GL | MAML | |
 | [Marvin](https://github.com/undistro/marvin) | VL | CEL | |
 | [Meshery](https://github.com/meshery/meshery) | GDI | YAML | |
 | [Metaparticle](https://github.com/metaparticle-io/package) | | | Unreviewed; |
@@ -195,10 +198,12 @@ may be out of scope for this repository.
 | [qbec](https://github.com/splunk/qbec) | | | Unreviewed; |
 | [Radius](https://github.com/radius-project/radius) | DI | Bicep | |
 | [Razee](https://github.com/razee-io/Razee) | GDI | | Abandoned; |
+| [RCL](https://github.com/ruuda/rcl) | GL | RCL | |
 | [Rio](https://github.com/rancher/rio) | | | Unreviewed; |
 | [rok8s-scripts](https://github.com/reactiveops/rok8s-scripts) | | | Unreviewed; |
 | [Rubiks](https://github.com/olx-global/rubiks) | | | Unreviewed; |
 | [Score](https://github.com/score-spec/spec) | GL | YAML | Related: [Helm integration](https://github.com/score-spec/score-helm); |
+| [SDLang](https://github.com/dlang-community/SDLang-D) | GL | SDLang | |
 | [Ship](https://github.com/replicatedhq/ship) | DL | | Abandoned; |
 | [shipcat](https://github.com/clux/shipcat) | GDL | YAML | Abandoned; |
 | [Shipit](https://github.com/Shopify/shipit-engine) | DL | ERB (Ruby templating) | |
