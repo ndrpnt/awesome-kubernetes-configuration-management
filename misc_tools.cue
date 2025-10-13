@@ -30,8 +30,8 @@ let _misc_tools = [
 ]
 
 _misc_tools_checks: {
-	unique_name_text: list.UniqueItems() & [ for t in _misc_tools {t.name.text}]
-	unique_name_repo: list.UniqueItems() & [ for t in _misc_tools {t.name.repo}]
-	unique_name_url:  list.UniqueItems() & [ for t in _misc_tools {t.name.url}]
+	unique_name_text: list.UniqueItems() & [for t in _misc_tools {t.name.text}]
+	unique_name_repo: list.UniqueItems() & [for t in _misc_tools {t.name.repo}]
+	unique_name_url: list.UniqueItems() & [for t in _misc_tools {t.name.url}]
 }
 data: misc_tools: [...#MiscTool] & list.Sort(_misc_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

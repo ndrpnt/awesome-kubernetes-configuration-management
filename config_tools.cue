@@ -75,7 +75,7 @@ let _config_tools = [
 		languages: ["Starlark"]
 		info: related: [
 			{text: "rules_gitops", repo: "adobe/rules_gitops"},
-			{text: "rules_k8s", repo:    "bazelbuild/rules_k8s"},
+			{text: "rules_k8s", repo: "bazelbuild/rules_k8s"},
 		]
 	},
 	{
@@ -152,8 +152,8 @@ let _config_tools = [
 		languages: ["Jsonnet"]
 		info: related: [
 			{text: "kube-libsonnet", repo: "bitnami-labs/kube-libsonnet"},
-			{text: "k8s-gen", repo:        "jsonnet-libs/k8s"},
-			{text: "k8s-libsonnet", repo:  "jsonnet-libs/k8s-libsonnet"},
+			{text: "k8s-gen", repo: "jsonnet-libs/k8s"},
+			{text: "k8s-libsonnet", repo: "jsonnet-libs/k8s-libsonnet"},
 		]
 	},
 	{
@@ -211,9 +211,9 @@ let _config_tools = [
 		languages: ["HCL"]
 		info: related: [
 			{text: "Kubernetes provider", repo: "terraform-providers/terraform-provider-kubernetes"},
-			{text: "k8s provider", repo:        "banzaicloud/terraform-provider-k8s"},
-			{text: "Kustomize provider", repo:  "kbst/terraform-provider-kustomize"},
-			{text: "Helm provider", repo:       "terraform-providers/terraform-provider-helm"},
+			{text: "k8s provider", repo: "banzaicloud/terraform-provider-k8s"},
+			{text: "Kustomize provider", repo: "kbst/terraform-provider-kustomize"},
+			{text: "Helm provider", repo: "terraform-providers/terraform-provider-helm"},
 		]
 	},
 	{
@@ -328,11 +328,11 @@ let _config_tools = [
 		name: {text: "Crossplane", repo: "crossplane/crossplane"}
 		features: ["G", "D", "I"]
 		info: related: [
-			{text: "Ansible provider", repo:    "crossplane-contrib/provider-ansible"},
-			{text: "Argo CD provider", repo:    "crossplane-contrib/provider-argocd"},
-			{text: "Helm provider", repo:       "crossplane-contrib/provider-helm"},
+			{text: "Ansible provider", repo: "crossplane-contrib/provider-ansible"},
+			{text: "Argo CD provider", repo: "crossplane-contrib/provider-argocd"},
+			{text: "Helm provider", repo: "crossplane-contrib/provider-helm"},
 			{text: "Kubernetes provider", repo: "crossplane-contrib/provider-kubernetes"},
-			{text: "Terraform provider", repo:  "upbound/provider-terraform"},
+			{text: "Terraform provider", repo: "upbound/provider-terraform"},
 		]
 	},
 	{
@@ -390,7 +390,7 @@ let _config_tools = [
 		languages: ["JavaScript", "TypeScript", "Python", "Go", "C#", "Visual Basic", "F#", "Java", "YAML"]
 		info: related: [
 			{text: "Kubernetes provider", repo: "pulumi/pulumi-kubernetes"},
-			{text: "Operator", repo:            "pulumi/pulumi-kubernetes-operator"},
+			{text: "Operator", repo: "pulumi/pulumi-kubernetes-operator"},
 		]
 	},
 	{
@@ -425,7 +425,7 @@ let _config_tools = [
 	},
 	{
 		name: {text: "Keptn", repo: "keptn/keptn"}
-		features: [ "D", "I"]
+		features: ["D", "I"]
 	},
 	{
 		name: {text: "krane", repo: "Shopify/krane"}
@@ -500,10 +500,10 @@ let _config_tools = [
 		features: ["G", "M", "D", "S", "I", "L"]
 		languages: ["YAML", "Jsonnet", "Jinja2", "Python"]
 		info: related: [
-			{text: "Commodore", repo:           "projectsyn/commodore"},
-			{text: "Lieutenant API", repo:      "projectsyn/lieutenant-api"},
+			{text: "Commodore", repo: "projectsyn/commodore"},
+			{text: "Lieutenant API", repo: "projectsyn/lieutenant-api"},
 			{text: "Lieutenant Operator", repo: "projectsyn/lieutenant-operator"},
-			{text: "Steward", repo:             "projectsyn/steward"},
+			{text: "Steward", repo: "projectsyn/steward"},
 		]
 	},
 	{
@@ -575,7 +575,7 @@ let _config_tools = [
 		features: ["G", "D", "S", "L"]
 		languages: ["Bicep"]
 		info: related: [
-			{text: "Kubernetes provider", url:          "https://github.com/MicrosoftDocs/azure-docs/blob/3d1cfaa248b92e006aa2a3101b958f5a628718a9/articles/azure-resource-manager/bicep/bicep-extensibility-kubernetes-provider.md"},
+			{text: "Kubernetes provider", url: "https://github.com/MicrosoftDocs/azure-docs/blob/3d1cfaa248b92e006aa2a3101b958f5a628718a9/articles/azure-resource-manager/bicep/bicep-extensibility-kubernetes-provider.md"},
 			{text: "Kubernetes type definitions", repo: "Azure/bicep-types-k8s"},
 		]
 	},
@@ -589,8 +589,8 @@ let _config_tools = [
 		features: ["G", "S", "L"]
 		languages: ["Pkl"]
 		info: related: [
-			{text: "Kubernetes Pkl templates", repo:       "apple/pkl-k8s"},
-			{text: "Kubernetes Pkl examples", repo:        "apple/pkl-k8s-examples"},
+			{text: "Kubernetes Pkl templates", repo: "apple/pkl-k8s"},
+			{text: "Kubernetes Pkl examples", repo: "apple/pkl-k8s-examples"},
 			{text: "Other Pkl (Kubernetes) packages", url: "https://pkl-lang.org/package-docs/"},
 		]
 	},
@@ -621,9 +621,9 @@ let _config_tools = [
 		features: ["G", "L"]
 		languages: ["Nix"]
 		info: related: [
-			{text: "GTrunSec/kubenix", repo:  "GTrunSec/kubenix"},
+			{text: "GTrunSec/kubenix", repo: "GTrunSec/kubenix"},
 			{text: "blaggacao/kubenix", repo: "blaggacao/kubenix"},
-			{text: "xtruder/kubenix", repo:   "xtruder/kubenix"},
+			{text: "xtruder/kubenix", repo: "xtruder/kubenix"},
 		]
 	},
 	{
@@ -1089,19 +1089,19 @@ let _config_tools = [
 	},
 	{
 		name: {text: "Marvin", repo: "undistro/marvin"}
-		features: [ "V", "L"]
+		features: ["V", "L"]
 		languages: ["CEL"]
 	},
 	{
 		name: {text: "Zora", repo: "undistro/zora"}
-		features: [ "V", "I"]
+		features: ["V", "I"]
 		languages: ["CEL"]
 	},
 ]
 
 _config_tools_checks: {
-	unique_name_text: list.UniqueItems() & [ for t in _config_tools {t.name.text}]
-	unique_name_repo: list.UniqueItems() & [ for t in _config_tools {t.name.repo}]
-	unique_name_url:  list.UniqueItems() & [ for t in _config_tools {t.name.url}]
+	unique_name_text: list.UniqueItems() & [for t in _config_tools {t.name.text}]
+	unique_name_repo: list.UniqueItems() & [for t in _config_tools {t.name.repo}]
+	unique_name_url: list.UniqueItems() & [for t in _config_tools {t.name.url}]
 }
 data: config_tools: [...#ConfigTool] & list.Sort(_config_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})

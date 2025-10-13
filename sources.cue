@@ -42,8 +42,8 @@ let _sources = [
 ]
 
 _sources_checks: {
-	unique_name_text: list.UniqueItems() & [ for t in _sources {t.name.text}]
-	unique_name_repo: list.UniqueItems() & [ for t in _sources {t.name.repo}]
-	unique_name_url:  list.UniqueItems() & [ for t in _sources {t.name.url}]
+	unique_name_text: list.UniqueItems() & [for t in _sources {t.name.text}]
+	unique_name_repo: list.UniqueItems() & [for t in _sources {t.name.repo}]
+	unique_name_url: list.UniqueItems() & [for t in _sources {t.name.url}]
 }
 data: sources: [...#Source] & list.Sort(_sources, {x: _, y: _, less: x.date < y.date})

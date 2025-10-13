@@ -45,9 +45,9 @@ let _secret_tools = [
 		features: ["L"]
 		info: related: [
 			{text: "KSOPS (kustomize KRM exec plugin)", repo: "viaduct-ai/kustomize-sops"},
-			{text: "Helm Sops", repo:                         "camptocamp/helm-sops"},
-			{text: "SOPS secrets operator", repo:             "isindir/sops-secrets-operator"},
-			{text: "SOPS Operator", repo:                     "craftypath/sops-operator"},
+			{text: "Helm Sops", repo: "camptocamp/helm-sops"},
+			{text: "SOPS secrets operator", repo: "isindir/sops-secrets-operator"},
+			{text: "SOPS Operator", repo: "craftypath/sops-operator"},
 		]
 	},
 	{
@@ -68,10 +68,10 @@ let _secret_tools = [
 		features: ["I"]
 		info: related: [
 			{text: "AWS Secrets Manager and Systems Manager Parameter Store provider", repo: "aws/secrets-store-csi-driver-provider-aws"},
-			{text: "Azure Key Vault provider", repo:                                         "Azure/secrets-store-csi-driver-provider-azure"},
-			{text: "Google Secret Manager provider", repo:                                   "GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp"},
-			{text: "HashiCorp Vault provider", repo:                                         "hashicorp/vault-csi-provider"},
-			{text: "CyberArk Conjur provider (WIP)", repo:                                   "cyberark/conjur/pull/2836"},
+			{text: "Azure Key Vault provider", repo: "Azure/secrets-store-csi-driver-provider-azure"},
+			{text: "Google Secret Manager provider", repo: "GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp"},
+			{text: "HashiCorp Vault provider", repo: "hashicorp/vault-csi-provider"},
+			{text: "CyberArk Conjur provider (WIP)", repo: "cyberark/conjur/pull/2836"},
 		]
 	},
 	{
@@ -223,8 +223,8 @@ let _secret_tools = [
 ]
 
 _secret_tools_checks: {
-	unique_name_text: list.UniqueItems() & [ for t in _secret_tools {t.name.text}]
-	unique_name_repo: list.UniqueItems() & [ for t in _secret_tools {t.name.repo}]
-	unique_name_url:  list.UniqueItems() & [ for t in _secret_tools {t.name.url}]
+	unique_name_text: list.UniqueItems() & [for t in _secret_tools {t.name.text}]
+	unique_name_repo: list.UniqueItems() & [for t in _secret_tools {t.name.repo}]
+	unique_name_url: list.UniqueItems() & [for t in _secret_tools {t.name.url}]
 }
 data: secret_tools: [...#SecretTool] & list.Sort(_secret_tools, {x: _, y: _, less: strings.ToLower(x.name.text) < strings.ToLower(y.name.text)})
