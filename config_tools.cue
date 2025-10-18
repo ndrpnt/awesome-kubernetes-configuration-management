@@ -1122,6 +1122,11 @@ let _config_tools = [
 		features: ["G", "L"]
 		languages: ["RCL"]
 	},
+	{
+		name: {text: "Kubeapps", repo: "vmware-tanzu/kubeapps"}
+		features: ["D", "I"]
+		info: abandoned: true
+	},
 ]
 
 _config_tools_checks: {

@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-212 configuration management tools,
+213 configuration management tools,
 42 secret management tools,
 and 4 related tools.
 Contributions are welcome.
@@ -136,6 +136,7 @@ may be out of scope for this repository.
 | [kube-applier](https://github.com/box/kube-applier) | DI | | Abandoned; |
 | [kube-score](https://github.com/zegl/kube-score) | VL | | |
 | [kubeapply](https://github.com/segmentio/kubeapply) | GDL | YAML, Starlark | Related: [Terraform provider](https://github.com/segmentio/terraform-provider-kubeapply); |
+| [Kubeapps](https://github.com/vmware-tanzu/kubeapps) | DI | | Abandoned; |
 | [kubecfg](https://github.com/kubecfg/kubecfg) | GDL | Jsonnet | |
 | [kubechecks](https://github.com/zapier/kubechecks) | VI | | |
 | [Kubeconform](https://github.com/yannh/kubeconform) | VL | | |
