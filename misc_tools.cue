@@ -27,6 +27,10 @@ let _misc_tools = [
 		name: {text: "koreo", repo: "koreo-dev/koreo-core"}
 		info: notes: "Orchestrates multi-step processes that react to events and manage Kubernetes resources"
 	},
+	{
+		name: {text: "Karmada", repo: "karmada-io/karmada"}
+		info: notes: "Multi-Cloud, Multi-Cluster Kubernetes Orchestration"
+	},
 ]
 
 _misc_tools_checks: {
