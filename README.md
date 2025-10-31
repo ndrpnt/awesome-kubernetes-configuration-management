@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-213 configuration management tools,
+215 configuration management tools,
 42 secret management tools,
 and 5 related tools.
 Contributions are welcome.
@@ -78,6 +78,7 @@ may be out of scope for this repository.
 | [Helmfile](https://github.com/helmfile/helmfile) | DL | YAML | |
 | [Helmsman](https://github.com/Praqma/helmsman) | DL | TOML | |
 | [Helmwave](https://github.com/helmwave/helmwave) | DL | YAML | |
+| [HelmYS](https://github.com/kubeys/helmys) | GDSL | YAMLScript | |
 | [hull](https://github.com/vidispine/hull) | | | Unreviewed; |
 | [Isopod](https://github.com/cruise-automation/isopod) | GVDL | Starlark | Abandoned; |
 | [jk](https://github.com/jkcfg/jk) | GL | JavaScript, TypeScript | Abandoned; Related: [kubernetes module](https://github.com/jkcfg/kubernetes); |
@@ -155,6 +156,7 @@ may be out of scope for this repository.
 | [KubeVela](https://github.com/kubevela/kubevela) | GDIL | | |
 | [Kubevious](https://github.com/kubevious/kubevious) | VL | DSL | |
 | [Kubewarden](https://github.com/kubewarden/kubewarden-controller) | MVI | any (WebAssembly) | |
+| [KuboCD](https://github.com/kubocd/kubocd) | GSIL | | |
 | [kubor](https://github.com/levertonai/kubor) | | | Unreviewed; |
 | [kuby](https://github.com/smartive/kuby) | | | Unreviewed; |
 | [kuku](https://github.com/xarg/kuku) | | | Unreviewed; |

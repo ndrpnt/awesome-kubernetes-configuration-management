@@ -1127,6 +1127,15 @@ let _config_tools = [
 		features: ["D", "I"]
 		info: abandoned: true
 	},
+	{
+		name: {text: "KuboCD", repo: "kubocd/kubocd"}
+		features: ["G", "S", "I", "L"]
+	},
+	{
+		name: {text: "HelmYS", repo: "kubeys/helmys"}
+		features: ["G", "D", "S", "L"]
+		languages: ["YAMLScript"]
+	},
 ]
 
 _config_tools_checks: {
