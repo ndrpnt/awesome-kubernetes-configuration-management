@@ -777,12 +777,12 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "kontemplate", repo: "tazjin/kontemplate"}
-		info: reviewed: false
+		name: {text: "Kontemplate", repo: "tazjin/kontemplate"}
+		features: ["D", "L"]
 	},
 	{
 		name: {text: "rok8s-scripts", repo: "reactiveops/rok8s-scripts"}
-		info: reviewed: false
+		features: ["D", "L"]
 	},
 	{
 		name: {text: "armada", repo: "att-comdev/armada"}
@@ -790,7 +790,8 @@ let _config_tools = [
 	},
 	{
 		name: {text: "kexpand", repo: "kopeio/kexpand"}
-		info: reviewed: false
+		features: ["G", "L"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "k8s-kotlin-dsl", repo: "fkorotkov/k8s-kotlin-dsl"}

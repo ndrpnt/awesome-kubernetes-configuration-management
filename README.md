@@ -109,7 +109,7 @@ may be out of scope for this repository.
 | [Keel](https://github.com/keel-hq/keel) | DI | | Updates container image version; |
 | [kenv](https://github.com/thisendout/kenv) | ML | YAML | Abandoned; Injects environment variables in Pods; |
 | [Keptn](https://github.com/keptn/keptn) | DI | | |
-| [kexpand](https://github.com/kopeio/kexpand) | | | Unreviewed; |
+| [kexpand](https://github.com/kopeio/kexpand) | GL | | Abandoned; |
 | [khelm](https://github.com/mgoltzsche/khelm) | GML | | |
 | [kinitiras](https://github.com/k-cloud-labs/kinitiras) | MVI | CUE, YAML | Abandoned; Related: [Run mutation policies locally](https://github.com/k-cloud-labs/pidalio); |
 | [Kluctl](https://github.com/kluctl/kluctl) | GDIL | YAML, Jinja2 | |
@@ -120,7 +120,7 @@ may be out of scope for this repository.
 | [konfd](https://github.com/kelseyhightower/konfd) | GI | Go template | Abandoned; |
 | [Konfigurator](https://github.com/stakater/Konfigurator) | | | Unreviewed; |
 | [konstellate](https://github.com/containership/konstellate) | | | Unreviewed; |
-| [kontemplate](https://github.com/tazjin/kontemplate) | | | Unreviewed; |
+| [Kontemplate](https://github.com/tazjin/kontemplate) | DL | | |
 | [Kosko](https://github.com/tommy351/kosko) | GVL | JavaScript, TypeScript | |
 | [KOTS](https://github.com/replicatedhq/kots) | DSIL | | |
 | [kploy](https://github.com/kubernauts/kploy) | | | Unreviewed; |
@@ -203,7 +203,7 @@ may be out of scope for this repository.
 | [Razee](https://github.com/razee-io/Razee) | GDI | | Abandoned; |
 | [RCL](https://github.com/ruuda/rcl) | GL | RCL | |
 | [Rio](https://github.com/rancher/rio) | | | Unreviewed; |
-| [rok8s-scripts](https://github.com/reactiveops/rok8s-scripts) | | | Unreviewed; |
+| [rok8s-scripts](https://github.com/reactiveops/rok8s-scripts) | DL | | |
 | [Rubiks](https://github.com/olx-global/rubiks) | | | Unreviewed; |
 | [Score](https://github.com/score-spec/spec) | GL | YAML | Related: [Helm integration](https://github.com/score-spec/score-helm); |
 | [SDLang](https://github.com/dlang-community/SDLang-D) | GL | SDLang | |
