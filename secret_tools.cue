@@ -184,8 +184,8 @@ let _secret_tools = [
 		info: abandoned: true
 	},
 	{
-		name: {text: "sops-secrets-operator", repo: "isindir/sops-secrets-operator"}
-		info: reviewed: false
+		name: {text: "SOPS secrets operator", repo: "isindir/sops-secrets-operator"}
+		features: ["I"]
 	},
 	{
 		name: {text: "kamus", repo: "soluto/kamus"}
