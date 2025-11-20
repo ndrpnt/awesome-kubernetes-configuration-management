@@ -2,7 +2,7 @@
 
 This list contains
 215 configuration management tools,
-42 secret management tools,
+43 secret management tools,
 and 5 related tools.
 Contributions are welcome.
 
@@ -269,6 +269,7 @@ may be out of scope for this repository.
 | [Kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) | I | |
 | [Kustomize secretGeneratorPlugin](https://github.com/kubernetes-sigs/kustomize/blob/ab519fdc13ded9875e42d70ac8a5b1b9023a2dbb/examples/secretGeneratorPlugin.md) | | Unreviewed; |
 | [kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) | | Unreviewed; |
+| [Markhor](https://github.com/markhork8s/markhor) | I | |
 | [Murmur](https://github.com/busser/murmur) | A | |
 | [pass](https://www.passwordstore.org) | L | |
 | [Piggy](https://github.com/KongZ/piggy) | A | |

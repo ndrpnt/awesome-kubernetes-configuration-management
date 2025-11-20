@@ -220,6 +220,10 @@ let _secret_tools = [
 		name: {text: "Kustomize secretGeneratorPlugin", url: "https://github.com/kubernetes-sigs/kustomize/blob/ab519fdc13ded9875e42d70ac8a5b1b9023a2dbb/examples/secretGeneratorPlugin.md"}
 		info: reviewed: false
 	},
+	{
+		name: {text: "Markhor", repo: "markhork8s/markhor"}
+		features: ["I"]
+	},
 ]
 
 _secret_tools_checks: {
