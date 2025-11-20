@@ -224,6 +224,10 @@ let _secret_tools = [
 		name: {text: "Markhor", repo: "markhork8s/markhor"}
 		features: ["I"]
 	},
+	{
+		name: {text: "Helm Sops", repo: "camptocamp/helm-sops"}
+		features: ["L"]
+	},
 ]
 
 _secret_tools_checks: {

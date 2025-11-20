@@ -2,7 +2,7 @@
 
 This list contains
 215 configuration management tools,
-43 secret management tools,
+44 secret management tools,
 and 5 related tools.
 Contributions are welcome.
 
@@ -259,6 +259,7 @@ may be out of scope for this repository.
 | [git-crypt](https://github.com/AGWA/git-crypt) | L | |
 | [git-encrypt](https://github.com/shadowhand/git-encrypt) | L | Abandoned; |
 | [git-secret](https://github.com/sobolevn/git-secret) | L | |
+| [Helm Sops](https://github.com/camptocamp/helm-sops) | L | |
 | [helm-secrets](https://github.com/jkroepke/helm-secrets) | L | |
 | [helm-ssm](https://github.com/totango/helm-ssm) | L | Abandoned; |
 | [Hiera eyaml](https://github.com/voxpupuli/hiera-eyaml) | L | |
