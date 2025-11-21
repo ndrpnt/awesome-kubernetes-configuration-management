@@ -213,8 +213,8 @@ let _secret_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "kustomize-sops", repo: "viaduct-ai/kustomize-sops"}
-		info: reviewed: false
+		name: {text: "KSOPS", repo: "viaduct-ai/kustomize-sops"}
+		features: ["L"]
 	},
 	{
 		name: {text: "Kustomize secretGeneratorPlugin", url: "https://github.com/kubernetes-sigs/kustomize/blob/ab519fdc13ded9875e42d70ac8a5b1b9023a2dbb/examples/secretGeneratorPlugin.md"}
