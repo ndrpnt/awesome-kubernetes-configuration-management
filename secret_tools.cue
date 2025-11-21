@@ -222,6 +222,10 @@ let _secret_tools = [
 		name: {text: "Helm Sops", repo: "camptocamp/helm-sops"}
 		features: ["L"]
 	},
+	{
+		name: {text: "SOPS-Operator", repo: "peak-scale/sops-operator"}
+		features: ["I"]
+	},
 ]
 
 _secret_tools_checks: {

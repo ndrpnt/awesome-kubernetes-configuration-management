@@ -2,7 +2,7 @@
 
 This list contains
 215 configuration management tools,
-44 secret management tools,
+45 secret management tools,
 and 5 related tools.
 Contributions are welcome.
 
@@ -281,6 +281,7 @@ may be out of scope for this repository.
 | [SOPS](https://github.com/getsops/sops) | L | |
 | [SOPS secrets operator](https://github.com/isindir/sops-secrets-operator) | I | |
 | [sops-operator](https://github.com/craftypath/sops-operator) | | Unreviewed; |
+| [SOPS-Operator](https://github.com/peak-scale/sops-operator) | I | |
 | [Teller](https://github.com/tellerops/teller) | L | Related: [Helm-teller](https://github.com/tellerops/helm-teller); |
 | [Tesoro](https://github.com/kapicorp/tesoro) | I | Abandoned; |
 | [transcrypt](https://github.com/elasticdog/transcrypt) | L | |
