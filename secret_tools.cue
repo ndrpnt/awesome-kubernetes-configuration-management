@@ -43,12 +43,6 @@ let _secret_tools = [
 	{
 		name: {text: "SOPS", repo: "getsops/sops"}
 		features: ["L"]
-		info: related: [
-			{text: "KSOPS (kustomize KRM exec plugin)", repo: "viaduct-ai/kustomize-sops"},
-			{text: "Helm Sops", repo: "camptocamp/helm-sops"},
-			{text: "SOPS secrets operator", repo: "isindir/sops-secrets-operator"},
-			{text: "SOPS Operator", repo: "craftypath/sops-operator"},
-		]
 	},
 	{
 		name: {text: "Tesoro", repo: "kapicorp/tesoro"}
