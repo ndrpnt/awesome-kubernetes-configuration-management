@@ -2,7 +2,7 @@
 
 This list contains
 215 configuration management tools,
-45 secret management tools,
+48 secret management tools,
 and 5 related tools.
 Contributions are welcome.
 
@@ -246,6 +246,7 @@ may be out of scope for this repository.
 
 | | Features | Notes |
 |-|-|-|
+| [age-vault](https://github.com/leolimasa/age-vault) | L | |
 | [agebox](https://github.com/slok/agebox) | L | |
 | [argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) | I | Inject values from secret managers (11 available) into Kubernetes resources; |
 | [argocd-vault-replacer](https://github.com/crumbhole/argocd-vault-replacer) | | Unreviewed; |
@@ -266,10 +267,12 @@ may be out of scope for this repository.
 | [Infisical Secrets Operator](https://github.com/Infisical/infisical/tree/main/k8-operator) | I | Related: [Infisical](https://github.com/Infisical/infisical); |
 | [Kamus](https://github.com/Soluto/kamus) | IA | |
 | [kamus](https://github.com/soluto/kamus) | | Unreviewed; |
+| [kavo](https://github.com/stefanoverna/kavo) | L | |
 | [Keyringer](https://github.com/quarkslab/keyringer) | L | Abandoned; |
 | [KSOPS](https://github.com/viaduct-ai/kustomize-sops) | L | |
 | [Kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) | I | |
 | [Kustomize secretGeneratorPlugin](https://github.com/kubernetes-sigs/kustomize/blob/ab519fdc13ded9875e42d70ac8a5b1b9023a2dbb/examples/secretGeneratorPlugin.md) | | Unreviewed; |
+| [lockenv](https://github.com/illarion/lockenv) | L | |
 | [Markhor](https://github.com/markhork8s/markhor) | I | |
 | [Murmur](https://github.com/busser/murmur) | A | |
 | [pass](https://www.passwordstore.org) | L | |

@@ -226,6 +226,18 @@ let _secret_tools = [
 		name: {text: "SOPS-Operator", repo: "peak-scale/sops-operator"}
 		features: ["I"]
 	},
+	{
+		name: {text: "lockenv", repo: "illarion/lockenv"}
+		features: ["L"]
+	},
+	{
+		name: {text: "kavo", repo: "stefanoverna/kavo"}
+		features: ["L"]
+	},
+	{
+		name: {text: "age-vault", repo: "leolimasa/age-vault"}
+		features: ["L"]
+	},
 ]
 
 _secret_tools_checks: {
