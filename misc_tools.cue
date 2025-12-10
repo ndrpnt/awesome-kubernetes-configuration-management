@@ -31,6 +31,10 @@ let _misc_tools = [
 		name: {text: "Karmada", repo: "karmada-io/karmada"}
 		info: notes: "Multi-Cloud, Multi-Cluster Kubernetes Orchestration"
 	},
+	{
+		name: {text: "chart-vendor", repo: "vexxhost/chart-vendor"}
+		info: notes: "Vendor Helm charts"
+	},
 ]
 
 _misc_tools_checks: {
