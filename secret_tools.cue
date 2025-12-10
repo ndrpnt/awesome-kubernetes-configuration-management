@@ -238,6 +238,18 @@ let _secret_tools = [
 		name: {text: "age-vault", repo: "leolimasa/age-vault"}
 		features: ["L"]
 	},
+	{
+		name: {text: "ROPS", repo: "gibbz00/rops"}
+		features: ["L"]
+	},
+	{
+		name: {text: "SecretSpec", repo: "cachix/secretspec"}
+		features: ["L", "A"]
+	},
+	{
+		name: {text: "fnox", repo: "jdx/fnox"}
+		features: ["L", "A"]
+	},
 ]
 
 _secret_tools_checks: {

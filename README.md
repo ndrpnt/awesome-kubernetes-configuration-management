@@ -2,7 +2,7 @@
 
 This list contains
 215 configuration management tools,
-48 secret management tools,
+51 secret management tools,
 and 5 related tools.
 Contributions are welcome.
 
@@ -257,6 +257,7 @@ may be out of scope for this repository.
 | [ejson](https://github.com/Shopify/ejson) | L | Related: [ejson2env](https://github.com/Shopify/ejson2env); |
 | [External Secrets](https://github.com/external-secrets/external-secrets) | I | |
 | [external-secret](https://github.com/imranismail/external-secret) | | Unreviewed; |
+| [fnox](https://github.com/jdx/fnox) | LA | |
 | [git-crypt](https://github.com/AGWA/git-crypt) | L | |
 | [git-encrypt](https://github.com/shadowhand/git-encrypt) | L | Abandoned; |
 | [git-secret](https://github.com/sobolevn/git-secret) | L | |
@@ -277,9 +278,11 @@ may be out of scope for this repository.
 | [Murmur](https://github.com/busser/murmur) | A | |
 | [pass](https://www.passwordstore.org) | L | |
 | [Piggy](https://github.com/KongZ/piggy) | A | |
+| [ROPS](https://github.com/gibbz00/rops) | L | |
 | [Rot](https://github.com/candiddev/rot) | L | |
 | [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) | I | |
 | [Secrets Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) | I | Related: [AWS Secrets Manager and Systems Manager Parameter Store provider](https://github.com/aws/secrets-store-csi-driver-provider-aws), [Azure Key Vault provider](https://github.com/Azure/secrets-store-csi-driver-provider-azure), [Google Secret Manager provider](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp), [HashiCorp Vault provider](https://github.com/hashicorp/vault-csi-provider), [CyberArk Conjur provider (WIP)](https://github.com/cyberark/conjur/pull/2836); |
+| [SecretSpec](https://github.com/cachix/secretspec) | LA | |
 | [secure_yaml](https://github.com/huwtl/secure_yaml) | L | Abandoned; |
 | [SOPS](https://github.com/getsops/sops) | L | |
 | [SOPS secrets operator](https://github.com/isindir/sops-secrets-operator) | I | |
