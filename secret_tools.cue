@@ -42,7 +42,7 @@ let _secret_tools = [
 	},
 	{
 		name: {text: "SOPS", repo: "getsops/sops"}
-		features: ["L"]
+		features: ["L", "A"]
 	},
 	{
 		name: {text: "Tesoro", repo: "kapicorp/tesoro"}
