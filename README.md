@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-215 configuration management tools,
+218 configuration management tools,
 51 secret management tools,
 and 6 related tools.
 Contributions are welcome.
@@ -33,6 +33,7 @@ may be out of scope for this repository.
 | [Bazel](https://github.com/bazelbuild/bazel) | DL | Starlark | Related: [rules_gitops](https://github.com/adobe/rules_gitops), [rules_k8s](https://github.com/bazelbuild/rules_k8s); |
 | [Bicep](https://github.com/Azure/bicep) | GDSL | Bicep | Related: [Kubernetes provider](https://github.com/MicrosoftDocs/azure-docs/blob/3d1cfaa248b92e006aa2a3101b958f5a628718a9/articles/azure-resource-manager/bicep/bicep-extensibility-kubernetes-provider.md), [Kubernetes type definitions](https://github.com/Azure/bicep-types-k8s); |
 | [Broadway](https://github.com/namely/broadway) | | | Unreviewed; |
+| [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) | GDSL | TypeScript, Python, Java, C#, Go | See Terraform; |
 | [cdk8s](https://github.com/cdk8s-team/cdk8s) | GSL | TypeScript, Python, Java, Go | Related: [cdk8s+](https://github.com/cdk8s-team/cdk8s-plus); |
 | [Chartify](https://github.com/appscode/chartify) | | | Unreviewed; |
 | [Checkov](https://github.com/bridgecrewio/checkov) | VIL | YAML, Python | |
@@ -184,6 +185,7 @@ may be out of scope for this repository.
 | [OpenCompose](https://github.com/redhat-developer/opencompose) | GL | | Abandoned; |
 | [OpenRewrite](https://github.com/openrewrite/rewrite) | MVL | | |
 | [OpenShift templates](https://docs.openshift.org/latest/dev_guide/templates.html) | | | Unreviewed; |
+| [OpenTofu](https://github.com/opentofu/opentofu) | GDSL | HCL | See Terraform; |
 | [pack](https://github.com/kubepack/pack) | | | Unreviewed; |
 | [PipeCD](https://github.com/pipe-cd/pipecd) | DI | | |
 | [pipeline](https://github.com/tektoncd/pipeline) | | | Unreviewed; |
@@ -225,7 +227,8 @@ may be out of scope for this repository.
 | [Sveltos](https://github.com/projectsveltos/addon-controller) | DI | | |
 | [Tanka](https://github.com/grafana/tanka) | GDSL | Jsonnet | |
 | [Telefonistka](https://github.com/commercetools/telefonistka) | PL | YAML | |
-| [Terraform](https://github.com/hashicorp/terraform) | GDL | HCL | Related: [Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes), [k8s provider](https://github.com/banzaicloud/terraform-provider-k8s), [Kustomize provider](https://github.com/kbst/terraform-provider-kustomize), [Helm provider](https://github.com/terraform-providers/terraform-provider-helm); |
+| [Terraform](https://github.com/hashicorp/terraform) | GDSL | HCL | Related: [Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes), [k8s provider](https://github.com/banzaicloud/terraform-provider-k8s), [Kustomize provider](https://github.com/kbst/terraform-provider-kustomize), [Helm provider](https://github.com/terraform-providers/terraform-provider-helm); |
+| [Terranix](https://github.com/terranix/terranix) | GDSL | Nix | See Terraform; |
 | [Tilt](https://github.com/tilt-dev/tilt) | GMDL | Starlark | |
 | [Timoni](https://github.com/stefanprodan/timoni) | GDSL | CUE | |
 | [Trivy](https://github.com/aquasecurity/trivy) | VIL | | |

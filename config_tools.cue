@@ -207,7 +207,7 @@ let _config_tools = [
 	},
 	{
 		name: {text: "Terraform", repo: "hashicorp/terraform"}
-		features: ["G", "D", "L"]
+		features: ["G", "D", "S", "L"]
 		languages: ["HCL"]
 		info: related: [
 			{text: "Kubernetes provider", repo: "terraform-providers/terraform-provider-kubernetes"},
@@ -1136,6 +1136,24 @@ let _config_tools = [
 		name: {text: "HelmYS", repo: "kubeys/helmys"}
 		features: ["G", "D", "S", "L"]
 		languages: ["YAMLScript"]
+	},
+	{
+		name: {text: "Terranix", repo: "terranix/terranix"}
+		features: ["G", "D", "S", "L"]
+		languages: ["Nix"]
+		info: notes: "See Terraform"
+	},
+	{
+		name: {text: "OpenTofu", repo: "opentofu/opentofu"}
+		features: ["G", "D", "S", "L"]
+		languages: ["HCL"]
+		info: notes: "See Terraform"
+	},
+	{
+		name: {text: "CDK for Terraform", repo: "hashicorp/terraform-cdk"}
+		features: ["G", "D", "S", "L"]
+		languages: ["TypeScript", "Python", "Java", "C#", "Go"]
+		info: notes: "See Terraform"
 	},
 ]
 
