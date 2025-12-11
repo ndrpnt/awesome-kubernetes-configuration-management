@@ -1155,6 +1155,10 @@ let _config_tools = [
 		languages: ["TypeScript", "Python", "Java", "C#", "Go"]
 		info: notes: "See Terraform"
 	},
+	{
+		name: {text: "Yoke", repo: "yokecd/yoke"}
+		features: ["D", "S", "I"]
+	},
 ]
 
 _config_tools_checks: {

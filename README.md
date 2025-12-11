@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-218 configuration management tools,
+219 configuration management tools,
 51 secret management tools,
 and 6 related tools.
 Contributions are welcome.
@@ -238,6 +238,7 @@ may be out of scope for this repository.
 | [ValidKube](https://github.com/komodorio/validkube) | MVL | | |
 | [werf](https://github.com/werf/werf) | GDSL | YAML | |
 | [YAMLScript](https://github.com/yaml/yamlscript) | GL | YAMLScript | |
+| [Yoke](https://github.com/yokecd/yoke) | DSI | | |
 | [ytt](https://github.com/carvel-dev/ytt) | GMVL | YAML, Starlark | |
 | [Zora](https://github.com/undistro/zora) | VI | CEL | |
 
