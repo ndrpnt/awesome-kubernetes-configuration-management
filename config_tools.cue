@@ -1159,6 +1159,11 @@ let _config_tools = [
 		name: {text: "Yoke", repo: "yokecd/yoke"}
 		features: ["D", "S", "I"]
 	},
+	{
+		name: {text: "GitOps Promoter", repo: "argoproj-labs/gitops-promoter"}
+		features: ["P", "I"]
+		info: notes: "Integrates with GitOps tools to promote changes across environments"
+	},
 ]
 
 _config_tools_checks: {

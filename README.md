@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-219 configuration management tools,
+220 configuration management tools,
 51 secret management tools,
 and 6 related tools.
 Contributions are welcome.
@@ -72,6 +72,7 @@ may be out of scope for this repository.
 | [generator-kubegen](https://github.com/sesispla/generator-kubegen) | | | Unreviewed; |
 | [Gimlet](https://github.com/gimlet-io/gimlet) | DI | | Abandoned; |
 | [gitkube](https://github.com/hasura/gitkube) | | | Unreviewed; |
+| [GitOps Promoter](https://github.com/argoproj-labs/gitops-promoter) | PI | | Integrates with GitOps tools to promote changes across environments; |
 | [Glasskube](https://github.com/glasskube/glasskube) | DSI | | |
 | [habitat](https://github.com/habitat-sh/habitat) | | | Unreviewed; |
 | [Helm](https://github.com/helm/helm) | GDSL | Go Template | |
