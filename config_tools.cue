@@ -681,6 +681,7 @@ let _config_tools = [
 		name: {text: "Kargo Render", repo: "akuity/kargo-render"}
 		features: ["G", "L"]
 		languages: ["YAML"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "k8skonf", repo: "konfjs/k8skonf"}

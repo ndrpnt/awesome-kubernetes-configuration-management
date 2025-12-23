@@ -101,7 +101,7 @@ may be out of scope for this repository.
 | [kapp-controller](https://github.com/carvel-dev/kapp-controller) | DI | | |
 | [karavel](https://github.com/gree-gorey/karavel) | | | Unreviewed; |
 | [Kargo](https://github.com/akuity/kargo) | PI | | Integrates with GitOps tools to promote changes across environments; |
-| [Kargo Render](https://github.com/akuity/kargo-render) | GL | YAML | |
+| [Kargo Render](https://github.com/akuity/kargo-render) | GL | YAML | Abandoned; |
 | [Kasane](https://github.com/google/kasane) | ML | YAML, Jsonnet | Abandoned; |
 | [kb8or](https://github.com/UKHomeOffice/kb8or) | GDL | YAML | Abandoned; |
 | [KCL](https://github.com/KusionStack/KCLVM) | GMVSL | KCL | Related: [Run KCL scripts as KRM functions](https://github.com/kcl-lang/krm-kcl); |
