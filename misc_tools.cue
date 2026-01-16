@@ -35,6 +35,10 @@ let _misc_tools = [
 		name: {text: "chart-vendor", repo: "vexxhost/chart-vendor"}
 		info: notes: "Vendor Helm charts"
 	},
+	{
+		name: {text: "Syngit", repo: "syngit-org/syngit"}
+		info: notes: "Webhook that writes resource modifications to a Git repository"
+	},
 ]
 
 _misc_tools_checks: {
