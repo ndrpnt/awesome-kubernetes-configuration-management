@@ -63,6 +63,9 @@ let _config_tools = [
 	{
 		name: {text: "Argo CD", repo: "argoproj/argo-cd"}
 		features: ["D", "I"]
+		info: related: [
+			{text: "Argo CD Diff Preview", repo: "dag-andersen/argocd-diff-preview"},
+		]
 	},
 	{
 		name: {text: "dekorate", repo: "dekorateio/dekorate"}

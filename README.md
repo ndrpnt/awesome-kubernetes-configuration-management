@@ -27,7 +27,7 @@ may be out of scope for this repository.
 | [apollo](https://github.com/logzio/apollo) | | | Unreviewed; |
 | [AppController](https://github.com/Mirantis/k8s-AppController) | DI | | Abandoned; |
 | [Archipa](https://github.com/archipaorg/archipa) | | | Unreviewed; |
-| [Argo CD](https://github.com/argoproj/argo-cd) | DI | | |
+| [Argo CD](https://github.com/argoproj/argo-cd) | DI | | Related: [Argo CD Diff Preview](https://github.com/dag-andersen/argocd-diff-preview); |
 | [armada](https://github.com/att-comdev/armada) | | | Unreviewed; |
 | [autoapply](https://github.com/autoapply/autoapply) | DI | YAML | |
 | [Bazel](https://github.com/bazelbuild/bazel) | DL | Starlark | Related: [rules_gitops](https://github.com/adobe/rules_gitops), [rules_k8s](https://github.com/bazelbuild/rules_k8s); |
