@@ -1165,6 +1165,16 @@ let _config_tools = [
 		features: ["P", "I"]
 		info: notes: "Integrates with GitOps tools to promote changes across environments"
 	},
+	{
+		name: {text: "Nixidy", repo: "arnarg/nixidy"}
+		features: ["G", "M", "V", "L"]
+		languages: ["Nix"]
+		info: related: [
+			{text: "arnarg/n1x", repo: "arnarg/n1x"},
+			{text: "farcaller/nix-kube-generators", repo: "farcaller/nix-kube-generators"},
+			{text: "nix-community/nixhelm", repo: "nix-community/nixhelm"},
+		]
+	},
 ]
 
 _config_tools_checks: {
