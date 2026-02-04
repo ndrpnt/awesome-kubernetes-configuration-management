@@ -3,7 +3,7 @@
 This list contains
 220 configuration management tools,
 51 secret management tools,
-and 7 related tools.
+and 8 related tools.
 Contributions are welcome.
 
 Note that tools marked unreviewed
@@ -313,6 +313,7 @@ may be out of scope for this repository.
 | [Knative Serving](https://github.com/knative/serving) | Set of CRDs used to define serverless workloads; |
 | [koreo](https://github.com/koreo-dev/koreo-core) | Orchestrates multi-step processes that react to events and manage Kubernetes resources; |
 | [kro](https://github.com/kro-run/kro) | Define higher-level Kubernetes resources, composed of a multiple lower-level ones; |
+| [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) | Generate Kubernetes architecture diagrams from a variety of sources; |
 | [Syngit](https://github.com/syngit-org/syngit) | Webhook that writes resource modifications to a Git repository; |
 
 ## Sources

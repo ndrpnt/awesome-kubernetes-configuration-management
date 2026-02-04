@@ -39,6 +39,10 @@ let _misc_tools = [
 		name: {text: "Syngit", repo: "syngit-org/syngit"}
 		info: notes: "Webhook that writes resource modifications to a Git repository"
 	},
+	{
+		name: {text: "KubeDiagrams", repo: "philippemerle/KubeDiagrams"}
+		info: notes: "Generate Kubernetes architecture diagrams from a variety of sources"
+	},
 ]
 
 _misc_tools_checks: {
