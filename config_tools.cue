@@ -133,6 +133,9 @@ let _config_tools = [
 		name: {text: "Helmfile", repo: "helmfile/helmfile"}
 		features: ["D", "L"]
 		languages: ["YAML"]
+		info: related: [
+			{text: "chartify", repo: "helmfile/chartify"},
+		]
 	},
 	{
 		name: {text: "Isopod", repo: "cruise-automation/isopod"}
