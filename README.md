@@ -77,7 +77,7 @@ may be out of scope for this repository.
 | [habitat](https://github.com/habitat-sh/habitat) | | | Unreviewed; |
 | [Helm](https://github.com/helm/helm) | GDSL | Go Template | |
 | [helm-app-operator-kit](https://github.com/operator-framework/helm-app-operator-kit) | | | Unreviewed; |
-| [Helmfile](https://github.com/helmfile/helmfile) | DL | YAML | |
+| [Helmfile](https://github.com/helmfile/helmfile) | DL | YAML | Related: [chartify](https://github.com/helmfile/chartify); |
 | [Helmsman](https://github.com/Praqma/helmsman) | DL | TOML | |
 | [Helmwave](https://github.com/helmwave/helmwave) | DL | YAML | |
 | [HelmYS](https://github.com/kubeys/helmys) | GDSL | YAMLScript | |
