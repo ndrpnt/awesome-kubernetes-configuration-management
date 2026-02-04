@@ -1165,6 +1165,11 @@ let _config_tools = [
 		features: ["P", "I"]
 		info: notes: "Integrates with GitOps tools to promote changes across environments"
 	},
+	{
+		name: {text: "Nixidy", repo: "arnarg/nixidy"}
+		features: ["G", "V", "L"]
+		languages: ["Nix"]
+	},
 ]
 
 _config_tools_checks: {
