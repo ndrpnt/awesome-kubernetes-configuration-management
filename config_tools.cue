@@ -1186,6 +1186,11 @@ let _config_tools = [
 		features: ["G", "M", "V", "L"]
 		languages: ["CUE"]
 	},
+	{
+		name: {text: "kubix", repo: "skystar-p/kubix"}
+		features: ["G", "M", "V", "L"]
+		languages: ["Nix"]
+	},
 ]
 
 _config_tools_checks: {

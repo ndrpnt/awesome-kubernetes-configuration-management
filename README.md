@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-222 configuration management tools,
+223 configuration management tools,
 51 secret management tools,
 and 8 related tools.
 Contributions are welcome.
@@ -159,6 +159,7 @@ may be out of scope for this repository.
 | [KubeVela](https://github.com/kubevela/kubevela) | GDIL | | |
 | [Kubevious](https://github.com/kubevious/kubevious) | VL | DSL | |
 | [Kubewarden](https://github.com/kubewarden/kubewarden-controller) | MVI | any (WebAssembly) | |
+| [kubix](https://github.com/skystar-p/kubix) | GMVL | Nix | |
 | [KuboCD](https://github.com/kubocd/kubocd) | GSIL | | |
 | [kubor](https://github.com/levertonai/kubor) | | | Unreviewed; |
 | [kuby](https://github.com/smartive/kuby) | | | Unreviewed; |
