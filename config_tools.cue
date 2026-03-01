@@ -1181,6 +1181,11 @@ let _config_tools = [
 			{text: "nix-community/nixhelm", repo: "nix-community/nixhelm"},
 		]
 	},
+	{
+		name: {text: "Holos", repo: "holos-run/holos"}
+		features: ["G", "M", "V", "L"]
+		languages: ["CUE"]
+	},
 ]
 
 _config_tools_checks: {
