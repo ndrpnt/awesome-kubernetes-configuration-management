@@ -1166,8 +1166,6 @@ let _config_tools = [
 		languages: ["Nix"]
 		info: related: [
 			{text: "arnarg/n1x", repo: "arnarg/n1x"},
-			{text: "farcaller/nix-kube-generators", repo: "farcaller/nix-kube-generators"},
-			{text: "nix-community/nixhelm", repo: "nix-community/nixhelm"},
 		]
 	},
 	{

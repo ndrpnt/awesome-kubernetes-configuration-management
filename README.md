@@ -3,7 +3,7 @@
 This list contains
 221 configuration management tools,
 51 secret management tools,
-and 10 related tools.
+and 12 related tools.
 Contributions are welcome.
 
 Note that tools marked unreviewed
@@ -182,7 +182,7 @@ may be out of scope for this repository.
 | [NAML](https://github.com/kris-nova/naml) | GDL | Go | |
 | [Nelm](https://github.com/werf/nelm) | GDSL | Go Template | Not yet extracted from werf as a standalone CLI; |
 | [Nickel](https://github.com/tweag/nickel) | GMVL | Nickel | Related: [nickel-kubernetes](https://github.com/tweag/nickel-kubernetes); |
-| [Nixidy](https://github.com/arnarg/nixidy) | GMVL | Nix | Related: [arnarg/n1x](https://github.com/arnarg/n1x), [farcaller/nix-kube-generators](https://github.com/farcaller/nix-kube-generators), [nix-community/nixhelm](https://github.com/nix-community/nixhelm); |
+| [Nixidy](https://github.com/arnarg/nixidy) | GMVL | Nix | Related: [arnarg/n1x](https://github.com/arnarg/n1x); |
 | [Nulecule](https://github.com/projectatomic/nulecule) | | | Unreviewed; |
 | [OpenCompose](https://github.com/redhat-developer/opencompose) | GL | | Abandoned; |
 | [OpenRewrite](https://github.com/openrewrite/rewrite) | MVL | | |
@@ -317,6 +317,8 @@ may be out of scope for this repository.
 | [kro](https://github.com/kro-run/kro) | Define higher-level Kubernetes resources, composed of a multiple lower-level ones; |
 | [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) | Generate Kubernetes architecture diagrams from a variety of sources; |
 | [kubepack/chartify](https://github.com/kubepack/chartify) | Abandoned; Generate Helm charts from Kubernetes manifests; |
+| [nix kube generators](https://github.com/farcaller/nix-kube-generators) | Nix helpers for generating Kubernetes manifests; |
+| [nixhelm](https://github.com/nix-community/nixhelm) | Collection of Helm charts as Nix packages; |
 | [Syngit](https://github.com/syngit-org/syngit) | Webhook that writes resource modifications to a Git repository; |
 
 ## Sources

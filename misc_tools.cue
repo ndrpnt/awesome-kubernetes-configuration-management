@@ -56,6 +56,14 @@ let _misc_tools = [
 			abandoned: true
 		}
 	},
+	{
+		name: {text: "nix kube generators", repo: "farcaller/nix-kube-generators"}
+		info: notes: "Nix helpers for generating Kubernetes manifests"
+	},
+	{
+		name: {text: "nixhelm", repo: "nix-community/nixhelm"}
+		info: notes: "Collection of Helm charts as Nix packages"
+	},
 ]
 
 _misc_tools_checks: {
