@@ -847,7 +847,8 @@ let _config_tools = [
 	},
 	{
 		name: {text: "karavel", repo: "gree-gorey/karavel"}
-		info: reviewed: false
+		features: ["G", "L"]
+		languages: ["Python"]
 	},
 	{
 		name: {text: "lostromos", repo: "lostromos/lostromos"}

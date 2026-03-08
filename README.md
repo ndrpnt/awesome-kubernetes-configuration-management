@@ -90,7 +90,7 @@ may be out of scope for this repository.
 | [Kapitan](https://github.com/kapicorp/kapitan) | GML | YAML, Jsonnet, Jinja2, Python | |
 | [kapp](https://github.com/carvel-dev/kapp) | DL | | |
 | [kapp-controller](https://github.com/carvel-dev/kapp-controller) | DI | | |
-| [karavel](https://github.com/gree-gorey/karavel) | | | Unreviewed; |
+| [karavel](https://github.com/gree-gorey/karavel) | GL | Python | |
 | [Kargo](https://github.com/akuity/kargo) | PI | | Integrates with GitOps tools to promote changes across environments; |
 | [Kargo Render](https://github.com/akuity/kargo-render) | GL | YAML | Abandoned; |
 | [Kasane](https://github.com/google/kasane) | ML | YAML, Jsonnet | Abandoned; |
