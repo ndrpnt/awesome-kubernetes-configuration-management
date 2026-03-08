@@ -821,10 +821,6 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "Broadway", repo: "namely/broadway"}
-		info: reviewed: false
-	},
-	{
 		name: {text: "Koki", repo: "koki/koki"}
 		info: reviewed: false
 	},

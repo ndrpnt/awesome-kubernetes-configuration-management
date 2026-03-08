@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-223 configuration management tools,
+222 configuration management tools,
 51 secret management tools,
 and 8 related tools.
 Contributions are welcome.
@@ -32,7 +32,6 @@ may be out of scope for this repository.
 | [autoapply](https://github.com/autoapply/autoapply) | DI | YAML | |
 | [Bazel](https://github.com/bazelbuild/bazel) | DL | Starlark | Related: [rules_gitops](https://github.com/adobe/rules_gitops), [rules_k8s](https://github.com/bazelbuild/rules_k8s); |
 | [Bicep](https://github.com/Azure/bicep) | GDSL | Bicep | Related: [Kubernetes provider](https://github.com/MicrosoftDocs/azure-docs/blob/3d1cfaa248b92e006aa2a3101b958f5a628718a9/articles/azure-resource-manager/bicep/bicep-extensibility-kubernetes-provider.md), [Kubernetes type definitions](https://github.com/Azure/bicep-types-k8s); |
-| [Broadway](https://github.com/namely/broadway) | | | Unreviewed; |
 | [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) | GDSL | TypeScript, Python, Java, C#, Go | See Terraform; |
 | [cdk8s](https://github.com/cdk8s-team/cdk8s) | GSL | TypeScript, Python, Java, Go | Related: [cdk8s+](https://github.com/cdk8s-team/cdk8s-plus); |
 | [Chartify](https://github.com/appscode/chartify) | | | Unreviewed; |
