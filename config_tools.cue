@@ -967,8 +967,10 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "configula", repo: "brendandburns/configula"}
-		info: reviewed: false
+		name: {text: "Configula", repo: "brendandburns/configula"}
+		features: ["G", "L"]
+		languages: ["DSL", "Python", "YAML"]
+		info: abandoned: true
 	},
 	{
 		name: {text: "skaffold", repo: "GoogleContainerTools/skaffold"}

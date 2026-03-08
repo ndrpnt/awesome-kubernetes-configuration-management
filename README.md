@@ -39,7 +39,7 @@ may be out of scope for this repository.
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
 | [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
 | [config-lint](https://github.com/stelligent/config-lint) | VL | | Abandoned; |
-| [configula](https://github.com/brendandburns/configula) | | | Unreviewed; |
+| [Configula](https://github.com/brendandburns/configula) | GL | DSL, Python, YAML | Abandoned; |
 | [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes); |
 | [Copper](https://github.com/cloud66-oss/copper) | VL | JavaScript | Abandoned; |
 | [Crossplane](https://github.com/crossplane/crossplane) | GDI | | Related: [Ansible provider](https://github.com/crossplane-contrib/provider-ansible), [Argo CD provider](https://github.com/crossplane-contrib/provider-argocd), [Helm provider](https://github.com/crossplane-contrib/provider-helm), [Kubernetes provider](https://github.com/crossplane-contrib/provider-kubernetes), [Terraform provider](https://github.com/upbound/provider-terraform); |
