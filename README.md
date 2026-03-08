@@ -1,9 +1,9 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-222 configuration management tools,
+221 configuration management tools,
 51 secret management tools,
-and 8 related tools.
+and 10 related tools.
 Contributions are welcome.
 
 Note that tools marked unreviewed
@@ -34,7 +34,6 @@ may be out of scope for this repository.
 | [Bicep](https://github.com/Azure/bicep) | GDSL | Bicep | Related: [Kubernetes provider](https://github.com/MicrosoftDocs/azure-docs/blob/3d1cfaa248b92e006aa2a3101b958f5a628718a9/articles/azure-resource-manager/bicep/bicep-extensibility-kubernetes-provider.md), [Kubernetes type definitions](https://github.com/Azure/bicep-types-k8s); |
 | [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) | GDSL | TypeScript, Python, Java, C#, Go | See Terraform; |
 | [cdk8s](https://github.com/cdk8s-team/cdk8s) | GSL | TypeScript, Python, Java, Go | Related: [cdk8s+](https://github.com/cdk8s-team/cdk8s-plus); |
-| [Chartify](https://github.com/appscode/chartify) | | | Unreviewed; |
 | [Checkov](https://github.com/bridgecrewio/checkov) | VIL | YAML, Python | |
 | [clusterlint](https://github.com/digitalocean/clusterlint) | VL | | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
@@ -76,7 +75,7 @@ may be out of scope for this repository.
 | [habitat](https://github.com/habitat-sh/habitat) | | | Unreviewed; |
 | [Helm](https://github.com/helm/helm) | GDSL | Go Template | |
 | [helm-app-operator-kit](https://github.com/operator-framework/helm-app-operator-kit) | | | Unreviewed; |
-| [Helmfile](https://github.com/helmfile/helmfile) | DL | YAML | Related: [chartify](https://github.com/helmfile/chartify); |
+| [Helmfile](https://github.com/helmfile/helmfile) | DL | YAML | |
 | [Helmsman](https://github.com/Praqma/helmsman) | DL | TOML | |
 | [Helmwave](https://github.com/helmwave/helmwave) | DL | YAML | |
 | [HelmYS](https://github.com/kubeys/helmys) | GDSL | YAMLScript | |
@@ -311,11 +310,13 @@ may be out of scope for this repository.
 |-|-|
 | [Argo Rollouts](https://github.com/argoproj/argo-rollouts) | Controller and set of CRDs which provide progressive delivery features; |
 | [chart-vendor](https://github.com/vexxhost/chart-vendor) | Vendor Helm charts; |
+| [helmfile/chartify](https://github.com/helmfile/chartify) | Generate Helm charts from Kubernetes manifests/Kustomization; |
 | [Karmada](https://github.com/karmada-io/karmada) | Multi-Cloud, Multi-Cluster Kubernetes Orchestration; |
 | [Knative Serving](https://github.com/knative/serving) | Set of CRDs used to define serverless workloads; |
 | [koreo](https://github.com/koreo-dev/koreo-core) | Orchestrates multi-step processes that react to events and manage Kubernetes resources; |
 | [kro](https://github.com/kro-run/kro) | Define higher-level Kubernetes resources, composed of a multiple lower-level ones; |
 | [KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) | Generate Kubernetes architecture diagrams from a variety of sources; |
+| [kubepack/chartify](https://github.com/kubepack/chartify) | Abandoned; Generate Helm charts from Kubernetes manifests; |
 | [Syngit](https://github.com/syngit-org/syngit) | Webhook that writes resource modifications to a Git repository; |
 
 ## Sources

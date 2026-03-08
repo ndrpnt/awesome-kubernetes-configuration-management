@@ -43,6 +43,19 @@ let _misc_tools = [
 		name: {text: "KubeDiagrams", repo: "philippemerle/KubeDiagrams"}
 		info: notes: "Generate Kubernetes architecture diagrams from a variety of sources"
 	},
+	{
+		name: {text: "helmfile/chartify", repo: "helmfile/chartify"}
+		info: {
+			notes: "Generate Helm charts from Kubernetes manifests/Kustomization"
+		}
+	},
+	{
+		name: {text: "kubepack/chartify", repo: "kubepack/chartify"}
+		info: {
+			notes:     "Generate Helm charts from Kubernetes manifests"
+			abandoned: true
+		}
+	},
 ]
 
 _misc_tools_checks: {
