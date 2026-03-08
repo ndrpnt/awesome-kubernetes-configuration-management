@@ -697,10 +697,6 @@ let _config_tools = [
 		languages: ["DSL"]
 	},
 	{
-		name: {text: "devtron", repo: "devtron-labs/devtron"}
-		info: reviewed: false
-	},
-	{
 		name: {text: "hull", repo: "vidispine/hull"}
 		info: reviewed: false
 	},
@@ -725,15 +721,7 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "Deis workflow", repo: "deis/workflow"}
-		info: reviewed: false
-	},
-	{
 		name: {text: "Skylark", repo: "google/skylark"}
-		info: reviewed: false
-	},
-	{
-		name: {text: "fabric8 client", repo: "fabric8io/kubernetes-client"}
 		info: reviewed: false
 	},
 	{
@@ -770,10 +758,6 @@ let _config_tools = [
 	},
 	{
 		name: {text: "k8sec", repo: "dtan4/k8sec"}
-		info: reviewed: false
-	},
-	{
-		name: {text: "fabric8-mvn-plugin", repo: "fabric8io/fabric8-maven-plugin"}
 		info: reviewed: false
 	},
 	{
@@ -826,10 +810,6 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "Deploymentizer", repo: "InVisionApp/kit-deploymentizer"}
-		info: reviewed: false
-	},
-	{
 		name: {text: "kdeploy", repo: "flexiant/kdeploy"}
 		info: reviewed: false
 	},
@@ -839,10 +819,6 @@ let _config_tools = [
 	},
 	{
 		name: {text: "Puccini", repo: "tliron/puccini"}
-		info: reviewed: false
-	},
-	{
-		name: {text: "ERB-Hiera", repo: "roobert/erb-hiera"}
 		info: reviewed: false
 	},
 	{
@@ -902,10 +878,6 @@ let _config_tools = [
 		info: reviewed: false
 	},
 	{
-		name: {text: "environment-operator", repo: "pearsontechnology/environment-operator"}
-		info: reviewed: false
-	},
-	{
 		name: {text: "kubor", repo: "levertonai/kubor"}
 		info: reviewed: false
 	},
@@ -960,10 +932,6 @@ let _config_tools = [
 	},
 	{
 		name: {text: "kuby", repo: "smartive/kuby"}
-		info: reviewed: false
-	},
-	{
-		name: {text: "devspace", repo: "devspace-cloud/devspace"}
 		info: reviewed: false
 	},
 	{

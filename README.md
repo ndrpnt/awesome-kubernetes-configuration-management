@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-221 configuration management tools,
+213 configuration management tools,
 51 secret management tools,
 and 12 related tools.
 Contributions are welcome.
@@ -47,18 +47,10 @@ may be out of scope for this repository.
 | [Cuegen](https://github.com/noris-network/cuegen) | GVSL | CUE | |
 | [Cyclops](https://github.com/cyclops-ui/cyclops) | GDI | graphical UI | |
 | [Datree](https://github.com/datreeio/datree) | VIL | JSON schema, Rego | Abandoned; |
-| [Deis workflow](https://github.com/deis/workflow) | | | Unreviewed; |
 | [dekorate](https://github.com/dekorateio/dekorate) | GL | Java | |
-| [Deploymentizer](https://github.com/InVisionApp/kit-deploymentizer) | | | Unreviewed; |
-| [devspace](https://github.com/devspace-cloud/devspace) | | | Unreviewed; |
-| [devtron](https://github.com/devtron-labs/devtron) | | | Unreviewed; |
 | [Dhall](https://github.com/dhall-lang/dhall-lang) | GSL | Dhall | Related: [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes); |
 | [Draft](https://github.com/Azure/draft) | | | Unreviewed; |
 | [dxcfg](https://github.com/dxcfg/dxcfg) | GL | JavaScript, TypeScript | Abandoned; |
-| [environment-operator](https://github.com/pearsontechnology/environment-operator) | | | Unreviewed; |
-| [ERB-Hiera](https://github.com/roobert/erb-hiera) | | | Unreviewed; |
-| [fabric8 client](https://github.com/fabric8io/kubernetes-client) | | | Unreviewed; |
-| [fabric8-mvn-plugin](https://github.com/fabric8io/fabric8-maven-plugin) | | | Unreviewed; |
 | [fabrikate](https://github.com/Microsoft/fabrikate) | | | Unreviewed; |
 | [flagger](https://github.com/weaveworks/flagger) | | | Unreviewed; |
 | [flekszible](https://github.com/elek/flekszible) | | | Unreviewed; |
