@@ -1149,6 +1149,11 @@ let _config_tools = [
 		features: ["G", "M", "V", "L"]
 		languages: ["Nix"]
 	},
+	{
+		name: {text: "Open Platform Model (OPM)", repo: "open-platform-model/opm"}
+		features: ["G", "V", "S", "L"]
+		languages: ["CUE"]
+	},
 ]
 
 _config_tools_checks: {

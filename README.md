@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-213 configuration management tools,
+214 configuration management tools,
 51 secret management tools,
 and 12 related tools.
 Contributions are welcome.
@@ -176,6 +176,7 @@ may be out of scope for this repository.
 | [Nickel](https://github.com/tweag/nickel) | GMVL | Nickel | Related: [nickel-kubernetes](https://github.com/tweag/nickel-kubernetes); |
 | [Nixidy](https://github.com/arnarg/nixidy) | GMVL | Nix | Related: [arnarg/n1x](https://github.com/arnarg/n1x); |
 | [Nulecule](https://github.com/projectatomic/nulecule) | | | Unreviewed; |
+| [Open Platform Model (OPM)](https://github.com/open-platform-model/opm) | GVSL | CUE | |
 | [OpenCompose](https://github.com/redhat-developer/opencompose) | GL | | Abandoned; |
 | [OpenRewrite](https://github.com/openrewrite/rewrite) | MVL | | |
 | [OpenShift templates](https://docs.openshift.org/latest/dev_guide/templates.html) | | | Unreviewed; |
