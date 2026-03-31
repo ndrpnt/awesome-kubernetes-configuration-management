@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-214 configuration management tools,
+215 configuration management tools,
 51 secret management tools,
 and 12 related tools.
 Contributions are welcome.
@@ -136,6 +136,7 @@ may be out of scope for this repository.
 | [Kubeconform](https://github.com/yannh/kubeconform) | VL | | |
 | [kubectl](https://github.com/kubernetes/kubectl) | GVDL | | |
 | [kubectl-neat](https://github.com/itaysk/kubectl-neat) | ML | | |
+| [kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate) | VL | | |
 | [kubed](https://github.com/appscode/kubed) | | | Unreviewed; |
 | [kubegen](https://github.com/errordeveloper/kubegen) | GL | YAML, JSON, HCL | Abandoned; |
 | [Kubehiera](https://gitlab.com/msvechla/kubehiera) | | | Unreviewed; |

@@ -1154,6 +1154,10 @@ let _config_tools = [
 		features: ["G", "V", "S", "L"]
 		languages: ["CUE"]
 	},
+	{
+		name: {text: "kubectl-validate", repo: "kubernetes-sigs/kubectl-validate"}
+		features: ["V", "L"]
+	},
 ]
 
 _config_tools_checks: {
