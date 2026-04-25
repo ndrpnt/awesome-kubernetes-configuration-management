@@ -250,6 +250,10 @@ let _secret_tools = [
 		name: {text: "fnox", repo: "jdx/fnox"}
 		features: ["L", "A"]
 	},
+	{
+		name: {text: "Kloak", repo: "spinningfactory/kloak"}
+		features: ["A"]
+	},
 ]
 
 _secret_tools_checks: {
