@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-215 configuration management tools,
+216 configuration management tools,
 52 secret management tools,
 and 12 related tools.
 Contributions are welcome.
@@ -73,6 +73,7 @@ may be out of scope for this repository.
 | [HelmYS](https://github.com/kubeys/helmys) | GDSL | YAMLScript | |
 | [Holos](https://github.com/holos-run/holos) | GMVL | CUE | |
 | [hull](https://github.com/vidispine/hull) | | | Unreviewed; |
+| [installer](https://github.com/confighub/installer) | GDSL | | |
 | [Isopod](https://github.com/cruise-automation/isopod) | GVDL | Starlark | Abandoned; |
 | [jk](https://github.com/jkcfg/jk) | GL | JavaScript, TypeScript | Abandoned; Related: [kubernetes module](https://github.com/jkcfg/kubernetes); |
 | [Jsonnet](https://github.com/google/jsonnet) | GML | Jsonnet | Related: [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet), [k8s-gen](https://github.com/jsonnet-libs/k8s), [k8s-libsonnet](https://github.com/jsonnet-libs/k8s-libsonnet); |

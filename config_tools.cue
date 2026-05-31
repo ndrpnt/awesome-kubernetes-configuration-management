@@ -1158,6 +1158,10 @@ let _config_tools = [
 		name: {text: "kubectl-validate", repo: "kubernetes-sigs/kubectl-validate"}
 		features: ["V", "L"]
 	},
+	{
+		name: {text: "installer", repo: "confighub/installer"}
+		features: ["G", "D", "S", "L"]
+	},
 ]
 
 _config_tools_checks: {
