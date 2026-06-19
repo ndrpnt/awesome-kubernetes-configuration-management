@@ -88,7 +88,7 @@ may be out of scope for this repository.
 | [k8skonf](https://github.com/konfjs/k8skonf) | GSL | TypeScript | |
 | [k8spkg](https://github.com/mgoltzsche/k8spkg) | MDL | | Abandoned; |
 | [kadet](https://github.com/kapicorp/kadet) | GL | Python | |
-| [Kapitan](https://github.com/kapicorp/kapitan) | GML | YAML, Jsonnet, Jinja2, Python | |
+| [Kapitan](https://github.com/kapicorp/kapitan) | GML | YAML, Jsonnet, Jinja2, Python, CUE | |
 | [kapp](https://github.com/carvel-dev/kapp) | DL | | |
 | [kapp-controller](https://github.com/carvel-dev/kapp-controller) | DI | | |
 | [karavel](https://github.com/gree-gorey/karavel) | GL | Python | |

@@ -162,7 +162,7 @@ let _config_tools = [
 	{
 		name: {text: "Kapitan", repo: "kapicorp/kapitan"}
 		features: ["G", "M", "L"]
-		languages: ["YAML", "Jsonnet", "Jinja2", "Python"]
+		languages: ["YAML", "Jsonnet", "Jinja2", "Python", "CUE"]
 	},
 	{
 		name: {text: "kadet", repo: "kapicorp/kadet"}
