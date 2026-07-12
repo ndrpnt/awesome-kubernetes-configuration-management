@@ -1162,6 +1162,10 @@ let _config_tools = [
 		name: {text: "installer", repo: "confighub/installer"}
 		features: ["G", "D", "S", "L"]
 	},
+	{
+		name: {text: "Porch", repo: "kptdev/porch"}
+		features: ["S", "I"]
+	},
 ]
 
 _config_tools_checks: {
