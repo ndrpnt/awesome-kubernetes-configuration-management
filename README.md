@@ -37,7 +37,7 @@ may be out of scope for this repository.
 | [Checkov](https://github.com/bridgecrewio/checkov) | VIL | YAML, Python | |
 | [clusterlint](https://github.com/digitalocean/clusterlint) | VL | | |
 | [compose2kube](https://github.com/kelseyhightower/compose2kube) | GL | YAML | Abandoned; |
-| [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync) | DI | | |
+| [Config Sync](https://github.com/GoogleContainerTools/config-sync) | DI | | |
 | [config-lint](https://github.com/stelligent/config-lint) | VL | | Abandoned; |
 | [Configula](https://github.com/brendandburns/configula) | GL | DSL, Python, YAML | Abandoned; |
 | [Conftest](https://github.com/open-policy-agent/conftest) | VL | Rego | Related: [Kubernetes policies](https://github.com/instrumenta/policies/tree/9eafe392bbec10f34d0b46fafd16b3e919aae271/kubernetes); |
@@ -119,7 +119,7 @@ may be out of scope for this repository.
 | [KOTS](https://github.com/replicatedhq/kots) | DSIL | | |
 | [kploy](https://github.com/kubernauts/kploy) | | | Unreviewed; |
 | [KPM](https://github.com/coreos/kpm) | | | Unreviewed; |
-| [kpt](https://github.com/GoogleContainerTools/kpt) | GMVDSL | YAML, Go, Typescript, Starlark, any (w/o SDK) | |
+| [kpt](https://github.com/kptdev/kpt) | GMVDSL | YAML, Go, Typescript, Starlark, any (w/o SDK) | |
 | [kr8](https://github.com/apptio/kr8) | GL | Jsonnet | |
 | [kraan](https://github.com/fidelity/kraan) | DI | | |
 | [krane](https://github.com/Shopify/krane) | GDL | ERB (Ruby templating) | |

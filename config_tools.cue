@@ -96,7 +96,7 @@ let _config_tools = [
 		info: abandoned: true
 	},
 	{
-		name: {text: "Config Sync", repo: "GoogleContainerTools/kpt-config-sync"}
+		name: {text: "Config Sync", repo: "GoogleContainerTools/config-sync"}
 		features: ["D", "I"]
 	},
 	{
@@ -190,7 +190,7 @@ let _config_tools = [
 		info: abandoned: true
 	},
 	{
-		name: {text: "kpt", repo: "GoogleContainerTools/kpt"}
+		name: {text: "kpt", repo: "kptdev/kpt"}
 		features: ["G", "M", "V", "D", "S", "L"]
 		languages: ["YAML", "Go", "Typescript", "Starlark", "any (w/o SDK)"]
 	},
