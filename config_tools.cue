@@ -163,6 +163,9 @@ let _config_tools = [
 		name: {text: "Kapitan", repo: "kapicorp/kapitan"}
 		features: ["G", "M", "L"]
 		languages: ["YAML", "Jsonnet", "Jinja2", "Python", "CUE"]
+		info: related: [
+			{text: "kadet-hub", url: "https://kadet-hub.org"},
+		]
 	},
 	{
 		name: {text: "kadet", repo: "kapicorp/kadet"}
