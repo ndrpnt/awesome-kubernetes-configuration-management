@@ -1178,6 +1178,10 @@ let _config_tools = [
 		languages: ["CUE"]
 		info: abandoned: true
 	},
+	{
+		name: {text: "Flux Schema", repo: "fluxcd/flux-schema"}
+		features: ["V", "L"]
+	},
 ]
 
 _config_tools_checks: {

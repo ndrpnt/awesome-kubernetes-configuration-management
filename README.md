@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-219 configuration management tools,
+220 configuration management tools,
 52 secret management tools,
 and 12 related tools.
 Contributions are welcome.
@@ -54,6 +54,7 @@ may be out of scope for this repository.
 | [fabrikate](https://github.com/Microsoft/fabrikate) | | | Unreviewed; |
 | [flagger](https://github.com/weaveworks/flagger) | | | Unreviewed; |
 | [flekszible](https://github.com/elek/flekszible) | | | Unreviewed; |
+| [Flux Schema](https://github.com/fluxcd/flux-schema) | VL | | |
 | [Flux v1](https://github.com/fluxcd/flux) | DI | | Abandoned; |
 | [Flux v2](https://github.com/fluxcd/flux2) | DI | | Related: [Weave GitOps](https://github.com/weaveworks/weave-gitops); |
 | [foremast](https://github.com/intuit/foremast) | | | Unreviewed; |
