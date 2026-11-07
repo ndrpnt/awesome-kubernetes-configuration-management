@@ -1,7 +1,7 @@
 # Awesome Kubernetes Configuration Management
 
 This list contains
-217 configuration management tools,
+219 configuration management tools,
 52 secret management tools,
 and 12 related tools.
 Contributions are welcome.
@@ -143,6 +143,7 @@ may be out of scope for this repository.
 | [Kubehiera](https://gitlab.com/msvechla/kubehiera) | | | Unreviewed; |
 | [KubeLinter](https://github.com/stackrox/kube-linter) | VL | YAML | |
 | [kubenix](https://github.com/hall/kubenix) | GL | Nix | Related: [GTrunSec/kubenix](https://github.com/GTrunSec/kubenix), [blaggacao/kubenix](https://github.com/blaggacao/kubenix), [xtruder/kubenix](https://github.com/xtruder/kubenix); |
+| [kuber](https://github.com/sernst/kuber) | GMVDL | Python | Abandoned; |
 | [kuberig](https://github.com/teyckmans/kuberig) | | | Unreviewed; |
 | [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) | | | Unreviewed; |
 | [Kubes](https://github.com/boltops-tools/kubes) | GDL | DSL | |
@@ -155,6 +156,7 @@ may be out of scope for this repository.
 | [KuboCD](https://github.com/kubocd/kubocd) | GSIL | | |
 | [kubor](https://github.com/levertonai/kubor) | | | Unreviewed; |
 | [kuby](https://github.com/smartive/kuby) | | | Unreviewed; |
+| [kuegen](https://github.com/errordeveloper/kuegen) | GL | CUE | Abandoned; |
 | [kuku](https://github.com/xarg/kuku) | | | Unreviewed; |
 | [Kusion](https://github.com/KusionStack/kusion) | GVDL | KCL | |
 | [kustomize](https://github.com/kubernetes-sigs/kustomize) | ML | YAML | |

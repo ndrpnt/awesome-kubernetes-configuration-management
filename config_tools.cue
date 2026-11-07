@@ -1166,6 +1166,18 @@ let _config_tools = [
 		name: {text: "Porch", repo: "kptdev/porch"}
 		features: ["S", "I"]
 	},
+	{
+		name: {text: "kuber", repo: "sernst/kuber"}
+		features: ["G", "M", "V", "D", "L"]
+		languages: ["Python"]
+		info: abandoned: true
+	},
+	{
+		name: {text: "kuegen", repo: "errordeveloper/kuegen"}
+		features: ["G", "L"]
+		languages: ["CUE"]
+		info: abandoned: true
+	},
 ]
 
 _config_tools_checks: {
